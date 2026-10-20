@@ -4972,13 +4972,13 @@ a1-1013,persian,اقامت داشتن,past_progressive,-,-,-,-,-,-
 a1-1013,persian,اقامت داشتن,present_perfect,اقامت داشته‌ام,اقامت داشته‌ای,اقامت داشته است,اقامت داشته‌ایم,اقامت داشته‌اید,اقامت داشته‌اند
 a1-1013,persian,اقامت داشتن,past_perfect,اقامت داشته بودم,اقامت داشته بودی,اقامت داشته بود,اقامت داشته بودیم,اقامت داشته بودید,اقامت داشته بودند
 a1-1013,persian,اقامت داشتن,future,اقامت خواهم داشت,اقامت خواهی داشت,اقامت خواهد داشت,اقامت خواهیم داشت,اقامت خواهید داشت,اقامت خواهند داشت
-a1-1021,english,ride,present,ride,ride,rides,ride,ride,ride
-a1-1021,english,ride,present_progressive,am riding,are riding,is riding,are riding,are riding,are riding
-a1-1021,english,ride,simple_past,rode,rode,rode,rode,rode,rode
-a1-1021,english,ride,past_progressive,was riding,were riding,was riding,were riding,were riding,were riding
-a1-1021,english,ride,present_perfect,have ridden,have ridden,has ridden,have ridden,have ridden,have ridden
-a1-1021,english,ride,past_perfect,had ridden,had ridden,had ridden,had ridden,had ridden,had ridden
-a1-1021,english,ride,future,will ride,will ride,will ride,will ride,will ride,will ride
+a1-1021,english,ride a horse,present,ride a horse,ride a horse,rides a horse,ride a horse,ride a horse,ride a horse
+a1-1021,english,ride a horse,present_progressive,am riding a horse,are riding a horse,is riding a horse,are riding a horse,are riding a horse,are riding a horse
+a1-1021,english,ride a horse,simple_past,rode a horse,rode a horse,rode a horse,rode a horse,rode a horse,rode a horse
+a1-1021,english,ride a horse,past_progressive,was riding a horse,were riding a horse,was riding a horse,were riding a horse,were riding a horse,were riding a horse
+a1-1021,english,ride a horse,present_perfect,have ridden a horse,have ridden a horse,has ridden a horse,have ridden a horse,have ridden a horse,have ridden a horse
+a1-1021,english,ride a horse,past_perfect,had ridden a horse,had ridden a horse,had ridden a horse,had ridden a horse,had ridden a horse,had ridden a horse
+a1-1021,english,ride a horse,future,will ride a horse,will ride a horse,will ride a horse,will ride a horse,will ride a horse,will ride a horse
 a1-1021,german,reiten,present,reite,reitest,reitet,reiten,reitet,reiten
 a1-1021,german,reiten,simple_past,ritt,rittest,ritt,ritten,rittet,ritten
 a1-1021,german,reiten,present_perfect,bin geritten,bist geritten,ist geritten,sind geritten,seid geritten,sind geritten
@@ -6396,11 +6396,11 @@ a1-1258,english,be born,past_progressive,-,-,-,-,-,-
 a1-1258,english,be born,present_perfect,have been born,have been born,has been born,have been born,have been born,have been born
 a1-1258,english,be born,past_perfect,had been born,had been born,had been born,had been born,had been born,had been born
 a1-1258,english,be born,future,will be born,will be born,will be born,will be born,will be born,will be born
-a1-1258,german,geboren sein,present,bin geboren,bist geboren,ist geboren,sind geboren,seid geboren,sind geboren
-a1-1258,german,geboren sein,simple_past,war geboren,warst geboren,war geboren,waren geboren,wart geboren,waren geboren
-a1-1258,german,geboren sein,present_perfect,bin geboren gewesen,bist geboren gewesen,ist geboren gewesen,sind geboren gewesen,seid geboren gewesen,sind geboren gewesen
-a1-1258,german,geboren sein,past_perfect,war geboren gewesen,warst geboren gewesen,war geboren gewesen,waren geboren gewesen,wart geboren gewesen,waren geboren gewesen
-a1-1258,german,geboren sein,future,werde geboren sein,wirst geboren sein,wird geboren sein,werden geboren sein,werdet geboren sein,werden geboren sein
+a1-1258,german,geboren werden,present,werde geboren,wirst geboren,wird geboren,werden geboren,werdet geboren,werden geboren
+a1-1258,german,geboren werden,simple_past,wurde geboren,wurdest geboren,wurde geboren,wurden geboren,wurdet geboren,wurden geboren
+a1-1258,german,geboren werden,present_perfect,bin geboren worden,bist geboren worden,ist geboren worden,sind geboren worden,seid geboren worden,sind geboren worden
+a1-1258,german,geboren werden,past_perfect,war geboren worden,warst geboren worden,war geboren worden,waren geboren worden,wart geboren worden,waren geboren worden
+a1-1258,german,geboren werden,future,werde geboren werden,wirst geboren werden,wird geboren werden,werden geboren werden,werdet geboren werden,werden geboren werden
 a1-1258,dutch,geboren worden,present,word geboren,wordt geboren,wordt geboren,worden geboren,worden geboren,worden geboren
 a1-1258,dutch,geboren worden,present_progressive,-,-,-,-,-,-
 a1-1258,dutch,geboren worden,simple_past,werd geboren,werd geboren,werd geboren,werden geboren,werden geboren,werden geboren
@@ -9040,8 +9040,8 @@ a2-0369,dutch,aangaan,present,ga aan,gaat aan,gaat aan,gaan aan,gaan aan,gaan aa
 a2-0369,dutch,aangaan,present_progressive,-,-,-,-,-,-
 a2-0369,dutch,aangaan,simple_past,ging aan,ging aan,ging aan,gingen aan,gingen aan,gingen aan
 a2-0369,dutch,aangaan,past_progressive,-,-,-,-,-,-
-a2-0369,dutch,aangaan,present_perfect,heb aangegaan,hebt aangegaan,heeft aangegaan,hebben aangegaan,hebben aangegaan,hebben aangegaan
-a2-0369,dutch,aangaan,past_perfect,had aangegaan,had aangegaan,had aangegaan,hadden aangegaan,hadden aangegaan,hadden aangegaan
+a2-0369,dutch,aangaan,present_perfect,ben aangegaan,bent aangegaan,is aangegaan,zijn aangegaan,zijn aangegaan,zijn aangegaan
+a2-0369,dutch,aangaan,past_perfect,was aangegaan,was aangegaan,was aangegaan,waren aangegaan,waren aangegaan,waren aangegaan
 a2-0369,dutch,aangaan,future,zal aangaan,zult aangaan,zal aangaan,zullen aangaan,zullen aangaan,zullen aangaan
 a2-0369,persian,ربط داشتن,present,ربط دارم,ربط داری,ربط دارد,ربط داریم,ربط دارید,ربط دارند
 a2-0369,persian,ربط داشتن,present_progressive,-,-,-,-,-,-
@@ -15258,6 +15258,14 @@ a2-1565,persian,هزینه کردن,past_progressive,داشتم هزینه می�
 a2-1565,persian,هزینه کردن,present_perfect,هزینه کرده‌ام,هزینه کرده‌ای,هزینه کرده است,هزینه کرده‌ایم,هزینه کرده‌اید,هزینه کرده‌اند
 a2-1565,persian,هزینه کردن,past_perfect,هزینه کرده بودم,هزینه کرده بودی,هزینه کرده بود,هزینه کرده بودیم,هزینه کرده بودید,هزینه کرده بودند
 a2-1565,persian,هزینه کردن,future,هزینه خواهم کرد,هزینه خواهی کرد,هزینه خواهد کرد,هزینه خواهیم کرد,هزینه خواهید کرد,هزینه خواهند کرد
+a2-1587,persian,در رختخواب ماندن,present,در رختخواب می‌مانم,در رختخواب می‌مانی,در رختخواب می‌ماند,در رختخواب می‌مانیم,در رختخواب می‌مانید,در رختخواب می‌مانند
+a2-1587,persian,در رختخواب ماندن,present_progressive,دارم در رختخواب می‌مانم,داری در رختخواب می‌مانی,دارد در رختخواب می‌ماند,داریم در رختخواب می‌مانیم,دارید در رختخواب می‌مانید,دارند در رختخواب می‌مانند
+a2-1587,persian,در رختخواب ماندن,simple_past,در رختخواب ماندم,در رختخواب ماندی,در رختخواب ماند,در رختخواب ماندیم,در رختخواب ماندید,در رختخواب ماندند
+a2-1587,persian,در رختخواب ماندن,past_imperfect,در رختخواب می‌ماندم,در رختخواب می‌ماندی,در رختخواب می‌ماند,در رختخواب می‌ماندیم,در رختخواب می‌ماندید,در رختخواب می‌ماندند
+a2-1587,persian,در رختخواب ماندن,past_progressive,داشتم در رختخواب می‌ماندم,داشتی در رختخواب می‌ماندی,داشت در رختخواب می‌ماند,داشتیم در رختخواب می‌ماندیم,داشتید در رختخواب می‌ماندید,داشتند در رختخواب می‌ماندند
+a2-1587,persian,در رختخواب ماندن,present_perfect,در رختخواب مانده‌ام,در رختخواب مانده‌ای,در رختخواب مانده است,در رختخواب مانده‌ایم,در رختخواب مانده‌اید,در رختخواب مانده‌اند
+a2-1587,persian,در رختخواب ماندن,past_perfect,در رختخواب مانده بودم,در رختخواب مانده بودی,در رختخواب مانده بود,در رختخواب مانده بودیم,در رختخواب مانده بودید,در رختخواب مانده بودند
+a2-1587,persian,در رختخواب ماندن,future,در رختخواب خواهم ماند,در رختخواب خواهی ماند,در رختخواب خواهد ماند,در رختخواب خواهیم ماند,در رختخواب خواهید ماند,در رختخواب خواهند ماند
 a2-1588,english,stay overnight,present,stay overnight,stay overnight,stays overnight,stay overnight,stay overnight,stay overnight
 a2-1588,english,stay overnight,present_progressive,am staying overnight,are staying overnight,is staying overnight,are staying overnight,are staying overnight,are staying overnight
 a2-1588,english,stay overnight,simple_past,stayed overnight,stayed overnight,stayed overnight,stayed overnight,stayed overnight,stayed overnight
@@ -15432,13 +15440,13 @@ a2-1638,german,fördern,simple_past,förderte,fördertest,förderte,förderten,f
 a2-1638,german,fördern,present_perfect,habe gefördert,hast gefördert,hat gefördert,haben gefördert,habt gefördert,haben gefördert
 a2-1638,german,fördern,past_perfect,hatte gefördert,hattest gefördert,hatte gefördert,hatten gefördert,hattet gefördert,hatten gefördert
 a2-1638,german,fördern,future,werde fördern,wirst fördern,wird fördern,werden fördern,werdet fördern,werden fördern
-a2-1638,dutch,bevorderen,present,bevorder,bevordert,bevordert,bevorderen,bevorderen,bevorderen
-a2-1638,dutch,bevorderen,present_progressive,ben aan het bevorderen,bent aan het bevorderen,is aan het bevorderen,zijn aan het bevorderen,zijn aan het bevorderen,zijn aan het bevorderen
-a2-1638,dutch,bevorderen,simple_past,bevorderde,bevorderde,bevorderde,bevorderden,bevorderden,bevorderden
-a2-1638,dutch,bevorderen,past_progressive,was aan het bevorderen,was aan het bevorderen,was aan het bevorderen,waren aan het bevorderen,waren aan het bevorderen,waren aan het bevorderen
-a2-1638,dutch,bevorderen,present_perfect,heb bevorderd,hebt bevorderd,heeft bevorderd,hebben bevorderd,hebben bevorderd,hebben bevorderd
-a2-1638,dutch,bevorderen,past_perfect,had bevorderd,had bevorderd,had bevorderd,hadden bevorderd,hadden bevorderd,hadden bevorderd
-a2-1638,dutch,bevorderen,future,zal bevorderen,zult bevorderen,zal bevorderen,zullen bevorderen,zullen bevorderen,zullen bevorderen
+a2-1638,dutch,ondersteunen,present,ondersteun,ondersteunt,ondersteunt,ondersteunen,ondersteunen,ondersteunen
+a2-1638,dutch,ondersteunen,present_progressive,ben aan het ondersteunen,bent aan het ondersteunen,is aan het ondersteunen,zijn aan het ondersteunen,zijn aan het ondersteunen,zijn aan het ondersteunen
+a2-1638,dutch,ondersteunen,simple_past,ondersteunde,ondersteunde,ondersteunde,ondersteunden,ondersteunden,ondersteunden
+a2-1638,dutch,ondersteunen,past_progressive,was aan het ondersteunen,was aan het ondersteunen,was aan het ondersteunen,waren aan het ondersteunen,waren aan het ondersteunen,waren aan het ondersteunen
+a2-1638,dutch,ondersteunen,present_perfect,heb ondersteund,hebt ondersteund,heeft ondersteund,hebben ondersteund,hebben ondersteund,hebben ondersteund
+a2-1638,dutch,ondersteunen,past_perfect,had ondersteund,had ondersteund,had ondersteund,hadden ondersteund,hadden ondersteund,hadden ondersteund
+a2-1638,dutch,ondersteunen,future,zal ondersteunen,zult ondersteunen,zal ondersteunen,zullen ondersteunen,zullen ondersteunen,zullen ondersteunen
 a2-1638,persian,پشتیبانی کردن,present,پشتیبانی می‌کنم,پشتیبانی می‌کنی,پشتیبانی می‌کند,پشتیبانی می‌کنیم,پشتیبانی می‌کنید,پشتیبانی می‌کنند
 a2-1638,persian,پشتیبانی کردن,present_progressive,دارم پشتیبانی می‌کنم,داری پشتیبانی می‌کنی,دارد پشتیبانی می‌کند,داریم پشتیبانی می‌کنیم,دارید پشتیبانی می‌کنید,دارند پشتیبانی می‌کنند
 a2-1638,persian,پشتیبانی کردن,simple_past,پشتیبانی کردم,پشتیبانی کردی,پشتیبانی کرد,پشتیبانی کردیم,پشتیبانی کردید,پشتیبانی کردند
@@ -15535,6 +15543,18 @@ a2-1649,english,take a photo,past_progressive,was taking a photo,were taking a p
 a2-1649,english,take a photo,present_perfect,have taken a photo,have taken a photo,has taken a photo,have taken a photo,have taken a photo,have taken a photo
 a2-1649,english,take a photo,past_perfect,had taken a photo,had taken a photo,had taken a photo,had taken a photo,had taken a photo,had taken a photo
 a2-1649,english,take a photo,future,will take a photo,will take a photo,will take a photo,will take a photo,will take a photo,will take a photo
+a2-1649,german,ein Foto machen,present,mache ein Foto,machst ein Foto,macht ein Foto,machen ein Foto,macht ein Foto,machen ein Foto
+a2-1649,german,ein Foto machen,simple_past,machte ein Foto,machtest ein Foto,machte ein Foto,machten ein Foto,machtet ein Foto,machten ein Foto
+a2-1649,german,ein Foto machen,present_perfect,habe ein Foto gemacht,hast ein Foto gemacht,hat ein Foto gemacht,haben ein Foto gemacht,habt ein Foto gemacht,haben ein Foto gemacht
+a2-1649,german,ein Foto machen,past_perfect,hatte ein Foto gemacht,hattest ein Foto gemacht,hatte ein Foto gemacht,hatten ein Foto gemacht,hattet ein Foto gemacht,hatten ein Foto gemacht
+a2-1649,german,ein Foto machen,future,werde ein Foto machen,wirst ein Foto machen,wird ein Foto machen,werden ein Foto machen,werdet ein Foto machen,werden ein Foto machen
+a2-1649,dutch,een foto maken,present,maak een foto,maakt een foto,maakt een foto,maken een foto,maken een foto,maken een foto
+a2-1649,dutch,een foto maken,present_progressive,ben een foto aan het maken,bent een foto aan het maken,is een foto aan het maken,zijn een foto aan het maken,zijn een foto aan het maken,zijn een foto aan het maken
+a2-1649,dutch,een foto maken,simple_past,maakte een foto,maakte een foto,maakte een foto,maakten een foto,maakten een foto,maakten een foto
+a2-1649,dutch,een foto maken,past_progressive,was een foto aan het maken,was een foto aan het maken,was een foto aan het maken,waren een foto aan het maken,waren een foto aan het maken,waren een foto aan het maken
+a2-1649,dutch,een foto maken,present_perfect,heb een foto gemaakt,hebt een foto gemaakt,heeft een foto gemaakt,hebben een foto gemaakt,hebben een foto gemaakt,hebben een foto gemaakt
+a2-1649,dutch,een foto maken,past_perfect,had een foto gemaakt,had een foto gemaakt,had een foto gemaakt,hadden een foto gemaakt,hadden een foto gemaakt,hadden een foto gemaakt
+a2-1649,dutch,een foto maken,future,zal een foto maken,zult een foto maken,zal een foto maken,zullen een foto maken,zullen een foto maken,zullen een foto maken
 a2-1649,persian,عکس گرفتن,present,عکس می‌گیرم,عکس می‌گیری,عکس می‌گیرد,عکس می‌گیریم,عکس می‌گیرید,عکس می‌گیرند
 a2-1649,persian,عکس گرفتن,present_progressive,دارم عکس می‌گیرم,داری عکس می‌گیری,دارد عکس می‌گیرد,داریم عکس می‌گیریم,دارید عکس می‌گیرید,دارند عکس می‌گیرند
 a2-1649,persian,عکس گرفتن,simple_past,عکس گرفتم,عکس گرفتی,عکس گرفت,عکس گرفتیم,عکس گرفتید,عکس گرفتند
@@ -15578,6 +15598,13 @@ a2-1653,persian,مراقب بودن,past_progressive,-,-,-,-,-,-
 a2-1653,persian,مراقب بودن,present_perfect,مراقب بوده‌ام,مراقب بوده‌ای,مراقب بوده است,مراقب بوده‌ایم,مراقب بوده‌اید,مراقب بوده‌اند
 a2-1653,persian,مراقب بودن,past_perfect,مراقب بوده بودم,مراقب بوده بودی,مراقب بوده بود,مراقب بوده بودیم,مراقب بوده بودید,مراقب بوده بودند
 a2-1653,persian,مراقب بودن,future,مراقب خواهم بود,مراقب خواهی بود,مراقب خواهد بود,مراقب خواهیم بود,مراقب خواهید بود,مراقب خواهند بود
+a2-1655,english,take care of,present,take care of,take care of,takes care of,take care of,take care of,take care of
+a2-1655,english,take care of,present_progressive,am taking care of,are taking care of,is taking care of,are taking care of,are taking care of,are taking care of
+a2-1655,english,take care of,simple_past,took care of,took care of,took care of,took care of,took care of,took care of
+a2-1655,english,take care of,past_progressive,was taking care of,were taking care of,was taking care of,were taking care of,were taking care of,were taking care of
+a2-1655,english,take care of,present_perfect,have taken care of,have taken care of,has taken care of,have taken care of,have taken care of,have taken care of
+a2-1655,english,take care of,past_perfect,had taken care of,had taken care of,had taken care of,had taken care of,had taken care of,had taken care of
+a2-1655,english,take care of,future,will take care of,will take care of,will take care of,will take care of,will take care of,will take care of
 a2-1655,german,versorgen,present,versorge,versorgst,versorgt,versorgen,versorgt,versorgen
 a2-1655,german,versorgen,simple_past,versorgte,versorgtest,versorgte,versorgten,versorgtet,versorgten
 a2-1655,german,versorgen,present_perfect,habe versorgt,hast versorgt,hat versorgt,haben versorgt,habt versorgt,haben versorgt
@@ -15687,6 +15714,13 @@ a2-1660,persian,بیرون بردن,past_progressive,داشتم بیرون می�
 a2-1660,persian,بیرون بردن,present_perfect,بیرون برده‌ام,بیرون برده‌ای,بیرون برده است,بیرون برده‌ایم,بیرون برده‌اید,بیرون برده‌اند
 a2-1660,persian,بیرون بردن,past_perfect,بیرون برده بودم,بیرون برده بودی,بیرون برده بود,بیرون برده بودیم,بیرون برده بودید,بیرون برده بودند
 a2-1660,persian,بیرون بردن,future,بیرون خواهم برد,بیرون خواهی برد,بیرون خواهد برد,بیرون خواهیم برد,بیرون خواهید برد,بیرون خواهند برد
+a2-1661,english,take part,present,take part,take part,takes part,take part,take part,take part
+a2-1661,english,take part,present_progressive,am taking part,are taking part,is taking part,are taking part,are taking part,are taking part
+a2-1661,english,take part,simple_past,took part,took part,took part,took part,took part,took part
+a2-1661,english,take part,past_progressive,was taking part,were taking part,was taking part,were taking part,were taking part,were taking part
+a2-1661,english,take part,present_perfect,have taken part,have taken part,has taken part,have taken part,have taken part,have taken part
+a2-1661,english,take part,past_perfect,had taken part,had taken part,had taken part,had taken part,had taken part,had taken part
+a2-1661,english,take part,future,will take part,will take part,will take part,will take part,will take part,will take part
 a2-1661,german,teilnehmen,present,nehme teil,nimmst teil,nimmt teil,nehmen teil,nehmt teil,nehmen teil
 a2-1661,german,teilnehmen,simple_past,nahm teil,nahmst teil,nahm teil,nahmen teil,nahmt teil,nahmen teil
 a2-1661,german,teilnehmen,present_perfect,habe teilgenommen,hast teilgenommen,hat teilgenommen,haben teilgenommen,habt teilgenommen,haben teilgenommen
@@ -15707,6 +15741,13 @@ a2-1661,persian,شرکت کردن,past_progressive,داشتم شرکت می‌ک
 a2-1661,persian,شرکت کردن,present_perfect,شرکت کرده‌ام,شرکت کرده‌ای,شرکت کرده است,شرکت کرده‌ایم,شرکت کرده‌اید,شرکت کرده‌اند
 a2-1661,persian,شرکت کردن,past_perfect,شرکت کرده بودم,شرکت کرده بودی,شرکت کرده بود,شرکت کرده بودیم,شرکت کرده بودید,شرکت کرده بودند
 a2-1661,persian,شرکت کردن,future,شرکت خواهم کرد,شرکت خواهی کرد,شرکت خواهد کرد,شرکت خواهیم کرد,شرکت خواهید کرد,شرکت خواهند کرد
+a2-1662,english,take place,present,-,-,takes place,-,-,take place
+a2-1662,english,take place,present_progressive,-,-,is taking place,-,-,are taking place
+a2-1662,english,take place,simple_past,-,-,took place,-,-,took place
+a2-1662,english,take place,past_progressive,-,-,was taking place,-,-,were taking place
+a2-1662,english,take place,present_perfect,-,-,has taken place,-,-,have taken place
+a2-1662,english,take place,past_perfect,-,-,had taken place,-,-,had taken place
+a2-1662,english,take place,future,-,-,will take place,-,-,will take place
 a2-1662,german,stattfinden,present,-,-,findet statt,-,-,finden statt
 a2-1662,german,stattfinden,simple_past,-,-,fand statt,-,-,fanden statt
 a2-1662,german,stattfinden,present_perfect,-,-,hat stattgefunden,-,-,haben stattgefunden
@@ -15732,14 +15773,6 @@ a2-1663,german,sich Zeit nehmen,simple_past,nahm mir Zeit,nahmst dir Zeit,nahm s
 a2-1663,german,sich Zeit nehmen,present_perfect,habe mir Zeit genommen,hast dir Zeit genommen,hat sich Zeit genommen,haben uns Zeit genommen,habt euch Zeit genommen,haben sich Zeit genommen
 a2-1663,german,sich Zeit nehmen,past_perfect,hatte mir Zeit genommen,hattest dir Zeit genommen,hatte sich Zeit genommen,hatten uns Zeit genommen,hattet euch Zeit genommen,hatten sich Zeit genommen
 a2-1663,german,sich Zeit nehmen,future,werde mir Zeit nehmen,wirst dir Zeit nehmen,wird sich Zeit nehmen,werden uns Zeit nehmen,werdet euch Zeit nehmen,werden sich Zeit nehmen
-a2-1663,persian,وقت گذاشتن,present,وقت می‌گذارم,وقت می‌گذاری,وقت می‌گذارد,وقت می‌گذاریم,وقت می‌گذارید,وقت می‌گذارند
-a2-1663,persian,وقت گذاشتن,present_progressive,دارم وقت می‌گذارم,داری وقت می‌گذاری,دارد وقت می‌گذارد,داریم وقت می‌گذاریم,دارید وقت می‌گذارید,دارند وقت می‌گذارند
-a2-1663,persian,وقت گذاشتن,simple_past,وقت گذاشتم,وقت گذاشتی,وقت گذاشت,وقت گذاشتیم,وقت گذاشتید,وقت گذاشتند
-a2-1663,persian,وقت گذاشتن,past_imperfect,وقت می‌گذاشتم,وقت می‌گذاشتی,وقت می‌گذاشت,وقت می‌گذاشتیم,وقت می‌گذاشتید,وقت می‌گذاشتند
-a2-1663,persian,وقت گذاشتن,past_progressive,داشتم وقت می‌گذاشتم,داشتی وقت می‌گذاشتی,داشت وقت می‌گذاشت,داشتیم وقت می‌گذاشتیم,داشتید وقت می‌گذاشتید,داشتند وقت می‌گذاشتند
-a2-1663,persian,وقت گذاشتن,present_perfect,وقت گذاشته‌ام,وقت گذاشته‌ای,وقت گذاشته است,وقت گذاشته‌ایم,وقت گذاشته‌اید,وقت گذاشته‌اند
-a2-1663,persian,وقت گذاشتن,past_perfect,وقت گذاشته بودم,وقت گذاشته بودی,وقت گذاشته بود,وقت گذاشته بودیم,وقت گذاشته بودید,وقت گذاشته بودند
-a2-1663,persian,وقت گذاشتن,future,وقت خواهم گذاشت,وقت خواهی گذاشت,وقت خواهد گذاشت,وقت خواهیم گذاشت,وقت خواهید گذاشت,وقت خواهند گذاشت
 a2-1664,english,talk about,present,talk about,talk about,talks about,talk about,talk about,talk about
 a2-1664,english,talk about,present_progressive,am talking about,are talking about,is talking about,are talking about,are talking about,are talking about
 a2-1664,english,talk about,simple_past,talked about,talked about,talked about,talked about,talked about,talked about
@@ -15889,14 +15922,14 @@ a2-1691,dutch,donderen,past_progressive,-,-,was aan het donderen,-,-,-
 a2-1691,dutch,donderen,present_perfect,-,-,heeft gedonderd,-,-,-
 a2-1691,dutch,donderen,past_perfect,-,-,had gedonderd,-,-,-
 a2-1691,dutch,donderen,future,-,-,zal donderen,-,-,-
-a2-1691,persian,تندر زدن,present,-,-,تندر می‌زند,-,-,-
-a2-1691,persian,تندر زدن,present_progressive,-,-,-,-,-,-
-a2-1691,persian,تندر زدن,simple_past,-,-,تندر زد,-,-,-
-a2-1691,persian,تندر زدن,past_imperfect,-,-,تندر می‌زد,-,-,-
-a2-1691,persian,تندر زدن,past_progressive,-,-,-,-,-,-
-a2-1691,persian,تندر زدن,present_perfect,-,-,تندر زده است,-,-,-
-a2-1691,persian,تندر زدن,past_perfect,-,-,تندر زده بود,-,-,-
-a2-1691,persian,تندر زدن,future,-,-,تندر خواهد زد,-,-,-
+a2-1691,persian,رعد زدن,present,-,-,رعد می‌زند,-,-,-
+a2-1691,persian,رعد زدن,present_progressive,-,-,دارد رعد می‌زند,-,-,-
+a2-1691,persian,رعد زدن,simple_past,-,-,رعد زد,-,-,-
+a2-1691,persian,رعد زدن,past_imperfect,-,-,رعد می‌زد,-,-,-
+a2-1691,persian,رعد زدن,past_progressive,-,-,داشت رعد می‌زد,-,-,-
+a2-1691,persian,رعد زدن,present_perfect,-,-,رعد زده است,-,-,-
+a2-1691,persian,رعد زدن,past_perfect,-,-,رعد زده بود,-,-,-
+a2-1691,persian,رعد زدن,future,-,-,رعد خواهد زد,-,-,-
 a2-1693,german,gewittern,present,-,-,gewittert,-,-,-
 a2-1693,german,gewittern,simple_past,-,-,gewitterte,-,-,-
 a2-1693,german,gewittern,present_perfect,-,-,hat gewittert,-,-,-
@@ -15978,6 +16011,18 @@ a2-1701,english,tie up one's shoelaces,past_progressive,was tying up one's shoel
 a2-1701,english,tie up one's shoelaces,present_perfect,have tied up one's shoelaces,have tied up one's shoelaces,has tied up one's shoelaces,have tied up one's shoelaces,have tied up one's shoelaces,have tied up one's shoelaces
 a2-1701,english,tie up one's shoelaces,past_perfect,had tied up one's shoelaces,had tied up one's shoelaces,had tied up one's shoelaces,had tied up one's shoelaces,had tied up one's shoelaces,had tied up one's shoelaces
 a2-1701,english,tie up one's shoelaces,future,will tie up one's shoelaces,will tie up one's shoelaces,will tie up one's shoelaces,will tie up one's shoelaces,will tie up one's shoelaces,will tie up one's shoelaces
+a2-1701,german,die Schnürsenkel zubinden,present,binde die Schnürsenkel zu,bindest die Schnürsenkel zu,bindet die Schnürsenkel zu,binden die Schnürsenkel zu,bindet die Schnürsenkel zu,binden die Schnürsenkel zu
+a2-1701,german,die Schnürsenkel zubinden,simple_past,band die Schnürsenkel zu,bandst die Schnürsenkel zu,band die Schnürsenkel zu,banden die Schnürsenkel zu,bandet die Schnürsenkel zu,banden die Schnürsenkel zu
+a2-1701,german,die Schnürsenkel zubinden,present_perfect,habe die Schnürsenkel zugebunden,hast die Schnürsenkel zugebunden,hat die Schnürsenkel zugebunden,haben die Schnürsenkel zugebunden,habt die Schnürsenkel zugebunden,haben die Schnürsenkel zugebunden
+a2-1701,german,die Schnürsenkel zubinden,past_perfect,hatte die Schnürsenkel zugebunden,hattest die Schnürsenkel zugebunden,hatte die Schnürsenkel zugebunden,hatten die Schnürsenkel zugebunden,hattet die Schnürsenkel zugebunden,hatten die Schnürsenkel zugebunden
+a2-1701,german,die Schnürsenkel zubinden,future,werde die Schnürsenkel zubinden,wirst die Schnürsenkel zubinden,wird die Schnürsenkel zubinden,werden die Schnürsenkel zubinden,werdet die Schnürsenkel zubinden,werden die Schnürsenkel zubinden
+a2-1701,dutch,de veters strikken,present,strik de veters,strikt de veters,strikt de veters,strikken de veters,strikken de veters,strikken de veters
+a2-1701,dutch,de veters strikken,present_progressive,ben de veters aan het strikken,bent de veters aan het strikken,is de veters aan het strikken,zijn de veters aan het strikken,zijn de veters aan het strikken,zijn de veters aan het strikken
+a2-1701,dutch,de veters strikken,simple_past,strikte de veters,strikte de veters,strikte de veters,strikten de veters,strikten de veters,strikten de veters
+a2-1701,dutch,de veters strikken,past_progressive,was de veters aan het strikken,was de veters aan het strikken,was de veters aan het strikken,waren de veters aan het strikken,waren de veters aan het strikken,waren de veters aan het strikken
+a2-1701,dutch,de veters strikken,present_perfect,heb de veters gestrikt,hebt de veters gestrikt,heeft de veters gestrikt,hebben de veters gestrikt,hebben de veters gestrikt,hebben de veters gestrikt
+a2-1701,dutch,de veters strikken,past_perfect,had de veters gestrikt,had de veters gestrikt,had de veters gestrikt,hadden de veters gestrikt,hadden de veters gestrikt,hadden de veters gestrikt
+a2-1701,dutch,de veters strikken,future,zal de veters strikken,zult de veters strikken,zal de veters strikken,zullen de veters strikken,zullen de veters strikken,zullen de veters strikken
 a2-1701,persian,بند کفش را بستن,present,بند کفش را می‌بندم,بند کفش را می‌بندی,بند کفش را می‌بندد,بند کفش را می‌بندیم,بند کفش را می‌بندید,بند کفش را می‌بندند
 a2-1701,persian,بند کفش را بستن,present_progressive,دارم بند کفش را می‌بندم,داری بند کفش را می‌بندی,دارد بند کفش را می‌بندد,داریم بند کفش را می‌بندیم,دارید بند کفش را می‌بندید,دارند بند کفش را می‌بندند
 a2-1701,persian,بند کفش را بستن,simple_past,بند کفش را بستم,بند کفش را بستی,بند کفش را بست,بند کفش را بستیم,بند کفش را بستید,بند کفش را بستند
@@ -16098,6 +16143,13 @@ a2-1712,german,sich Sorgen machen,simple_past,machte mir Sorgen,machtest dir Sor
 a2-1712,german,sich Sorgen machen,present_perfect,habe mir Sorgen gemacht,hast dir Sorgen gemacht,hat sich Sorgen gemacht,haben uns Sorgen gemacht,habt euch Sorgen gemacht,haben sich Sorgen gemacht
 a2-1712,german,sich Sorgen machen,past_perfect,hatte mir Sorgen gemacht,hattest dir Sorgen gemacht,hatte sich Sorgen gemacht,hatten uns Sorgen gemacht,hattet euch Sorgen gemacht,hatten sich Sorgen gemacht
 a2-1712,german,sich Sorgen machen,future,werde mir Sorgen machen,wirst dir Sorgen machen,wird sich Sorgen machen,werden uns Sorgen machen,werdet euch Sorgen machen,werden sich Sorgen machen
+a2-1712,dutch,zich zorgen maken,present,maak me zorgen,maakt je zorgen,maakt zich zorgen,maken ons zorgen,maken je zorgen,maken zich zorgen
+a2-1712,dutch,zich zorgen maken,present_progressive,ben me zorgen aan het maken,bent je zorgen aan het maken,is zich zorgen aan het maken,zijn ons zorgen aan het maken,zijn je zorgen aan het maken,zijn zich zorgen aan het maken
+a2-1712,dutch,zich zorgen maken,simple_past,maakte me zorgen,maakte je zorgen,maakte zich zorgen,maakten ons zorgen,maakten je zorgen,maakten zich zorgen
+a2-1712,dutch,zich zorgen maken,past_progressive,was me zorgen aan het maken,was je zorgen aan het maken,was zich zorgen aan het maken,waren ons zorgen aan het maken,waren je zorgen aan het maken,waren zich zorgen aan het maken
+a2-1712,dutch,zich zorgen maken,present_perfect,heb me zorgen gemaakt,hebt je zorgen gemaakt,heeft zich zorgen gemaakt,hebben ons zorgen gemaakt,hebben je zorgen gemaakt,hebben zich zorgen gemaakt
+a2-1712,dutch,zich zorgen maken,past_perfect,had me zorgen gemaakt,had je zorgen gemaakt,had zich zorgen gemaakt,hadden ons zorgen gemaakt,hadden je zorgen gemaakt,hadden zich zorgen gemaakt
+a2-1712,dutch,zich zorgen maken,future,zal me zorgen maken,zult je zorgen maken,zal zich zorgen maken,zullen ons zorgen maken,zullen je zorgen maken,zullen zich zorgen maken
 a2-1712,persian,نگران بودن,present,نگران هستم,نگران هستی,نگران است,نگران هستیم,نگران هستید,نگران هستند
 a2-1712,persian,نگران بودن,present_progressive,-,-,-,-,-,-
 a2-1712,persian,نگران بودن,simple_past,نگران بودم,نگران بودی,نگران بود,نگران بودیم,نگران بودید,نگران بودند
@@ -16727,11 +16779,25 @@ b1-0024,persian,نشانی نوشتن,past_progressive,داشتم نشانی م�
 b1-0024,persian,نشانی نوشتن,present_perfect,نشانی نوشته‌ام,نشانی نوشته‌ای,نشانی نوشته است,نشانی نوشته‌ایم,نشانی نوشته‌اید,نشانی نوشته‌اند
 b1-0024,persian,نشانی نوشتن,past_perfect,نشانی نوشته بودم,نشانی نوشته بودی,نشانی نوشته بود,نشانی نوشته بودیم,نشانی نوشته بودید,نشانی نوشته بودند
 b1-0024,persian,نشانی نوشتن,future,نشانی خواهم نوشت,نشانی خواهی نوشت,نشانی خواهد نوشت,نشانی خواهیم نوشت,نشانی خواهید نوشت,نشانی خواهند نوشت
+b1-0025,english,address formally (with Sie),present,address formally (with Sie),address formally (with Sie),addresses formally (with Sie),address formally (with Sie),address formally (with Sie),address formally (with Sie)
+b1-0025,english,address formally (with Sie),present_progressive,am addressing formally (with Sie),are addressing formally (with Sie),is addressing formally (with Sie),are addressing formally (with Sie),are addressing formally (with Sie),are addressing formally (with Sie)
+b1-0025,english,address formally (with Sie),simple_past,addressed formally (with Sie),addressed formally (with Sie),addressed formally (with Sie),addressed formally (with Sie),addressed formally (with Sie),addressed formally (with Sie)
+b1-0025,english,address formally (with Sie),past_progressive,was addressing formally (with Sie),were addressing formally (with Sie),was addressing formally (with Sie),were addressing formally (with Sie),were addressing formally (with Sie),were addressing formally (with Sie)
+b1-0025,english,address formally (with Sie),present_perfect,have addressed formally (with Sie),have addressed formally (with Sie),has addressed formally (with Sie),have addressed formally (with Sie),have addressed formally (with Sie),have addressed formally (with Sie)
+b1-0025,english,address formally (with Sie),past_perfect,had addressed formally (with Sie),had addressed formally (with Sie),had addressed formally (with Sie),had addressed formally (with Sie),had addressed formally (with Sie),had addressed formally (with Sie)
+b1-0025,english,address formally (with Sie),future,will address formally (with Sie),will address formally (with Sie),will address formally (with Sie),will address formally (with Sie),will address formally (with Sie),will address formally (with Sie)
 b1-0025,german,siezen,present,sieze,siezt,siezt,siezen,siezt,siezen
 b1-0025,german,siezen,simple_past,siezte,sieztest,siezte,siezten,sieztet,siezten
 b1-0025,german,siezen,present_perfect,habe gesiezt,hast gesiezt,hat gesiezt,haben gesiezt,habt gesiezt,haben gesiezt
 b1-0025,german,siezen,past_perfect,hatte gesiezt,hattest gesiezt,hatte gesiezt,hatten gesiezt,hattet gesiezt,hatten gesiezt
 b1-0025,german,siezen,future,werde siezen,wirst siezen,wird siezen,werden siezen,werdet siezen,werden siezen
+b1-0025,dutch,met u aanspreken,present,spreek met u aan,spreekt met u aan,spreekt met u aan,spreken met u aan,spreken met u aan,spreken met u aan
+b1-0025,dutch,met u aanspreken,present_progressive,ben met u aan het aanspreken,bent met u aan het aanspreken,is met u aan het aanspreken,zijn met u aan het aanspreken,zijn met u aan het aanspreken,zijn met u aan het aanspreken
+b1-0025,dutch,met u aanspreken,simple_past,sprak met u aan,sprak met u aan,sprak met u aan,spraken met u aan,spraken met u aan,spraken met u aan
+b1-0025,dutch,met u aanspreken,past_progressive,was met u aan het aanspreken,was met u aan het aanspreken,was met u aan het aanspreken,waren met u aan het aanspreken,waren met u aan het aanspreken,waren met u aan het aanspreken
+b1-0025,dutch,met u aanspreken,present_perfect,heb met u aangesproken,hebt met u aangesproken,heeft met u aangesproken,hebben met u aangesproken,hebben met u aangesproken,hebben met u aangesproken
+b1-0025,dutch,met u aanspreken,past_perfect,had met u aangesproken,had met u aangesproken,had met u aangesproken,hadden met u aangesproken,hadden met u aangesproken,hadden met u aangesproken
+b1-0025,dutch,met u aanspreken,future,zal met u aanspreken,zult met u aanspreken,zal met u aanspreken,zullen met u aanspreken,zullen met u aanspreken,zullen met u aanspreken
 b1-0025,persian,با «شما» خطاب کردن,present,با «شما» خطاب می‌کنم,با «شما» خطاب می‌کنی,با «شما» خطاب می‌کند,با «شما» خطاب می‌کنیم,با «شما» خطاب می‌کنید,با «شما» خطاب می‌کنند
 b1-0025,persian,با «شما» خطاب کردن,present_progressive,دارم با «شما» خطاب می‌کنم,داری با «شما» خطاب می‌کنی,دارد با «شما» خطاب می‌کند,داریم با «شما» خطاب می‌کنیم,دارید با «شما» خطاب می‌کنید,دارند با «شما» خطاب می‌کنند
 b1-0025,persian,با «شما» خطاب کردن,simple_past,با «شما» خطاب کردم,با «شما» خطاب کردی,با «شما» خطاب کرد,با «شما» خطاب کردیم,با «شما» خطاب کردید,با «شما» خطاب کردند
@@ -16995,6 +17061,13 @@ b1-0046,german,sich einigen,simple_past,einigte mich,einigtest dich,einigte sich
 b1-0046,german,sich einigen,present_perfect,habe mich geeinigt,hast dich geeinigt,hat sich geeinigt,haben uns geeinigt,habt euch geeinigt,haben sich geeinigt
 b1-0046,german,sich einigen,past_perfect,hatte mich geeinigt,hattest dich geeinigt,hatte sich geeinigt,hatten uns geeinigt,hattet euch geeinigt,hatten sich geeinigt
 b1-0046,german,sich einigen,future,werde mich einigen,wirst dich einigen,wird sich einigen,werden uns einigen,werdet euch einigen,werden sich einigen
+b1-0046,dutch,het eens worden,present,word het eens,wordt het eens,wordt het eens,worden het eens,worden het eens,worden het eens
+b1-0046,dutch,het eens worden,present_progressive,ben het eens aan het worden,bent het eens aan het worden,is het eens aan het worden,zijn het eens aan het worden,zijn het eens aan het worden,zijn het eens aan het worden
+b1-0046,dutch,het eens worden,simple_past,werd het eens,werd het eens,werd het eens,werden het eens,werden het eens,werden het eens
+b1-0046,dutch,het eens worden,past_progressive,was het eens aan het worden,was het eens aan het worden,was het eens aan het worden,waren het eens aan het worden,waren het eens aan het worden,waren het eens aan het worden
+b1-0046,dutch,het eens worden,present_perfect,ben het eens geworden,bent het eens geworden,is het eens geworden,zijn het eens geworden,zijn het eens geworden,zijn het eens geworden
+b1-0046,dutch,het eens worden,past_perfect,was het eens geworden,was het eens geworden,was het eens geworden,waren het eens geworden,waren het eens geworden,waren het eens geworden
+b1-0046,dutch,het eens worden,future,zal het eens worden,zult het eens worden,zal het eens worden,zullen het eens worden,zullen het eens worden,zullen het eens worden
 b1-0046,persian,توافق کردن,present,توافق می‌کنم,توافق می‌کنی,توافق می‌کند,توافق می‌کنیم,توافق می‌کنید,توافق می‌کنند
 b1-0046,persian,توافق کردن,present_progressive,دارم توافق می‌کنم,داری توافق می‌کنی,دارد توافق می‌کند,داریم توافق می‌کنیم,دارید توافق می‌کنید,دارند توافق می‌کنند
 b1-0046,persian,توافق کردن,simple_past,توافق کردم,توافق کردی,توافق کرد,توافق کردیم,توافق کردید,توافق کردند
@@ -17253,11 +17326,18 @@ b1-0098,english,fight for,past_progressive,was fighting for,were fighting for,wa
 b1-0098,english,fight for,present_perfect,have fought for,have fought for,has fought for,have fought for,have fought for,have fought for
 b1-0098,english,fight for,past_perfect,had fought for,had fought for,had fought for,had fought for,had fought for,had fought for
 b1-0098,english,fight for,future,will fight for,will fight for,will fight for,will fight for,will fight for,will fight for
-b1-0098,german,streiten für,present,streite für ...,streitest für ...,streitet für ...,streiten für ...,streitet für ...,streiten für ...
-b1-0098,german,streiten für,simple_past,stritt für ...,strittest für ...,stritt für ...,stritten für ...,strittet für ...,stritten für ...
-b1-0098,german,streiten für,present_perfect,habe für ... gestritten,hast für ... gestritten,hat für ... gestritten,haben für ... gestritten,habt für ... gestritten,haben für ... gestritten
-b1-0098,german,streiten für,past_perfect,hatte für ... gestritten,hattest für ... gestritten,hatte für ... gestritten,hatten für ... gestritten,hattet für ... gestritten,hatten für ... gestritten
-b1-0098,german,streiten für,future,werde für ... streiten,wirst für ... streiten,wird für ... streiten,werden für ... streiten,werdet für ... streiten,werden für ... streiten
+b1-0098,german,kämpfen für,present,kämpfe für ...,kämpfst für ...,kämpft für ...,kämpfen für ...,kämpft für ...,kämpfen für ...
+b1-0098,german,kämpfen für,simple_past,kämpfte für ...,kämpftest für ...,kämpfte für ...,kämpften für ...,kämpftet für ...,kämpften für ...
+b1-0098,german,kämpfen für,present_perfect,habe für ... gekämpft,hast für ... gekämpft,hat für ... gekämpft,haben für ... gekämpft,habt für ... gekämpft,haben für ... gekämpft
+b1-0098,german,kämpfen für,past_perfect,hatte für ... gekämpft,hattest für ... gekämpft,hatte für ... gekämpft,hatten für ... gekämpft,hattet für ... gekämpft,hatten für ... gekämpft
+b1-0098,german,kämpfen für,future,werde für ... kämpfen,wirst für ... kämpfen,wird für ... kämpfen,werden für ... kämpfen,werdet für ... kämpfen,werden für ... kämpfen
+b1-0098,dutch,strijden voor,present,strijd voor ...,strijdt voor ...,strijdt voor ...,strijden voor ...,strijden voor ...,strijden voor ...
+b1-0098,dutch,strijden voor,present_progressive,ben voor ... aan het strijden,bent voor ... aan het strijden,is voor ... aan het strijden,zijn voor ... aan het strijden,zijn voor ... aan het strijden,zijn voor ... aan het strijden
+b1-0098,dutch,strijden voor,simple_past,streed voor ...,streed voor ...,streed voor ...,streden voor ...,streden voor ...,streden voor ...
+b1-0098,dutch,strijden voor,past_progressive,was voor ... aan het strijden,was voor ... aan het strijden,was voor ... aan het strijden,waren voor ... aan het strijden,waren voor ... aan het strijden,waren voor ... aan het strijden
+b1-0098,dutch,strijden voor,present_perfect,heb voor ... gestreden,hebt voor ... gestreden,heeft voor ... gestreden,hebben voor ... gestreden,hebben voor ... gestreden,hebben voor ... gestreden
+b1-0098,dutch,strijden voor,past_perfect,had voor ... gestreden,had voor ... gestreden,had voor ... gestreden,hadden voor ... gestreden,hadden voor ... gestreden,hadden voor ... gestreden
+b1-0098,dutch,strijden voor,future,zal voor ... strijden,zult voor ... strijden,zal voor ... strijden,zullen voor ... strijden,zullen voor ... strijden,zullen voor ... strijden
 b1-0098,persian,برای ... مبارزه کردن,present,برای ... مبارزه می‌کنم,برای ... مبارزه می‌کنی,برای ... مبارزه می‌کند,برای ... مبارزه می‌کنیم,برای ... مبارزه می‌کنید,برای ... مبارزه می‌کنند
 b1-0098,persian,برای ... مبارزه کردن,present_progressive,دارم برای ... مبارزه می‌کنم,داری برای ... مبارزه می‌کنی,دارد برای ... مبارزه می‌کند,داریم برای ... مبارزه می‌کنیم,دارید برای ... مبارزه می‌کنید,دارند برای ... مبارزه می‌کنند
 b1-0098,persian,برای ... مبارزه کردن,simple_past,برای ... مبارزه کردم,برای ... مبارزه کردی,برای ... مبارزه کرد,برای ... مبارزه کردیم,برای ... مبارزه کردید,برای ... مبارزه کردند
@@ -17662,6 +17742,13 @@ b1-0190,german,gewohnt sein,simple_past,war gewohnt,warst gewohnt,war gewohnt,wa
 b1-0190,german,gewohnt sein,present_perfect,bin gewohnt gewesen,bist gewohnt gewesen,ist gewohnt gewesen,sind gewohnt gewesen,seid gewohnt gewesen,sind gewohnt gewesen
 b1-0190,german,gewohnt sein,past_perfect,war gewohnt gewesen,warst gewohnt gewesen,war gewohnt gewesen,waren gewohnt gewesen,wart gewohnt gewesen,waren gewohnt gewesen
 b1-0190,german,gewohnt sein,future,werde gewohnt sein,wirst gewohnt sein,wird gewohnt sein,werden gewohnt sein,werdet gewohnt sein,werden gewohnt sein
+b1-0190,dutch,gewend zijn,present,ben gewend,bent gewend,is gewend,zijn gewend,zijn gewend,zijn gewend
+b1-0190,dutch,gewend zijn,present_progressive,-,-,-,-,-,-
+b1-0190,dutch,gewend zijn,simple_past,was gewend,was gewend,was gewend,waren gewend,waren gewend,waren gewend
+b1-0190,dutch,gewend zijn,past_progressive,-,-,-,-,-,-
+b1-0190,dutch,gewend zijn,present_perfect,ben gewend geweest,bent gewend geweest,is gewend geweest,zijn gewend geweest,zijn gewend geweest,zijn gewend geweest
+b1-0190,dutch,gewend zijn,past_perfect,was gewend geweest,was gewend geweest,was gewend geweest,waren gewend geweest,waren gewend geweest,waren gewend geweest
+b1-0190,dutch,gewend zijn,future,zal gewend zijn,zult gewend zijn,zal gewend zijn,zullen gewend zijn,zullen gewend zijn,zullen gewend zijn
 b1-0190,persian,به ... عادت داشتن,present,به ... عادت دارم,به ... عادت داری,به ... عادت دارد,به ... عادت داریم,به ... عادت دارید,به ... عادت دارند
 b1-0190,persian,به ... عادت داشتن,present_progressive,-,-,-,-,-,-
 b1-0190,persian,به ... عادت داشتن,simple_past,به ... عادت داشتم,به ... عادت داشتی,به ... عادت داشت,به ... عادت داشتیم,به ... عادت داشتید,به ... عادت داشتند
@@ -17791,6 +17878,13 @@ b1-0195,persian,هم زدن,past_progressive,داشتم هم می‌زدم,دا�
 b1-0195,persian,هم زدن,present_perfect,هم زده‌ام,هم زده‌ای,هم زده است,هم زده‌ایم,هم زده‌اید,هم زده‌اند
 b1-0195,persian,هم زدن,past_perfect,هم زده بودم,هم زده بودی,هم زده بود,هم زده بودیم,هم زده بودید,هم زده بودند
 b1-0195,persian,هم زدن,future,هم خواهم زد,هم خواهی زد,هم خواهد زد,هم خواهیم زد,هم خواهید زد,هم خواهند زد
+b1-0199,english,become feral,present,become feral,become feral,becomes feral,become feral,become feral,become feral
+b1-0199,english,become feral,present_progressive,am becoming feral,are becoming feral,is becoming feral,are becoming feral,are becoming feral,are becoming feral
+b1-0199,english,become feral,simple_past,became feral,became feral,became feral,became feral,became feral,became feral
+b1-0199,english,become feral,past_progressive,was becoming feral,were becoming feral,was becoming feral,were becoming feral,were becoming feral,were becoming feral
+b1-0199,english,become feral,present_perfect,have become feral,have become feral,has become feral,have become feral,have become feral,have become feral
+b1-0199,english,become feral,past_perfect,had become feral,had become feral,had become feral,had become feral,had become feral,had become feral
+b1-0199,english,become feral,future,will become feral,will become feral,will become feral,will become feral,will become feral,will become feral
 b1-0199,german,verwildern,present,verwildere,verwilderst,verwildert,verwildern,verwildert,verwildern
 b1-0199,german,verwildern,simple_past,verwilderte,verwildertest,verwilderte,verwilderten,verwildertet,verwilderten
 b1-0199,german,verwildern,present_perfect,bin verwildert,bist verwildert,ist verwildert,sind verwildert,seid verwildert,sind verwildert
@@ -17904,6 +17998,13 @@ b1-0215,german,beschuldigen,simple_past,beschuldigte,beschuldigtest,beschuldigte
 b1-0215,german,beschuldigen,present_perfect,habe beschuldigt,hast beschuldigt,hat beschuldigt,haben beschuldigt,habt beschuldigt,haben beschuldigt
 b1-0215,german,beschuldigen,past_perfect,hatte beschuldigt,hattest beschuldigt,hatte beschuldigt,hatten beschuldigt,hattet beschuldigt,hatten beschuldigt
 b1-0215,german,beschuldigen,future,werde beschuldigen,wirst beschuldigen,wird beschuldigen,werden beschuldigen,werdet beschuldigen,werden beschuldigen
+b1-0215,dutch,de schuld geven,present,geef de schuld,geeft de schuld,geeft de schuld,geven de schuld,geven de schuld,geven de schuld
+b1-0215,dutch,de schuld geven,present_progressive,ben de schuld aan het geven,bent de schuld aan het geven,is de schuld aan het geven,zijn de schuld aan het geven,zijn de schuld aan het geven,zijn de schuld aan het geven
+b1-0215,dutch,de schuld geven,simple_past,gaf de schuld,gaf de schuld,gaf de schuld,gaven de schuld,gaven de schuld,gaven de schuld
+b1-0215,dutch,de schuld geven,past_progressive,was de schuld aan het geven,was de schuld aan het geven,was de schuld aan het geven,waren de schuld aan het geven,waren de schuld aan het geven,waren de schuld aan het geven
+b1-0215,dutch,de schuld geven,present_perfect,heb de schuld gegeven,hebt de schuld gegeven,heeft de schuld gegeven,hebben de schuld gegeven,hebben de schuld gegeven,hebben de schuld gegeven
+b1-0215,dutch,de schuld geven,past_perfect,had de schuld gegeven,had de schuld gegeven,had de schuld gegeven,hadden de schuld gegeven,hadden de schuld gegeven,hadden de schuld gegeven
+b1-0215,dutch,de schuld geven,future,zal de schuld geven,zult de schuld geven,zal de schuld geven,zullen de schuld geven,zullen de schuld geven,zullen de schuld geven
 b1-0215,persian,مقصر دانستن,present,مقصر می‌دانم,مقصر می‌دانی,مقصر می‌داند,مقصر می‌دانیم,مقصر می‌دانید,مقصر می‌دانند
 b1-0215,persian,مقصر دانستن,present_progressive,-,-,-,-,-,-
 b1-0215,persian,مقصر دانستن,simple_past,مقصر دانستم,مقصر دانستی,مقصر دانست,مقصر دانستیم,مقصر دانستید,مقصر دانستند
@@ -18108,6 +18209,18 @@ b1-0239,english,bother,past_progressive,was bothering,were bothering,was botheri
 b1-0239,english,bother,present_perfect,have bothered,have bothered,has bothered,have bothered,have bothered,have bothered
 b1-0239,english,bother,past_perfect,had bothered,had bothered,had bothered,had bothered,had bothered,had bothered
 b1-0239,english,bother,future,will bother,will bother,will bother,will bother,will bother,will bother
+b1-0239,german,sich die Mühe machen,present,mache mir die Mühe,machst dir die Mühe,macht sich die Mühe,machen uns die Mühe,macht euch die Mühe,machen sich die Mühe
+b1-0239,german,sich die Mühe machen,simple_past,machte mir die Mühe,machtest dir die Mühe,machte sich die Mühe,machten uns die Mühe,machtet euch die Mühe,machten sich die Mühe
+b1-0239,german,sich die Mühe machen,present_perfect,habe mir die Mühe gemacht,hast dir die Mühe gemacht,hat sich die Mühe gemacht,haben uns die Mühe gemacht,habt euch die Mühe gemacht,haben sich die Mühe gemacht
+b1-0239,german,sich die Mühe machen,past_perfect,hatte mir die Mühe gemacht,hattest dir die Mühe gemacht,hatte sich die Mühe gemacht,hatten uns die Mühe gemacht,hattet euch die Mühe gemacht,hatten sich die Mühe gemacht
+b1-0239,german,sich die Mühe machen,future,werde mir die Mühe machen,wirst dir die Mühe machen,wird sich die Mühe machen,werden uns die Mühe machen,werdet euch die Mühe machen,werden sich die Mühe machen
+b1-0239,dutch,de moeite nemen,present,neem de moeite,neemt de moeite,neemt de moeite,nemen de moeite,nemen de moeite,nemen de moeite
+b1-0239,dutch,de moeite nemen,present_progressive,ben de moeite aan het nemen,bent de moeite aan het nemen,is de moeite aan het nemen,zijn de moeite aan het nemen,zijn de moeite aan het nemen,zijn de moeite aan het nemen
+b1-0239,dutch,de moeite nemen,simple_past,nam de moeite,nam de moeite,nam de moeite,namen de moeite,namen de moeite,namen de moeite
+b1-0239,dutch,de moeite nemen,past_progressive,was de moeite aan het nemen,was de moeite aan het nemen,was de moeite aan het nemen,waren de moeite aan het nemen,waren de moeite aan het nemen,waren de moeite aan het nemen
+b1-0239,dutch,de moeite nemen,present_perfect,heb de moeite genomen,hebt de moeite genomen,heeft de moeite genomen,hebben de moeite genomen,hebben de moeite genomen,hebben de moeite genomen
+b1-0239,dutch,de moeite nemen,past_perfect,had de moeite genomen,had de moeite genomen,had de moeite genomen,hadden de moeite genomen,hadden de moeite genomen,hadden de moeite genomen
+b1-0239,dutch,de moeite nemen,future,zal de moeite nemen,zult de moeite nemen,zal de moeite nemen,zullen de moeite nemen,zullen de moeite nemen,zullen de moeite nemen
 b1-0239,persian,زحمت کشیدن,present,زحمت می‌کشم,زحمت می‌کشی,زحمت می‌کشد,زحمت می‌کشیم,زحمت می‌کشید,زحمت می‌کشند
 b1-0239,persian,زحمت کشیدن,present_progressive,دارم زحمت می‌کشم,داری زحمت می‌کشی,دارد زحمت می‌کشد,داریم زحمت می‌کشیم,دارید زحمت می‌کشید,دارند زحمت می‌کشند
 b1-0239,persian,زحمت کشیدن,simple_past,زحمت کشیدم,زحمت کشیدی,زحمت کشید,زحمت کشیدیم,زحمت کشیدید,زحمت کشیدند
@@ -18602,6 +18715,25 @@ b1-0318,persian,مچ گرفتن,past_progressive,داشتم مچ می‌گرفت
 b1-0318,persian,مچ گرفتن,present_perfect,مچ گرفته‌ام,مچ گرفته‌ای,مچ گرفته است,مچ گرفته‌ایم,مچ گرفته‌اید,مچ گرفته‌اند
 b1-0318,persian,مچ گرفتن,past_perfect,مچ گرفته بودم,مچ گرفته بودی,مچ گرفته بود,مچ گرفته بودیم,مچ گرفته بودید,مچ گرفته بودند
 b1-0318,persian,مچ گرفتن,future,مچ خواهم گرفت,مچ خواهی گرفت,مچ خواهد گرفت,مچ خواهیم گرفت,مچ خواهید گرفت,مچ خواهند گرفت
+b1-0319,english,catch fire,present,catch fire,catch fire,catches fire,catch fire,catch fire,catch fire
+b1-0319,english,catch fire,present_progressive,am catching fire,are catching fire,is catching fire,are catching fire,are catching fire,are catching fire
+b1-0319,english,catch fire,simple_past,caught fire,caught fire,caught fire,caught fire,caught fire,caught fire
+b1-0319,english,catch fire,past_progressive,was catching fire,were catching fire,was catching fire,were catching fire,were catching fire,were catching fire
+b1-0319,english,catch fire,present_perfect,have caught fire,have caught fire,has caught fire,have caught fire,have caught fire,have caught fire
+b1-0319,english,catch fire,past_perfect,had caught fire,had caught fire,had caught fire,had caught fire,had caught fire,had caught fire
+b1-0319,english,catch fire,future,will catch fire,will catch fire,will catch fire,will catch fire,will catch fire,will catch fire
+b1-0319,german,Feuer fangen,present,fange Feuer,fängst Feuer,fängt Feuer,fangen Feuer,fangt Feuer,fangen Feuer
+b1-0319,german,Feuer fangen,simple_past,fing Feuer,fingst Feuer,fing Feuer,fingen Feuer,fingt Feuer,fingen Feuer
+b1-0319,german,Feuer fangen,present_perfect,habe Feuer gefangen,hast Feuer gefangen,hat Feuer gefangen,haben Feuer gefangen,habt Feuer gefangen,haben Feuer gefangen
+b1-0319,german,Feuer fangen,past_perfect,hatte Feuer gefangen,hattest Feuer gefangen,hatte Feuer gefangen,hatten Feuer gefangen,hattet Feuer gefangen,hatten Feuer gefangen
+b1-0319,german,Feuer fangen,future,werde Feuer fangen,wirst Feuer fangen,wird Feuer fangen,werden Feuer fangen,werdet Feuer fangen,werden Feuer fangen
+b1-0319,dutch,vlam vatten,present,vat vlam,vat vlam,vat vlam,vatten vlam,vatten vlam,vatten vlam
+b1-0319,dutch,vlam vatten,present_progressive,ben vlam aan het vatten,bent vlam aan het vatten,is vlam aan het vatten,zijn vlam aan het vatten,zijn vlam aan het vatten,zijn vlam aan het vatten
+b1-0319,dutch,vlam vatten,simple_past,vatte vlam,vatte vlam,vatte vlam,vatten vlam,vatten vlam,vatten vlam
+b1-0319,dutch,vlam vatten,past_progressive,was vlam aan het vatten,was vlam aan het vatten,was vlam aan het vatten,waren vlam aan het vatten,waren vlam aan het vatten,waren vlam aan het vatten
+b1-0319,dutch,vlam vatten,present_perfect,heb vlam gevat,hebt vlam gevat,heeft vlam gevat,hebben vlam gevat,hebben vlam gevat,hebben vlam gevat
+b1-0319,dutch,vlam vatten,past_perfect,had vlam gevat,had vlam gevat,had vlam gevat,hadden vlam gevat,hadden vlam gevat,hadden vlam gevat
+b1-0319,dutch,vlam vatten,future,zal vlam vatten,zult vlam vatten,zal vlam vatten,zullen vlam vatten,zullen vlam vatten,zullen vlam vatten
 b1-0319,persian,آتش گرفتن,present,آتش می‌گیرم,آتش می‌گیری,آتش می‌گیرد,آتش می‌گیریم,آتش می‌گیرید,آتش می‌گیرند
 b1-0319,persian,آتش گرفتن,present_progressive,دارم آتش می‌گیرم,داری آتش می‌گیری,دارد آتش می‌گیرد,داریم آتش می‌گیریم,دارید آتش می‌گیرید,دارند آتش می‌گیرند
 b1-0319,persian,آتش گرفتن,simple_past,آتش گرفتم,آتش گرفتی,آتش گرفت,آتش گرفتیم,آتش گرفتید,آتش گرفتند
@@ -18969,13 +19101,25 @@ b1-0396,persian,ترکیب کردن,past_progressive,داشتم ترکیب می�
 b1-0396,persian,ترکیب کردن,present_perfect,ترکیب کرده‌ام,ترکیب کرده‌ای,ترکیب کرده است,ترکیب کرده‌ایم,ترکیب کرده‌اید,ترکیب کرده‌اند
 b1-0396,persian,ترکیب کردن,past_perfect,ترکیب کرده بودم,ترکیب کرده بودی,ترکیب کرده بود,ترکیب کرده بودیم,ترکیب کرده بودید,ترکیب کرده بودند
 b1-0396,persian,ترکیب کردن,future,ترکیب خواهم کرد,ترکیب خواهی کرد,ترکیب خواهد کرد,ترکیب خواهیم کرد,ترکیب خواهید کرد,ترکیب خواهند کرد
-b1-0397,english,come back,present,come back,come back,comes back,come back,come back,come back
-b1-0397,english,come back,present_progressive,am coming back,are coming back,is coming back,are coming back,are coming back,are coming back
-b1-0397,english,come back,simple_past,came back,came back,came back,came back,came back,came back
-b1-0397,english,come back,past_progressive,was coming back,were coming back,was coming back,were coming back,were coming back,were coming back
-b1-0397,english,come back,present_perfect,have come back,have come back,has come back,have come back,have come back,have come back
-b1-0397,english,come back,past_perfect,had come back,had come back,had come back,had come back,had come back,had come back
-b1-0397,english,come back,future,will come back,will come back,will come back,will come back,will come back,will come back
+b1-0397,english,make a comeback,present,make a comeback,make a comeback,makes a comeback,make a comeback,make a comeback,make a comeback
+b1-0397,english,make a comeback,present_progressive,am making a comeback,are making a comeback,is making a comeback,are making a comeback,are making a comeback,are making a comeback
+b1-0397,english,make a comeback,simple_past,made a comeback,made a comeback,made a comeback,made a comeback,made a comeback,made a comeback
+b1-0397,english,make a comeback,past_progressive,was making a comeback,were making a comeback,was making a comeback,were making a comeback,were making a comeback,were making a comeback
+b1-0397,english,make a comeback,present_perfect,have made a comeback,have made a comeback,has made a comeback,have made a comeback,have made a comeback,have made a comeback
+b1-0397,english,make a comeback,past_perfect,had made a comeback,had made a comeback,had made a comeback,had made a comeback,had made a comeback,had made a comeback
+b1-0397,english,make a comeback,future,will make a comeback,will make a comeback,will make a comeback,will make a comeback,will make a comeback,will make a comeback
+b1-0397,german,ein Comeback feiern,present,feiere ein Comeback,feierst ein Comeback,feiert ein Comeback,feiern ein Comeback,feiert ein Comeback,feiern ein Comeback
+b1-0397,german,ein Comeback feiern,simple_past,feierte ein Comeback,feiertest ein Comeback,feierte ein Comeback,feierten ein Comeback,feiertet ein Comeback,feierten ein Comeback
+b1-0397,german,ein Comeback feiern,present_perfect,habe ein Comeback gefeiert,hast ein Comeback gefeiert,hat ein Comeback gefeiert,haben ein Comeback gefeiert,habt ein Comeback gefeiert,haben ein Comeback gefeiert
+b1-0397,german,ein Comeback feiern,past_perfect,hatte ein Comeback gefeiert,hattest ein Comeback gefeiert,hatte ein Comeback gefeiert,hatten ein Comeback gefeiert,hattet ein Comeback gefeiert,hatten ein Comeback gefeiert
+b1-0397,german,ein Comeback feiern,future,werde ein Comeback feiern,wirst ein Comeback feiern,wird ein Comeback feiern,werden ein Comeback feiern,werdet ein Comeback feiern,werden ein Comeback feiern
+b1-0397,dutch,een comeback maken,present,maak een comeback,maakt een comeback,maakt een comeback,maken een comeback,maken een comeback,maken een comeback
+b1-0397,dutch,een comeback maken,present_progressive,ben een comeback aan het maken,bent een comeback aan het maken,is een comeback aan het maken,zijn een comeback aan het maken,zijn een comeback aan het maken,zijn een comeback aan het maken
+b1-0397,dutch,een comeback maken,simple_past,maakte een comeback,maakte een comeback,maakte een comeback,maakten een comeback,maakten een comeback,maakten een comeback
+b1-0397,dutch,een comeback maken,past_progressive,was een comeback aan het maken,was een comeback aan het maken,was een comeback aan het maken,waren een comeback aan het maken,waren een comeback aan het maken,waren een comeback aan het maken
+b1-0397,dutch,een comeback maken,present_perfect,heb een comeback gemaakt,hebt een comeback gemaakt,heeft een comeback gemaakt,hebben een comeback gemaakt,hebben een comeback gemaakt,hebben een comeback gemaakt
+b1-0397,dutch,een comeback maken,past_perfect,had een comeback gemaakt,had een comeback gemaakt,had een comeback gemaakt,hadden een comeback gemaakt,hadden een comeback gemaakt,hadden een comeback gemaakt
+b1-0397,dutch,een comeback maken,future,zal een comeback maken,zult een comeback maken,zal een comeback maken,zullen een comeback maken,zullen een comeback maken,zullen een comeback maken
 b1-0397,persian,بازگشتن,present,بازمی‌گردم,بازمی‌گردی,بازمی‌گردد,بازمی‌گردیم,بازمی‌گردید,بازمی‌گردند
 b1-0397,persian,بازگشتن,present_progressive,دارم بازمی‌گردم,داری بازمی‌گردی,دارد بازمی‌گردد,داریم بازمی‌گردیم,دارید بازمی‌گردید,دارند بازمی‌گردند
 b1-0397,persian,بازگشتن,simple_past,بازگشتم,بازگشتی,بازگشت,بازگشتیم,بازگشتید,بازگشتند
@@ -19030,11 +19174,33 @@ b1-0399,dutch,langskomen,past_progressive,was aan het langskomen,was aan het lan
 b1-0399,dutch,langskomen,present_perfect,ben langsgekomen,bent langsgekomen,is langsgekomen,zijn langsgekomen,zijn langsgekomen,zijn langsgekomen
 b1-0399,dutch,langskomen,past_perfect,was langsgekomen,was langsgekomen,was langsgekomen,waren langsgekomen,waren langsgekomen,waren langsgekomen
 b1-0399,dutch,langskomen,future,zal langskomen,zult langskomen,zal langskomen,zullen langskomen,zullen langskomen,zullen langskomen
+b1-0399,persian,به کسی سر زدن,present,به کسی سر می‌زنم,به کسی سر می‌زنی,به کسی سر می‌زند,به کسی سر می‌زنیم,به کسی سر می‌زنید,به کسی سر می‌زنند
+b1-0399,persian,به کسی سر زدن,present_progressive,دارم به کسی سر می‌زنم,داری به کسی سر می‌زنی,دارد به کسی سر می‌زند,داریم به کسی سر می‌زنیم,دارید به کسی سر می‌زنید,دارند به کسی سر می‌زنند
+b1-0399,persian,به کسی سر زدن,simple_past,به کسی سر زدم,به کسی سر زدی,به کسی سر زد,به کسی سر زدیم,به کسی سر زدید,به کسی سر زدند
+b1-0399,persian,به کسی سر زدن,past_imperfect,به کسی سر می‌زدم,به کسی سر می‌زدی,به کسی سر می‌زد,به کسی سر می‌زدیم,به کسی سر می‌زدید,به کسی سر می‌زدند
+b1-0399,persian,به کسی سر زدن,past_progressive,داشتم به کسی سر می‌زدم,داشتی به کسی سر می‌زدی,داشت به کسی سر می‌زد,داشتیم به کسی سر می‌زدیم,داشتید به کسی سر می‌زدید,داشتند به کسی سر می‌زدند
+b1-0399,persian,به کسی سر زدن,present_perfect,به کسی سر زده‌ام,به کسی سر زده‌ای,به کسی سر زده است,به کسی سر زده‌ایم,به کسی سر زده‌اید,به کسی سر زده‌اند
+b1-0399,persian,به کسی سر زدن,past_perfect,به کسی سر زده بودم,به کسی سر زده بودی,به کسی سر زده بود,به کسی سر زده بودیم,به کسی سر زده بودید,به کسی سر زده بودند
+b1-0399,persian,به کسی سر زدن,future,به کسی سر خواهم زد,به کسی سر خواهی زد,به کسی سر خواهد زد,به کسی سر خواهیم زد,به کسی سر خواهید زد,به کسی سر خواهند زد
+b1-0400,english,come to mind,present,-,-,comes to mind,-,-,come to mind
+b1-0400,english,come to mind,present_progressive,-,-,is coming to mind,-,-,are coming to mind
+b1-0400,english,come to mind,simple_past,-,-,came to mind,-,-,came to mind
+b1-0400,english,come to mind,past_progressive,-,-,was coming to mind,-,-,were coming to mind
+b1-0400,english,come to mind,present_perfect,-,-,has come to mind,-,-,have come to mind
+b1-0400,english,come to mind,past_perfect,-,-,had come to mind,-,-,had come to mind
+b1-0400,english,come to mind,future,-,-,will come to mind,-,-,will come to mind
 b1-0400,german,einfallen,present,-,-,fällt ein,-,-,fallen ein
 b1-0400,german,einfallen,simple_past,-,-,fiel ein,-,-,fielen ein
 b1-0400,german,einfallen,present_perfect,-,-,ist eingefallen,-,-,sind eingefallen
 b1-0400,german,einfallen,past_perfect,-,-,war eingefallen,-,-,waren eingefallen
 b1-0400,german,einfallen,future,-,-,wird einfallen,-,-,werden einfallen
+b1-0400,dutch,te binnen schieten,present,-,-,schiet te binnen,-,-,schieten te binnen
+b1-0400,dutch,te binnen schieten,present_progressive,-,-,is te binnen aan het schieten,-,-,zijn te binnen aan het schieten
+b1-0400,dutch,te binnen schieten,simple_past,-,-,schoot te binnen,-,-,schoten te binnen
+b1-0400,dutch,te binnen schieten,past_progressive,-,-,was te binnen aan het schieten,-,-,waren te binnen aan het schieten
+b1-0400,dutch,te binnen schieten,present_perfect,-,-,is te binnen geschoten,-,-,zijn te binnen geschoten
+b1-0400,dutch,te binnen schieten,past_perfect,-,-,was te binnen geschoten,-,-,waren te binnen geschoten
+b1-0400,dutch,te binnen schieten,future,-,-,zal te binnen schieten,-,-,zullen te binnen schieten
 b1-0400,persian,به ذهن آمدن,present,-,-,به ذهن می‌آید,-,-,به ذهن می‌آیند
 b1-0400,persian,به ذهن آمدن,present_progressive,-,-,-,-,-,-
 b1-0400,persian,به ذهن آمدن,simple_past,-,-,به ذهن آمد,-,-,به ذهن آمدند
@@ -19043,6 +19209,13 @@ b1-0400,persian,به ذهن آمدن,past_progressive,-,-,-,-,-,-
 b1-0400,persian,به ذهن آمدن,present_perfect,-,-,به ذهن آمده است,-,-,به ذهن آمده‌اند
 b1-0400,persian,به ذهن آمدن,past_perfect,-,-,به ذهن آمده بود,-,-,به ذهن آمده بودند
 b1-0400,persian,به ذهن آمدن,future,-,-,به ذهن خواهد آمد,-,-,به ذهن خواهند آمد
+b1-0401,english,come towards,present,come towards,come towards,comes towards,come towards,come towards,come towards
+b1-0401,english,come towards,present_progressive,am coming towards,are coming towards,is coming towards,are coming towards,are coming towards,are coming towards
+b1-0401,english,come towards,simple_past,came towards,came towards,came towards,came towards,came towards,came towards
+b1-0401,english,come towards,past_progressive,was coming towards,were coming towards,was coming towards,were coming towards,were coming towards,were coming towards
+b1-0401,english,come towards,present_perfect,have come towards,have come towards,has come towards,have come towards,have come towards,have come towards
+b1-0401,english,come towards,past_perfect,had come towards,had come towards,had come towards,had come towards,had come towards,had come towards
+b1-0401,english,come towards,future,will come towards,will come towards,will come towards,will come towards,will come towards,will come towards
 b1-0401,german,entgegenkommen,present,komme entgegen,kommst entgegen,kommt entgegen,kommen entgegen,kommt entgegen,kommen entgegen
 b1-0401,german,entgegenkommen,simple_past,kam entgegen,kamst entgegen,kam entgegen,kamen entgegen,kamt entgegen,kamen entgegen
 b1-0401,german,entgegenkommen,present_perfect,bin entgegengekommen,bist entgegengekommen,ist entgegengekommen,sind entgegengekommen,seid entgegengekommen,sind entgegengekommen
@@ -19102,6 +19275,13 @@ b1-0405,german,in Auftrag geben,simple_past,gab in Auftrag,gabst in Auftrag,gab 
 b1-0405,german,in Auftrag geben,present_perfect,habe in Auftrag gegeben,hast in Auftrag gegeben,hat in Auftrag gegeben,haben in Auftrag gegeben,habt in Auftrag gegeben,haben in Auftrag gegeben
 b1-0405,german,in Auftrag geben,past_perfect,hatte in Auftrag gegeben,hattest in Auftrag gegeben,hatte in Auftrag gegeben,hatten in Auftrag gegeben,hattet in Auftrag gegeben,hatten in Auftrag gegeben
 b1-0405,german,in Auftrag geben,future,werde in Auftrag geben,wirst in Auftrag geben,wird in Auftrag geben,werden in Auftrag geben,werdet in Auftrag geben,werden in Auftrag geben
+b1-0405,dutch,opdracht geven,present,geef opdracht,geeft opdracht,geeft opdracht,geven opdracht,geven opdracht,geven opdracht
+b1-0405,dutch,opdracht geven,present_progressive,ben opdracht aan het geven,bent opdracht aan het geven,is opdracht aan het geven,zijn opdracht aan het geven,zijn opdracht aan het geven,zijn opdracht aan het geven
+b1-0405,dutch,opdracht geven,simple_past,gaf opdracht,gaf opdracht,gaf opdracht,gaven opdracht,gaven opdracht,gaven opdracht
+b1-0405,dutch,opdracht geven,past_progressive,was opdracht aan het geven,was opdracht aan het geven,was opdracht aan het geven,waren opdracht aan het geven,waren opdracht aan het geven,waren opdracht aan het geven
+b1-0405,dutch,opdracht geven,present_perfect,heb opdracht gegeven,hebt opdracht gegeven,heeft opdracht gegeven,hebben opdracht gegeven,hebben opdracht gegeven,hebben opdracht gegeven
+b1-0405,dutch,opdracht geven,past_perfect,had opdracht gegeven,had opdracht gegeven,had opdracht gegeven,hadden opdracht gegeven,hadden opdracht gegeven,hadden opdracht gegeven
+b1-0405,dutch,opdracht geven,future,zal opdracht geven,zult opdracht geven,zal opdracht geven,zullen opdracht geven,zullen opdracht geven,zullen opdracht geven
 b1-0405,persian,سفارش دادن,present,سفارش می‌دهم,سفارش می‌دهی,سفارش می‌دهد,سفارش می‌دهیم,سفارش می‌دهید,سفارش می‌دهند
 b1-0405,persian,سفارش دادن,present_progressive,دارم سفارش می‌دهم,داری سفارش می‌دهی,دارد سفارش می‌دهد,داریم سفارش می‌دهیم,دارید سفارش می‌دهید,دارند سفارش می‌دهند
 b1-0405,persian,سفارش دادن,simple_past,سفارش دادم,سفارش دادی,سفارش داد,سفارش دادیم,سفارش دادید,سفارش دادند
@@ -19257,13 +19437,13 @@ b1-0443,german,bedenken,simple_past,bedachte,bedachtest,bedachte,bedachten,bedac
 b1-0443,german,bedenken,present_perfect,habe bedacht,hast bedacht,hat bedacht,haben bedacht,habt bedacht,haben bedacht
 b1-0443,german,bedenken,past_perfect,hatte bedacht,hattest bedacht,hatte bedacht,hatten bedacht,hattet bedacht,hatten bedacht
 b1-0443,german,bedenken,future,werde bedenken,wirst bedenken,wird bedenken,werden bedenken,werdet bedenken,werden bedenken
-b1-0443,dutch,bedenken,present,bedenk,bedenkt,bedenkt,bedenken,bedenken,bedenken
-b1-0443,dutch,bedenken,present_progressive,ben aan het bedenken,bent aan het bedenken,is aan het bedenken,zijn aan het bedenken,zijn aan het bedenken,zijn aan het bedenken
-b1-0443,dutch,bedenken,simple_past,bedacht,bedacht,bedacht,bedachten,bedachten,bedachten
-b1-0443,dutch,bedenken,past_progressive,was aan het bedenken,was aan het bedenken,was aan het bedenken,waren aan het bedenken,waren aan het bedenken,waren aan het bedenken
-b1-0443,dutch,bedenken,present_perfect,heb bedacht,hebt bedacht,heeft bedacht,hebben bedacht,hebben bedacht,hebben bedacht
-b1-0443,dutch,bedenken,past_perfect,had bedacht,had bedacht,had bedacht,hadden bedacht,hadden bedacht,hadden bedacht
-b1-0443,dutch,bedenken,future,zal bedenken,zult bedenken,zal bedenken,zullen bedenken,zullen bedenken,zullen bedenken
+b1-0443,dutch,overwegen,present,overweeg,overweegt,overweegt,overwegen,overwegen,overwegen
+b1-0443,dutch,overwegen,present_progressive,ben aan het overwegen,bent aan het overwegen,is aan het overwegen,zijn aan het overwegen,zijn aan het overwegen,zijn aan het overwegen
+b1-0443,dutch,overwegen,simple_past,overwoog,overwoog,overwoog,overwogen,overwogen,overwogen
+b1-0443,dutch,overwegen,past_progressive,was aan het overwegen,was aan het overwegen,was aan het overwegen,waren aan het overwegen,waren aan het overwegen,waren aan het overwegen
+b1-0443,dutch,overwegen,present_perfect,heb overwogen,hebt overwogen,heeft overwogen,hebben overwogen,hebben overwogen,hebben overwogen
+b1-0443,dutch,overwegen,past_perfect,had overwogen,had overwogen,had overwogen,hadden overwogen,hadden overwogen,hadden overwogen
+b1-0443,dutch,overwegen,future,zal overwegen,zult overwegen,zal overwegen,zullen overwegen,zullen overwegen,zullen overwegen
 b1-0443,persian,در نظر گرفتن,present,در نظر می‌گیرم,در نظر می‌گیری,در نظر می‌گیرد,در نظر می‌گیریم,در نظر می‌گیرید,در نظر می‌گیرند
 b1-0443,persian,در نظر گرفتن,present_progressive,دارم در نظر می‌گیرم,داری در نظر می‌گیری,دارد در نظر می‌گیرد,داریم در نظر می‌گیریم,دارید در نظر می‌گیرید,دارند در نظر می‌گیرند
 b1-0443,persian,در نظر گرفتن,simple_past,در نظر گرفتم,در نظر گرفتی,در نظر گرفت,در نظر گرفتیم,در نظر گرفتید,در نظر گرفتند
@@ -19299,11 +19479,25 @@ b1-0445,persian,از ... تشکیل شدن,past_progressive,-,-,-,-,-,-
 b1-0445,persian,از ... تشکیل شدن,present_perfect,-,-,از ... تشکیل شده است,-,-,از ... تشکیل شده‌اند
 b1-0445,persian,از ... تشکیل شدن,past_perfect,-,-,از ... تشکیل شده بود,-,-,از ... تشکیل شده بودند
 b1-0445,persian,از ... تشکیل شدن,future,-,-,از ... تشکیل خواهد شد,-,-,از ... تشکیل خواهند شد
+b1-0458,english,continue learning,present,continue learning,continue learning,continues learning,continue learning,continue learning,continue learning
+b1-0458,english,continue learning,present_progressive,am continuing learning,are continuing learning,is continuing learning,are continuing learning,are continuing learning,are continuing learning
+b1-0458,english,continue learning,simple_past,continued learning,continued learning,continued learning,continued learning,continued learning,continued learning
+b1-0458,english,continue learning,past_progressive,was continuing learning,were continuing learning,was continuing learning,were continuing learning,were continuing learning,were continuing learning
+b1-0458,english,continue learning,present_perfect,have continued learning,have continued learning,has continued learning,have continued learning,have continued learning,have continued learning
+b1-0458,english,continue learning,past_perfect,had continued learning,had continued learning,had continued learning,had continued learning,had continued learning,had continued learning
+b1-0458,english,continue learning,future,will continue learning,will continue learning,will continue learning,will continue learning,will continue learning,will continue learning
 b1-0458,german,weiterlernen,present,lerne weiter,lernst weiter,lernt weiter,lernen weiter,lernt weiter,lernen weiter
 b1-0458,german,weiterlernen,simple_past,lernte weiter,lerntest weiter,lernte weiter,lernten weiter,lerntet weiter,lernten weiter
 b1-0458,german,weiterlernen,present_perfect,habe weitergelernt,hast weitergelernt,hat weitergelernt,haben weitergelernt,habt weitergelernt,haben weitergelernt
 b1-0458,german,weiterlernen,past_perfect,hatte weitergelernt,hattest weitergelernt,hatte weitergelernt,hatten weitergelernt,hattet weitergelernt,hatten weitergelernt
 b1-0458,german,weiterlernen,future,werde weiterlernen,wirst weiterlernen,wird weiterlernen,werden weiterlernen,werdet weiterlernen,werden weiterlernen
+b1-0458,dutch,verder leren,present,leer verder,leert verder,leert verder,leren verder,leren verder,leren verder
+b1-0458,dutch,verder leren,present_progressive,ben verder aan het leren,bent verder aan het leren,is verder aan het leren,zijn verder aan het leren,zijn verder aan het leren,zijn verder aan het leren
+b1-0458,dutch,verder leren,simple_past,leerde verder,leerde verder,leerde verder,leerden verder,leerden verder,leerden verder
+b1-0458,dutch,verder leren,past_progressive,was verder aan het leren,was verder aan het leren,was verder aan het leren,waren verder aan het leren,waren verder aan het leren,waren verder aan het leren
+b1-0458,dutch,verder leren,present_perfect,heb verder geleerd,hebt verder geleerd,heeft verder geleerd,hebben verder geleerd,hebben verder geleerd,hebben verder geleerd
+b1-0458,dutch,verder leren,past_perfect,had verder geleerd,had verder geleerd,had verder geleerd,hadden verder geleerd,hadden verder geleerd,hadden verder geleerd
+b1-0458,dutch,verder leren,future,zal verder leren,zult verder leren,zal verder leren,zullen verder leren,zullen verder leren,zullen verder leren
 b1-0458,persian,یادگیری را ادامه دادن,present,یادگیری را ادامه می‌دهم,یادگیری را ادامه می‌دهی,یادگیری را ادامه می‌دهد,یادگیری را ادامه می‌دهیم,یادگیری را ادامه می‌دهید,یادگیری را ادامه می‌دهند
 b1-0458,persian,یادگیری را ادامه دادن,present_progressive,دارم یادگیری را ادامه می‌دهم,داری یادگیری را ادامه می‌دهی,دارد یادگیری را ادامه می‌دهد,داریم یادگیری را ادامه می‌دهیم,دارید یادگیری را ادامه می‌دهید,دارند یادگیری را ادامه می‌دهند
 b1-0458,persian,یادگیری را ادامه دادن,simple_past,یادگیری را ادامه دادم,یادگیری را ادامه دادی,یادگیری را ادامه داد,یادگیری را ادامه دادیم,یادگیری را ادامه دادید,یادگیری را ادامه دادند
@@ -19312,6 +19506,13 @@ b1-0458,persian,یادگیری را ادامه دادن,past_progressive,داش�
 b1-0458,persian,یادگیری را ادامه دادن,present_perfect,یادگیری را ادامه داده‌ام,یادگیری را ادامه داده‌ای,یادگیری را ادامه داده است,یادگیری را ادامه داده‌ایم,یادگیری را ادامه داده‌اید,یادگیری را ادامه داده‌اند
 b1-0458,persian,یادگیری را ادامه دادن,past_perfect,یادگیری را ادامه داده بودم,یادگیری را ادامه داده بودی,یادگیری را ادامه داده بود,یادگیری را ادامه داده بودیم,یادگیری را ادامه داده بودید,یادگیری را ادامه داده بودند
 b1-0458,persian,یادگیری را ادامه دادن,future,یادگیری را ادامه خواهم داد,یادگیری را ادامه خواهی داد,یادگیری را ادامه خواهد داد,یادگیری را ادامه خواهیم داد,یادگیری را ادامه خواهید داد,یادگیری را ادامه خواهند داد
+b1-0459,english,continue paying,present,continue paying,continue paying,continues paying,continue paying,continue paying,continue paying
+b1-0459,english,continue paying,present_progressive,am continuing paying,are continuing paying,is continuing paying,are continuing paying,are continuing paying,are continuing paying
+b1-0459,english,continue paying,simple_past,continued paying,continued paying,continued paying,continued paying,continued paying,continued paying
+b1-0459,english,continue paying,past_progressive,was continuing paying,were continuing paying,was continuing paying,were continuing paying,were continuing paying,were continuing paying
+b1-0459,english,continue paying,present_perfect,have continued paying,have continued paying,has continued paying,have continued paying,have continued paying,have continued paying
+b1-0459,english,continue paying,past_perfect,had continued paying,had continued paying,had continued paying,had continued paying,had continued paying,had continued paying
+b1-0459,english,continue paying,future,will continue paying,will continue paying,will continue paying,will continue paying,will continue paying,will continue paying
 b1-0459,german,weiterzahlen,present,zahle weiter,zahlst weiter,zahlt weiter,zahlen weiter,zahlt weiter,zahlen weiter
 b1-0459,german,weiterzahlen,simple_past,zahlte weiter,zahltest weiter,zahlte weiter,zahlten weiter,zahltet weiter,zahlten weiter
 b1-0459,german,weiterzahlen,present_perfect,habe weitergezahlt,hast weitergezahlt,hat weitergezahlt,haben weitergezahlt,habt weitergezahlt,haben weitergezahlt
@@ -19332,6 +19533,13 @@ b1-0459,persian,پرداخت را ادامه دادن,past_progressive,داشت�
 b1-0459,persian,پرداخت را ادامه دادن,present_perfect,پرداخت را ادامه داده‌ام,پرداخت را ادامه داده‌ای,پرداخت را ادامه داده است,پرداخت را ادامه داده‌ایم,پرداخت را ادامه داده‌اید,پرداخت را ادامه داده‌اند
 b1-0459,persian,پرداخت را ادامه دادن,past_perfect,پرداخت را ادامه داده بودم,پرداخت را ادامه داده بودی,پرداخت را ادامه داده بود,پرداخت را ادامه داده بودیم,پرداخت را ادامه داده بودید,پرداخت را ادامه داده بودند
 b1-0459,persian,پرداخت را ادامه دادن,future,پرداخت را ادامه خواهم داد,پرداخت را ادامه خواهی داد,پرداخت را ادامه خواهد داد,پرداخت را ادامه خواهیم داد,پرداخت را ادامه خواهید داد,پرداخت را ادامه خواهند داد
+b1-0460,english,continue working,present,continue working,continue working,continues working,continue working,continue working,continue working
+b1-0460,english,continue working,present_progressive,am continuing working,are continuing working,is continuing working,are continuing working,are continuing working,are continuing working
+b1-0460,english,continue working,simple_past,continued working,continued working,continued working,continued working,continued working,continued working
+b1-0460,english,continue working,past_progressive,was continuing working,were continuing working,was continuing working,were continuing working,were continuing working,were continuing working
+b1-0460,english,continue working,present_perfect,have continued working,have continued working,has continued working,have continued working,have continued working,have continued working
+b1-0460,english,continue working,past_perfect,had continued working,had continued working,had continued working,had continued working,had continued working,had continued working
+b1-0460,english,continue working,future,will continue working,will continue working,will continue working,will continue working,will continue working,will continue working
 b1-0460,german,weiterarbeiten,present,arbeite weiter,arbeitest weiter,arbeitet weiter,arbeiten weiter,arbeitet weiter,arbeiten weiter
 b1-0460,german,weiterarbeiten,simple_past,arbeitete weiter,arbeitetest weiter,arbeitete weiter,arbeiteten weiter,arbeitetet weiter,arbeiteten weiter
 b1-0460,german,weiterarbeiten,present_perfect,habe weitergearbeitet,hast weitergearbeitet,hat weitergearbeitet,haben weitergearbeitet,habt weitergearbeitet,haben weitergearbeitet
@@ -19344,14 +19552,14 @@ b1-0460,dutch,doorwerken,past_progressive,was aan het doorwerken,was aan het doo
 b1-0460,dutch,doorwerken,present_perfect,heb doorgewerkt,hebt doorgewerkt,heeft doorgewerkt,hebben doorgewerkt,hebben doorgewerkt,hebben doorgewerkt
 b1-0460,dutch,doorwerken,past_perfect,had doorgewerkt,had doorgewerkt,had doorgewerkt,hadden doorgewerkt,hadden doorgewerkt,hadden doorgewerkt
 b1-0460,dutch,doorwerken,future,zal doorwerken,zult doorwerken,zal doorwerken,zullen doorwerken,zullen doorwerken,zullen doorwerken
-b1-0460,persian,به کار ادامه دادن,present,به کار ادامه می‌دهم,به کار ادامه می‌دهی,به کار ادامه می‌دهد,به کار ادامه می‌دهیم,به کار ادامه می‌دهید,به کار ادامه می‌دهند
-b1-0460,persian,به کار ادامه دادن,present_progressive,دارم به کار ادامه می‌دهم,داری به کار ادامه می‌دهی,دارد به کار ادامه می‌دهد,داریم به کار ادامه می‌دهیم,دارید به کار ادامه می‌دهید,دارند به کار ادامه می‌دهند
-b1-0460,persian,به کار ادامه دادن,simple_past,به کار ادامه دادم,به کار ادامه دادی,به کار ادامه داد,به کار ادامه دادیم,به کار ادامه دادید,به کار ادامه دادند
-b1-0460,persian,به کار ادامه دادن,past_imperfect,به کار ادامه می‌دادم,به کار ادامه می‌دادی,به کار ادامه می‌داد,به کار ادامه می‌دادیم,به کار ادامه می‌دادید,به کار ادامه می‌دادند
-b1-0460,persian,به کار ادامه دادن,past_progressive,داشتم به کار ادامه می‌دادم,داشتی به کار ادامه می‌دادی,داشت به کار ادامه می‌داد,داشتیم به کار ادامه می‌دادیم,داشتید به کار ادامه می‌دادید,داشتند به کار ادامه می‌دادند
-b1-0460,persian,به کار ادامه دادن,present_perfect,به کار ادامه داده‌ام,به کار ادامه داده‌ای,به کار ادامه داده است,به کار ادامه داده‌ایم,به کار ادامه داده‌اید,به کار ادامه داده‌اند
-b1-0460,persian,به کار ادامه دادن,past_perfect,به کار ادامه داده بودم,به کار ادامه داده بودی,به کار ادامه داده بود,به کار ادامه داده بودیم,به کار ادامه داده بودید,به کار ادامه داده بودند
-b1-0460,persian,به کار ادامه دادن,future,به کار ادامه خواهم داد,به کار ادامه خواهی داد,به کار ادامه خواهد داد,به کار ادامه خواهیم داد,به کار ادامه خواهید داد,به کار ادامه خواهند داد
+b1-0460,persian,کار را ادامه دادن,present,کار را ادامه می‌دهم,کار را ادامه می‌دهی,کار را ادامه می‌دهد,کار را ادامه می‌دهیم,کار را ادامه می‌دهید,کار را ادامه می‌دهند
+b1-0460,persian,کار را ادامه دادن,present_progressive,دارم کار را ادامه می‌دهم,داری کار را ادامه می‌دهی,دارد کار را ادامه می‌دهد,داریم کار را ادامه می‌دهیم,دارید کار را ادامه می‌دهید,دارند کار را ادامه می‌دهند
+b1-0460,persian,کار را ادامه دادن,simple_past,کار را ادامه دادم,کار را ادامه دادی,کار را ادامه داد,کار را ادامه دادیم,کار را ادامه دادید,کار را ادامه دادند
+b1-0460,persian,کار را ادامه دادن,past_imperfect,کار را ادامه می‌دادم,کار را ادامه می‌دادی,کار را ادامه می‌داد,کار را ادامه می‌دادیم,کار را ادامه می‌دادید,کار را ادامه می‌دادند
+b1-0460,persian,کار را ادامه دادن,past_progressive,داشتم کار را ادامه می‌دادم,داشتی کار را ادامه می‌دادی,داشت کار را ادامه می‌داد,داشتیم کار را ادامه می‌دادیم,داشتید کار را ادامه می‌دادید,داشتند کار را ادامه می‌دادند
+b1-0460,persian,کار را ادامه دادن,present_perfect,کار را ادامه داده‌ام,کار را ادامه داده‌ای,کار را ادامه داده است,کار را ادامه داده‌ایم,کار را ادامه داده‌اید,کار را ادامه داده‌اند
+b1-0460,persian,کار را ادامه دادن,past_perfect,کار را ادامه داده بودم,کار را ادامه داده بودی,کار را ادامه داده بود,کار را ادامه داده بودیم,کار را ادامه داده بودید,کار را ادامه داده بودند
+b1-0460,persian,کار را ادامه دادن,future,کار را ادامه خواهم داد,کار را ادامه خواهی داد,کار را ادامه خواهد داد,کار را ادامه خواهیم داد,کار را ادامه خواهید داد,کار را ادامه خواهند داد
 b1-0463,english,contribute,present,contribute,contribute,contributes,contribute,contribute,contribute
 b1-0463,english,contribute,present_progressive,am contributing,are contributing,is contributing,are contributing,are contributing,are contributing
 b1-0463,english,contribute,simple_past,contributed,contributed,contributed,contributed,contributed,contributed
@@ -19973,14 +20181,14 @@ b1-0578,dutch,vaststellen,past_progressive,was aan het vaststellen,was aan het v
 b1-0578,dutch,vaststellen,present_perfect,heb vastgesteld,hebt vastgesteld,heeft vastgesteld,hebben vastgesteld,hebben vastgesteld,hebben vastgesteld
 b1-0578,dutch,vaststellen,past_perfect,had vastgesteld,had vastgesteld,had vastgesteld,hadden vastgesteld,hadden vastgesteld,hadden vastgesteld
 b1-0578,dutch,vaststellen,future,zal vaststellen,zult vaststellen,zal vaststellen,zullen vaststellen,zullen vaststellen,zullen vaststellen
-b1-0578,persian,تعیین کردن,present,تعیین می‌کنم,تعیین می‌کنی,تعیین می‌کند,تعیین می‌کنیم,تعیین می‌کنید,تعیین می‌کنند
-b1-0578,persian,تعیین کردن,present_progressive,دارم تعیین می‌کنم,داری تعیین می‌کنی,دارد تعیین می‌کند,داریم تعیین می‌کنیم,دارید تعیین می‌کنید,دارند تعیین می‌کنند
-b1-0578,persian,تعیین کردن,simple_past,تعیین کردم,تعیین کردی,تعیین کرد,تعیین کردیم,تعیین کردید,تعیین کردند
-b1-0578,persian,تعیین کردن,past_imperfect,تعیین می‌کردم,تعیین می‌کردی,تعیین می‌کرد,تعیین می‌کردیم,تعیین می‌کردید,تعیین می‌کردند
-b1-0578,persian,تعیین کردن,past_progressive,داشتم تعیین می‌کردم,داشتی تعیین می‌کردی,داشت تعیین می‌کرد,داشتیم تعیین می‌کردیم,داشتید تعیین می‌کردید,داشتند تعیین می‌کردند
-b1-0578,persian,تعیین کردن,present_perfect,تعیین کرده‌ام,تعیین کرده‌ای,تعیین کرده است,تعیین کرده‌ایم,تعیین کرده‌اید,تعیین کرده‌اند
-b1-0578,persian,تعیین کردن,past_perfect,تعیین کرده بودم,تعیین کرده بودی,تعیین کرده بود,تعیین کرده بودیم,تعیین کرده بودید,تعیین کرده بودند
-b1-0578,persian,تعیین کردن,future,تعیین خواهم کرد,تعیین خواهی کرد,تعیین خواهد کرد,تعیین خواهیم کرد,تعیین خواهید کرد,تعیین خواهند کرد
+b1-0578,persian,مشخص کردن,present,مشخص می‌کنم,مشخص می‌کنی,مشخص می‌کند,مشخص می‌کنیم,مشخص می‌کنید,مشخص می‌کنند
+b1-0578,persian,مشخص کردن,present_progressive,دارم مشخص می‌کنم,داری مشخص می‌کنی,دارد مشخص می‌کند,داریم مشخص می‌کنیم,دارید مشخص می‌کنید,دارند مشخص می‌کنند
+b1-0578,persian,مشخص کردن,simple_past,مشخص کردم,مشخص کردی,مشخص کرد,مشخص کردیم,مشخص کردید,مشخص کردند
+b1-0578,persian,مشخص کردن,past_imperfect,مشخص می‌کردم,مشخص می‌کردی,مشخص می‌کرد,مشخص می‌کردیم,مشخص می‌کردید,مشخص می‌کردند
+b1-0578,persian,مشخص کردن,past_progressive,داشتم مشخص می‌کردم,داشتی مشخص می‌کردی,داشت مشخص می‌کرد,داشتیم مشخص می‌کردیم,داشتید مشخص می‌کردید,داشتند مشخص می‌کردند
+b1-0578,persian,مشخص کردن,present_perfect,مشخص کرده‌ام,مشخص کرده‌ای,مشخص کرده است,مشخص کرده‌ایم,مشخص کرده‌اید,مشخص کرده‌اند
+b1-0578,persian,مشخص کردن,past_perfect,مشخص کرده بودم,مشخص کرده بودی,مشخص کرده بود,مشخص کرده بودیم,مشخص کرده بودید,مشخص کرده بودند
+b1-0578,persian,مشخص کردن,future,مشخص خواهم کرد,مشخص خواهی کرد,مشخص خواهد کرد,مشخص خواهیم کرد,مشخص خواهید کرد,مشخص خواهند کرد
 b1-0583,english,differentiate,present,differentiate,differentiate,differentiates,differentiate,differentiate,differentiate
 b1-0583,english,differentiate,present_progressive,am differentiating,are differentiating,is differentiating,are differentiating,are differentiating,are differentiating
 b1-0583,english,differentiate,simple_past,differentiated,differentiated,differentiated,differentiated,differentiated,differentiated
@@ -21803,14 +22011,14 @@ b1-0925,persian,لباس درآوردن,past_progressive,داشتم لباس د�
 b1-0925,persian,لباس درآوردن,present_perfect,لباس درآورده‌ام,لباس درآورده‌ای,لباس درآورده است,لباس درآورده‌ایم,لباس درآورده‌اید,لباس درآورده‌اند
 b1-0925,persian,لباس درآوردن,past_perfect,لباس درآورده بودم,لباس درآورده بودی,لباس درآورده بود,لباس درآورده بودیم,لباس درآورده بودید,لباس درآورده بودند
 b1-0925,persian,لباس درآوردن,future,لباس درخواهم آورد,لباس درخواهی آورد,لباس درخواهد آورد,لباس درخواهیم آورد,لباس درخواهید آورد,لباس درخواهند آورد
-b1-0926,persian,به انجام دادن عادت کردن,present,به انجام دادن عادت می‌کنم,به انجام دادن عادت می‌کنی,به انجام دادن عادت می‌کند,به انجام دادن عادت می‌کنیم,به انجام دادن عادت می‌کنید,به انجام دادن عادت می‌کنند
-b1-0926,persian,به انجام دادن عادت کردن,present_progressive,دارم به انجام دادن عادت می‌کنم,داری به انجام دادن عادت می‌کنی,دارد به انجام دادن عادت می‌کند,داریم به انجام دادن عادت می‌کنیم,دارید به انجام دادن عادت می‌کنید,دارند به انجام دادن عادت می‌کنند
-b1-0926,persian,به انجام دادن عادت کردن,simple_past,به انجام دادن عادت کردم,به انجام دادن عادت کردی,به انجام دادن عادت کرد,به انجام دادن عادت کردیم,به انجام دادن عادت کردید,به انجام دادن عادت کردند
-b1-0926,persian,به انجام دادن عادت کردن,past_imperfect,به انجام دادن عادت می‌کردم,به انجام دادن عادت می‌کردی,به انجام دادن عادت می‌کرد,به انجام دادن عادت می‌کردیم,به انجام دادن عادت می‌کردید,به انجام دادن عادت می‌کردند
-b1-0926,persian,به انجام دادن عادت کردن,past_progressive,داشتم به انجام دادن عادت می‌کردم,داشتی به انجام دادن عادت می‌کردی,داشت به انجام دادن عادت می‌کرد,داشتیم به انجام دادن عادت می‌کردیم,داشتید به انجام دادن عادت می‌کردید,داشتند به انجام دادن عادت می‌کردند
-b1-0926,persian,به انجام دادن عادت کردن,present_perfect,به انجام دادن عادت کرده‌ام,به انجام دادن عادت کرده‌ای,به انجام دادن عادت کرده است,به انجام دادن عادت کرده‌ایم,به انجام دادن عادت کرده‌اید,به انجام دادن عادت کرده‌اند
-b1-0926,persian,به انجام دادن عادت کردن,past_perfect,به انجام دادن عادت کرده بودم,به انجام دادن عادت کرده بودی,به انجام دادن عادت کرده بود,به انجام دادن عادت کرده بودیم,به انجام دادن عادت کرده بودید,به انجام دادن عادت کرده بودند
-b1-0926,persian,به انجام دادن عادت کردن,future,به انجام دادن عادت خواهم کرد,به انجام دادن عادت خواهی کرد,به انجام دادن عادت خواهد کرد,به انجام دادن عادت خواهیم کرد,به انجام دادن عادت خواهید کرد,به انجام دادن عادت خواهند کرد
+b1-0926,persian,به انجام کاری عادت کردن,present,به انجام کاری عادت می‌کنم,به انجام کاری عادت می‌کنی,به انجام کاری عادت می‌کند,به انجام کاری عادت می‌کنیم,به انجام کاری عادت می‌کنید,به انجام کاری عادت می‌کنند
+b1-0926,persian,به انجام کاری عادت کردن,present_progressive,دارم به انجام کاری عادت می‌کنم,داری به انجام کاری عادت می‌کنی,دارد به انجام کاری عادت می‌کند,داریم به انجام کاری عادت می‌کنیم,دارید به انجام کاری عادت می‌کنید,دارند به انجام کاری عادت می‌کنند
+b1-0926,persian,به انجام کاری عادت کردن,simple_past,به انجام کاری عادت کردم,به انجام کاری عادت کردی,به انجام کاری عادت کرد,به انجام کاری عادت کردیم,به انجام کاری عادت کردید,به انجام کاری عادت کردند
+b1-0926,persian,به انجام کاری عادت کردن,past_imperfect,به انجام کاری عادت می‌کردم,به انجام کاری عادت می‌کردی,به انجام کاری عادت می‌کرد,به انجام کاری عادت می‌کردیم,به انجام کاری عادت می‌کردید,به انجام کاری عادت می‌کردند
+b1-0926,persian,به انجام کاری عادت کردن,past_progressive,داشتم به انجام کاری عادت می‌کردم,داشتی به انجام کاری عادت می‌کردی,داشت به انجام کاری عادت می‌کرد,داشتیم به انجام کاری عادت می‌کردیم,داشتید به انجام کاری عادت می‌کردید,داشتند به انجام کاری عادت می‌کردند
+b1-0926,persian,به انجام کاری عادت کردن,present_perfect,به انجام کاری عادت کرده‌ام,به انجام کاری عادت کرده‌ای,به انجام کاری عادت کرده است,به انجام کاری عادت کرده‌ایم,به انجام کاری عادت کرده‌اید,به انجام کاری عادت کرده‌اند
+b1-0926,persian,به انجام کاری عادت کردن,past_perfect,به انجام کاری عادت کرده بودم,به انجام کاری عادت کرده بودی,به انجام کاری عادت کرده بود,به انجام کاری عادت کرده بودیم,به انجام کاری عادت کرده بودید,به انجام کاری عادت کرده بودند
+b1-0926,persian,به انجام کاری عادت کردن,future,به انجام کاری عادت خواهم کرد,به انجام کاری عادت خواهی کرد,به انجام کاری عادت خواهد کرد,به انجام کاری عادت خواهیم کرد,به انجام کاری عادت خواهید کرد,به انجام کاری عادت خواهند کرد
 b1-0928,english,gild,present,gild,gild,gilds,gild,gild,gild
 b1-0928,english,gild,present_progressive,am gilding,are gilding,is gilding,are gilding,are gilding,are gilding
 b1-0928,english,gild,simple_past,gilded,gilded,gilded,gilded,gilded,gilded
@@ -21846,13 +22054,6 @@ b1-0930,persian,چشم‌اندازی ارائه دادن,past_progressive,دا�
 b1-0930,persian,چشم‌اندازی ارائه دادن,present_perfect,چشم‌اندازی ارائه داده‌ام,چشم‌اندازی ارائه داده‌ای,چشم‌اندازی ارائه داده است,چشم‌اندازی ارائه داده‌ایم,چشم‌اندازی ارائه داده‌اید,چشم‌اندازی ارائه داده‌اند
 b1-0930,persian,چشم‌اندازی ارائه دادن,past_perfect,چشم‌اندازی ارائه داده بودم,چشم‌اندازی ارائه داده بودی,چشم‌اندازی ارائه داده بود,چشم‌اندازی ارائه داده بودیم,چشم‌اندازی ارائه داده بودید,چشم‌اندازی ارائه داده بودند
 b1-0930,persian,چشم‌اندازی ارائه دادن,future,چشم‌اندازی ارائه خواهم داد,چشم‌اندازی ارائه خواهی داد,چشم‌اندازی ارائه خواهد داد,چشم‌اندازی ارائه خواهیم داد,چشم‌اندازی ارائه خواهید داد,چشم‌اندازی ارائه خواهند داد
-b1-0933,english,go ahead,present,go ahead,go ahead,goes ahead,go ahead,go ahead,go ahead
-b1-0933,english,go ahead,present_progressive,am going ahead,are going ahead,is going ahead,are going ahead,are going ahead,are going ahead
-b1-0933,english,go ahead,simple_past,went ahead,went ahead,went ahead,went ahead,went ahead,went ahead
-b1-0933,english,go ahead,past_progressive,was going ahead,were going ahead,was going ahead,were going ahead,were going ahead,were going ahead
-b1-0933,english,go ahead,present_perfect,have gone ahead,have gone ahead,has gone ahead,have gone ahead,have gone ahead,have gone ahead
-b1-0933,english,go ahead,past_perfect,had gone ahead,had gone ahead,had gone ahead,had gone ahead,had gone ahead,had gone ahead
-b1-0933,english,go ahead,future,will go ahead,will go ahead,will go ahead,will go ahead,will go ahead,will go ahead
 b1-0934,english,go off,present,go off,go off,goes off,go off,go off,go off
 b1-0934,english,go off,present_progressive,am going off,are going off,is going off,are going off,are going off,are going off
 b1-0934,english,go off,simple_past,went off,went off,went off,went off,went off,went off
@@ -22118,13 +22319,6 @@ b1-0968,persian,راهنمایی کردن,past_progressive,داشتم راهنم
 b1-0968,persian,راهنمایی کردن,present_perfect,راهنمایی کرده‌ام,راهنمایی کرده‌ای,راهنمایی کرده است,راهنمایی کرده‌ایم,راهنمایی کرده‌اید,راهنمایی کرده‌اند
 b1-0968,persian,راهنمایی کردن,past_perfect,راهنمایی کرده بودم,راهنمایی کرده بودی,راهنمایی کرده بود,راهنمایی کرده بودیم,راهنمایی کرده بودید,راهنمایی کرده بودند
 b1-0968,persian,راهنمایی کردن,future,راهنمایی خواهم کرد,راهنمایی خواهی کرد,راهنمایی خواهد کرد,راهنمایی خواهیم کرد,راهنمایی خواهید کرد,راهنمایی خواهند کرد
-b1-0980,english,hang on,present,hang on,hang on,hangs on,hang on,hang on,hang on
-b1-0980,english,hang on,present_progressive,am hanging on,are hanging on,is hanging on,are hanging on,are hanging on,are hanging on
-b1-0980,english,hang on,simple_past,hung on,hung on,hung on,hung on,hung on,hung on
-b1-0980,english,hang on,past_progressive,was hanging on,were hanging on,was hanging on,were hanging on,were hanging on,were hanging on
-b1-0980,english,hang on,present_perfect,have hung on,have hung on,has hung on,have hung on,have hung on,have hung on
-b1-0980,english,hang on,past_perfect,had hung on,had hung on,had hung on,had hung on,had hung on,had hung on
-b1-0980,english,hang on,future,will hang on,will hang on,will hang on,will hang on,will hang on,will hang on
 b1-0981,english,happen,present,happen,happen,happens,happen,happen,happen
 b1-0981,english,happen,present_progressive,am happening,are happening,is happening,are happening,are happening,are happening
 b1-0981,english,happen,simple_past,happened,happened,happened,happened,happened,happened
@@ -23337,6 +23531,14 @@ b1-1230,persian,دروغ گفتن,past_progressive,داشتم دروغ می‌گ
 b1-1230,persian,دروغ گفتن,present_perfect,دروغ گفته‌ام,دروغ گفته‌ای,دروغ گفته است,دروغ گفته‌ایم,دروغ گفته‌اید,دروغ گفته‌اند
 b1-1230,persian,دروغ گفتن,past_perfect,دروغ گفته بودم,دروغ گفته بودی,دروغ گفته بود,دروغ گفته بودیم,دروغ گفته بودید,دروغ گفته بودند
 b1-1230,persian,دروغ گفتن,future,دروغ خواهم گفت,دروغ خواهی گفت,دروغ خواهد گفت,دروغ خواهیم گفت,دروغ خواهید گفت,دروغ خواهند گفت
+b1-1246,persian,آتش روشن کردن,present,آتش روشن می‌کنم,آتش روشن می‌کنی,آتش روشن می‌کند,آتش روشن می‌کنیم,آتش روشن می‌کنید,آتش روشن می‌کنند
+b1-1246,persian,آتش روشن کردن,present_progressive,دارم آتش روشن می‌کنم,داری آتش روشن می‌کنی,دارد آتش روشن می‌کند,داریم آتش روشن می‌کنیم,دارید آتش روشن می‌کنید,دارند آتش روشن می‌کنند
+b1-1246,persian,آتش روشن کردن,simple_past,آتش روشن کردم,آتش روشن کردی,آتش روشن کرد,آتش روشن کردیم,آتش روشن کردید,آتش روشن کردند
+b1-1246,persian,آتش روشن کردن,past_imperfect,آتش روشن می‌کردم,آتش روشن می‌کردی,آتش روشن می‌کرد,آتش روشن می‌کردیم,آتش روشن می‌کردید,آتش روشن می‌کردند
+b1-1246,persian,آتش روشن کردن,past_progressive,داشتم آتش روشن می‌کردم,داشتی آتش روشن می‌کردی,داشت آتش روشن می‌کرد,داشتیم آتش روشن می‌کردیم,داشتید آتش روشن می‌کردید,داشتند آتش روشن می‌کردند
+b1-1246,persian,آتش روشن کردن,present_perfect,آتش روشن کرده‌ام,آتش روشن کرده‌ای,آتش روشن کرده است,آتش روشن کرده‌ایم,آتش روشن کرده‌اید,آتش روشن کرده‌اند
+b1-1246,persian,آتش روشن کردن,past_perfect,آتش روشن کرده بودم,آتش روشن کرده بودی,آتش روشن کرده بود,آتش روشن کرده بودیم,آتش روشن کرده بودید,آتش روشن کرده بودند
+b1-1246,persian,آتش روشن کردن,future,آتش روشن خواهم کرد,آتش روشن خواهی کرد,آتش روشن خواهد کرد,آتش روشن خواهیم کرد,آتش روشن خواهید کرد,آتش روشن خواهند کرد
 b1-1255,english,log in,present,log in,log in,logs in,log in,log in,log in
 b1-1255,english,log in,present_progressive,am logging in,are logging in,is logging in,are logging in,are logging in,are logging in
 b1-1255,english,log in,simple_past,logged in,logged in,logged in,logged in,logged in,logged in
@@ -23553,6 +23755,22 @@ b1-1265,persian,مراجعه کردن,past_progressive,داشتم مراجعه �
 b1-1265,persian,مراجعه کردن,present_perfect,مراجعه کرده‌ام,مراجعه کرده‌ای,مراجعه کرده است,مراجعه کرده‌ایم,مراجعه کرده‌اید,مراجعه کرده‌اند
 b1-1265,persian,مراجعه کردن,past_perfect,مراجعه کرده بودم,مراجعه کرده بودی,مراجعه کرده بود,مراجعه کرده بودیم,مراجعه کرده بودید,مراجعه کرده بودند
 b1-1265,persian,مراجعه کردن,future,مراجعه خواهم کرد,مراجعه خواهی کرد,مراجعه خواهد کرد,مراجعه خواهیم کرد,مراجعه خواهید کرد,مراجعه خواهند کرد
+b1-1268,persian,از کوره در رفتن,present,از کوره در می‌روم,از کوره در می‌روی,از کوره در می‌رود,از کوره در می‌رویم,از کوره در می‌روید,از کوره در می‌روند
+b1-1268,persian,از کوره در رفتن,present_progressive,دارم از کوره در می‌روم,داری از کوره در می‌روی,دارد از کوره در می‌رود,داریم از کوره در می‌رویم,دارید از کوره در می‌روید,دارند از کوره در می‌روند
+b1-1268,persian,از کوره در رفتن,simple_past,از کوره در رفتم,از کوره در رفتی,از کوره در رفت,از کوره در رفتیم,از کوره در رفتید,از کوره در رفتند
+b1-1268,persian,از کوره در رفتن,past_imperfect,از کوره در می‌رفتم,از کوره در می‌رفتی,از کوره در می‌رفت,از کوره در می‌رفتیم,از کوره در می‌رفتید,از کوره در می‌رفتند
+b1-1268,persian,از کوره در رفتن,past_progressive,داشتم از کوره در می‌رفتم,داشتی از کوره در می‌رفتی,داشت از کوره در می‌رفت,داشتیم از کوره در می‌رفتیم,داشتید از کوره در می‌رفتید,داشتند از کوره در می‌رفتند
+b1-1268,persian,از کوره در رفتن,present_perfect,از کوره در رفته‌ام,از کوره در رفته‌ای,از کوره در رفته است,از کوره در رفته‌ایم,از کوره در رفته‌اید,از کوره در رفته‌اند
+b1-1268,persian,از کوره در رفتن,past_perfect,از کوره در رفته بودم,از کوره در رفته بودی,از کوره در رفته بود,از کوره در رفته بودیم,از کوره در رفته بودید,از کوره در رفته بودند
+b1-1268,persian,از کوره در رفتن,future,از کوره در خواهم رفت,از کوره در خواهی رفت,از کوره در خواهد رفت,از کوره در خواهیم رفت,از کوره در خواهید رفت,از کوره در خواهند رفت
+b1-1269,persian,از کوره در رفتن,present,از کوره در می‌روم,از کوره در می‌روی,از کوره در می‌رود,از کوره در می‌رویم,از کوره در می‌روید,از کوره در می‌روند
+b1-1269,persian,از کوره در رفتن,present_progressive,دارم از کوره در می‌روم,داری از کوره در می‌روی,دارد از کوره در می‌رود,داریم از کوره در می‌رویم,دارید از کوره در می‌روید,دارند از کوره در می‌روند
+b1-1269,persian,از کوره در رفتن,simple_past,از کوره در رفتم,از کوره در رفتی,از کوره در رفت,از کوره در رفتیم,از کوره در رفتید,از کوره در رفتند
+b1-1269,persian,از کوره در رفتن,past_imperfect,از کوره در می‌رفتم,از کوره در می‌رفتی,از کوره در می‌رفت,از کوره در می‌رفتیم,از کوره در می‌رفتید,از کوره در می‌رفتند
+b1-1269,persian,از کوره در رفتن,past_progressive,داشتم از کوره در می‌رفتم,داشتی از کوره در می‌رفتی,داشت از کوره در می‌رفت,داشتیم از کوره در می‌رفتیم,داشتید از کوره در می‌رفتید,داشتند از کوره در می‌رفتند
+b1-1269,persian,از کوره در رفتن,present_perfect,از کوره در رفته‌ام,از کوره در رفته‌ای,از کوره در رفته است,از کوره در رفته‌ایم,از کوره در رفته‌اید,از کوره در رفته‌اند
+b1-1269,persian,از کوره در رفتن,past_perfect,از کوره در رفته بودم,از کوره در رفته بودی,از کوره در رفته بود,از کوره در رفته بودیم,از کوره در رفته بودید,از کوره در رفته بودند
+b1-1269,persian,از کوره در رفتن,future,از کوره در خواهم رفت,از کوره در خواهی رفت,از کوره در خواهد رفت,از کوره در خواهیم رفت,از کوره در خواهید رفت,از کوره در خواهند رفت
 b1-1278,english,mail,present,mail,mail,mails,mail,mail,mail
 b1-1278,english,mail,present_progressive,am mailing,are mailing,is mailing,are mailing,are mailing,are mailing
 b1-1278,english,mail,simple_past,mailed,mailed,mailed,mailed,mailed,mailed
@@ -25069,13 +25287,13 @@ b1-1622,persian,ارائه کردن,past_progressive,داشتم ارائه می�
 b1-1622,persian,ارائه کردن,present_perfect,ارائه کرده‌ام,ارائه کرده‌ای,ارائه کرده است,ارائه کرده‌ایم,ارائه کرده‌اید,ارائه کرده‌اند
 b1-1622,persian,ارائه کردن,past_perfect,ارائه کرده بودم,ارائه کرده بودی,ارائه کرده بود,ارائه کرده بودیم,ارائه کرده بودید,ارائه کرده بودند
 b1-1622,persian,ارائه کردن,future,ارائه خواهم کرد,ارائه خواهی کرد,ارائه خواهد کرد,ارائه خواهیم کرد,ارائه خواهید کرد,ارائه خواهند کرد
-b1-1628,english,press,present,press,press,presses,press,press,press
-b1-1628,english,press,present_progressive,am pressing,are pressing,is pressing,are pressing,are pressing,are pressing
-b1-1628,english,press,simple_past,pressed,pressed,pressed,pressed,pressed,pressed
-b1-1628,english,press,past_progressive,was pressing,were pressing,was pressing,were pressing,were pressing,were pressing
-b1-1628,english,press,present_perfect,have pressed,have pressed,has pressed,have pressed,have pressed,have pressed
-b1-1628,english,press,past_perfect,had pressed,had pressed,had pressed,had pressed,had pressed,had pressed
-b1-1628,english,press,future,will press,will press,will press,will press,will press,will press
+b1-1628,english,press in,present,press in,press in,presses in,press in,press in,press in
+b1-1628,english,press in,present_progressive,am pressing in,are pressing in,is pressing in,are pressing in,are pressing in,are pressing in
+b1-1628,english,press in,simple_past,pressed in,pressed in,pressed in,pressed in,pressed in,pressed in
+b1-1628,english,press in,past_progressive,was pressing in,were pressing in,was pressing in,were pressing in,were pressing in,were pressing in
+b1-1628,english,press in,present_perfect,have pressed in,have pressed in,has pressed in,have pressed in,have pressed in,have pressed in
+b1-1628,english,press in,past_perfect,had pressed in,had pressed in,had pressed in,had pressed in,had pressed in,had pressed in
+b1-1628,english,press in,future,will press in,will press in,will press in,will press in,will press in,will press in
 b1-1628,german,eindrücken,present,drücke ein,drückst ein,drückt ein,drücken ein,drückt ein,drücken ein
 b1-1628,german,eindrücken,simple_past,drückte ein,drücktest ein,drückte ein,drückten ein,drücktet ein,drückten ein
 b1-1628,german,eindrücken,present_perfect,habe eingedrückt,hast eingedrückt,hat eingedrückt,haben eingedrückt,habt eingedrückt,haben eingedrückt
@@ -26909,6 +27127,14 @@ b1-1890,persian,پذیرایی کردن,past_progressive,داشتم پذیرای
 b1-1890,persian,پذیرایی کردن,present_perfect,پذیرایی کرده‌ام,پذیرایی کرده‌ای,پذیرایی کرده است,پذیرایی کرده‌ایم,پذیرایی کرده‌اید,پذیرایی کرده‌اند
 b1-1890,persian,پذیرایی کردن,past_perfect,پذیرایی کرده بودم,پذیرایی کرده بودی,پذیرایی کرده بود,پذیرایی کرده بودیم,پذیرایی کرده بودید,پذیرایی کرده بودند
 b1-1890,persian,پذیرایی کردن,future,پذیرایی خواهم کرد,پذیرایی خواهی کرد,پذیرایی خواهد کرد,پذیرایی خواهیم کرد,پذیرایی خواهید کرد,پذیرایی خواهند کرد
+b1-1891,persian,کسب‌وکاری راه‌اندازی کردن,present,کسب‌وکاری راه‌اندازی می‌کنم,کسب‌وکاری راه‌اندازی می‌کنی,کسب‌وکاری راه‌اندازی می‌کند,کسب‌وکاری راه‌اندازی می‌کنیم,کسب‌وکاری راه‌اندازی می‌کنید,کسب‌وکاری راه‌اندازی می‌کنند
+b1-1891,persian,کسب‌وکاری راه‌اندازی کردن,present_progressive,دارم کسب‌وکاری راه‌اندازی می‌کنم,داری کسب‌وکاری راه‌اندازی می‌کنی,دارد کسب‌وکاری راه‌اندازی می‌کند,داریم کسب‌وکاری راه‌اندازی می‌کنیم,دارید کسب‌وکاری راه‌اندازی می‌کنید,دارند کسب‌وکاری راه‌اندازی می‌کنند
+b1-1891,persian,کسب‌وکاری راه‌اندازی کردن,simple_past,کسب‌وکاری راه‌اندازی کردم,کسب‌وکاری راه‌اندازی کردی,کسب‌وکاری راه‌اندازی کرد,کسب‌وکاری راه‌اندازی کردیم,کسب‌وکاری راه‌اندازی کردید,کسب‌وکاری راه‌اندازی کردند
+b1-1891,persian,کسب‌وکاری راه‌اندازی کردن,past_imperfect,کسب‌وکاری راه‌اندازی می‌کردم,کسب‌وکاری راه‌اندازی می‌کردی,کسب‌وکاری راه‌اندازی می‌کرد,کسب‌وکاری راه‌اندازی می‌کردیم,کسب‌وکاری راه‌اندازی می‌کردید,کسب‌وکاری راه‌اندازی می‌کردند
+b1-1891,persian,کسب‌وکاری راه‌اندازی کردن,past_progressive,داشتم کسب‌وکاری راه‌اندازی می‌کردم,داشتی کسب‌وکاری راه‌اندازی می‌کردی,داشت کسب‌وکاری راه‌اندازی می‌کرد,داشتیم کسب‌وکاری راه‌اندازی می‌کردیم,داشتید کسب‌وکاری راه‌اندازی می‌کردید,داشتند کسب‌وکاری راه‌اندازی می‌کردند
+b1-1891,persian,کسب‌وکاری راه‌اندازی کردن,present_perfect,کسب‌وکاری راه‌اندازی کرده‌ام,کسب‌وکاری راه‌اندازی کرده‌ای,کسب‌وکاری راه‌اندازی کرده است,کسب‌وکاری راه‌اندازی کرده‌ایم,کسب‌وکاری راه‌اندازی کرده‌اید,کسب‌وکاری راه‌اندازی کرده‌اند
+b1-1891,persian,کسب‌وکاری راه‌اندازی کردن,past_perfect,کسب‌وکاری راه‌اندازی کرده بودم,کسب‌وکاری راه‌اندازی کرده بودی,کسب‌وکاری راه‌اندازی کرده بود,کسب‌وکاری راه‌اندازی کرده بودیم,کسب‌وکاری راه‌اندازی کرده بودید,کسب‌وکاری راه‌اندازی کرده بودند
+b1-1891,persian,کسب‌وکاری راه‌اندازی کردن,future,کسب‌وکاری راه‌اندازی خواهم کرد,کسب‌وکاری راه‌اندازی خواهی کرد,کسب‌وکاری راه‌اندازی خواهد کرد,کسب‌وکاری راه‌اندازی خواهیم کرد,کسب‌وکاری راه‌اندازی خواهید کرد,کسب‌وکاری راه‌اندازی خواهند کرد
 b1-1892,english,settle down,present,settle down,settle down,settles down,settle down,settle down,settle down
 b1-1892,english,settle down,present_progressive,am settling down,are settling down,is settling down,are settling down,are settling down,are settling down
 b1-1892,english,settle down,simple_past,settled down,settled down,settled down,settled down,settled down,settled down
@@ -27226,6 +27452,14 @@ b1-1950,persian,حل کردن,past_progressive,داشتم حل می‌کردم,�
 b1-1950,persian,حل کردن,present_perfect,حل کرده‌ام,حل کرده‌ای,حل کرده است,حل کرده‌ایم,حل کرده‌اید,حل کرده‌اند
 b1-1950,persian,حل کردن,past_perfect,حل کرده بودم,حل کرده بودی,حل کرده بود,حل کرده بودیم,حل کرده بودید,حل کرده بودند
 b1-1950,persian,حل کردن,future,حل خواهم کرد,حل خواهی کرد,حل خواهد کرد,حل خواهیم کرد,حل خواهید کرد,حل خواهند کرد
+b1-1952,persian,به چیزی ربط داشتن,present,به چیزی ربط دارم,به چیزی ربط داری,به چیزی ربط دارد,به چیزی ربط داریم,به چیزی ربط دارید,به چیزی ربط دارند
+b1-1952,persian,به چیزی ربط داشتن,present_progressive,-,-,-,-,-,-
+b1-1952,persian,به چیزی ربط داشتن,simple_past,به چیزی ربط داشتم,به چیزی ربط داشتی,به چیزی ربط داشت,به چیزی ربط داشتیم,به چیزی ربط داشتید,به چیزی ربط داشتند
+b1-1952,persian,به چیزی ربط داشتن,past_imperfect,به چیزی ربط داشتم,به چیزی ربط داشتی,به چیزی ربط داشت,به چیزی ربط داشتیم,به چیزی ربط داشتید,به چیزی ربط داشتند
+b1-1952,persian,به چیزی ربط داشتن,past_progressive,-,-,-,-,-,-
+b1-1952,persian,به چیزی ربط داشتن,present_perfect,به چیزی ربط داشته‌ام,به چیزی ربط داشته‌ای,به چیزی ربط داشته است,به چیزی ربط داشته‌ایم,به چیزی ربط داشته‌اید,به چیزی ربط داشته‌اند
+b1-1952,persian,به چیزی ربط داشتن,past_perfect,به چیزی ربط داشته بودم,به چیزی ربط داشته بودی,به چیزی ربط داشته بود,به چیزی ربط داشته بودیم,به چیزی ربط داشته بودید,به چیزی ربط داشته بودند
+b1-1952,persian,به چیزی ربط داشتن,future,به چیزی ربط خواهم داشت,به چیزی ربط خواهی داشت,به چیزی ربط خواهد داشت,به چیزی ربط خواهیم داشت,به چیزی ربط خواهید داشت,به چیزی ربط خواهند داشت
 b1-1956,english,sort out,present,sort out,sort out,sorts out,sort out,sort out,sort out
 b1-1956,english,sort out,present_progressive,am sorting out,are sorting out,is sorting out,are sorting out,are sorting out,are sorting out
 b1-1956,english,sort out,simple_past,sorted out,sorted out,sorted out,sorted out,sorted out,sorted out
@@ -32426,6 +32660,18 @@ b2-0411,english,fancy,past_progressive,-,-,-,-,-,-
 b2-0411,english,fancy,present_perfect,have fancied,have fancied,has fancied,have fancied,have fancied,have fancied
 b2-0411,english,fancy,past_perfect,had fancied,had fancied,had fancied,had fancied,had fancied,had fancied
 b2-0411,english,fancy,future,will fancy,will fancy,will fancy,will fancy,will fancy,will fancy
+b2-0411,german,auf jemanden stehen,present,stehe auf jemanden,stehst auf jemanden,steht auf jemanden,stehen auf jemanden,steht auf jemanden,stehen auf jemanden
+b2-0411,german,auf jemanden stehen,simple_past,stand auf jemanden,standst auf jemanden,stand auf jemanden,standen auf jemanden,standet auf jemanden,standen auf jemanden
+b2-0411,german,auf jemanden stehen,present_perfect,habe auf jemanden gestanden,hast auf jemanden gestanden,hat auf jemanden gestanden,haben auf jemanden gestanden,habt auf jemanden gestanden,haben auf jemanden gestanden
+b2-0411,german,auf jemanden stehen,past_perfect,hatte auf jemanden gestanden,hattest auf jemanden gestanden,hatte auf jemanden gestanden,hatten auf jemanden gestanden,hattet auf jemanden gestanden,hatten auf jemanden gestanden
+b2-0411,german,auf jemanden stehen,future,werde auf jemanden stehen,wirst auf jemanden stehen,wird auf jemanden stehen,werden auf jemanden stehen,werdet auf jemanden stehen,werden auf jemanden stehen
+b2-0411,dutch,op iemand vallen,present,val op iemand,valt op iemand,valt op iemand,vallen op iemand,vallen op iemand,vallen op iemand
+b2-0411,dutch,op iemand vallen,present_progressive,ben op iemand aan het vallen,bent op iemand aan het vallen,is op iemand aan het vallen,zijn op iemand aan het vallen,zijn op iemand aan het vallen,zijn op iemand aan het vallen
+b2-0411,dutch,op iemand vallen,simple_past,viel op iemand,viel op iemand,viel op iemand,vielen op iemand,vielen op iemand,vielen op iemand
+b2-0411,dutch,op iemand vallen,past_progressive,was op iemand aan het vallen,was op iemand aan het vallen,was op iemand aan het vallen,waren op iemand aan het vallen,waren op iemand aan het vallen,waren op iemand aan het vallen
+b2-0411,dutch,op iemand vallen,present_perfect,ben op iemand gevallen,bent op iemand gevallen,is op iemand gevallen,zijn op iemand gevallen,zijn op iemand gevallen,zijn op iemand gevallen
+b2-0411,dutch,op iemand vallen,past_perfect,was op iemand gevallen,was op iemand gevallen,was op iemand gevallen,waren op iemand gevallen,waren op iemand gevallen,waren op iemand gevallen
+b2-0411,dutch,op iemand vallen,future,zal op iemand vallen,zult op iemand vallen,zal op iemand vallen,zullen op iemand vallen,zullen op iemand vallen,zullen op iemand vallen
 b2-0411,persian,از کسی خوشش آمدن,present,از کسی خوشم می‌آید,از کسی خوشت می‌آید,از کسی خوشش می‌آید,از کسی خوشمان می‌آید,از کسی خوشتان می‌آید,از کسی خوششان می‌آید
 b2-0411,persian,از کسی خوشش آمدن,present_progressive,-,-,-,-,-,-
 b2-0411,persian,از کسی خوشش آمدن,simple_past,از کسی خوشم آمد,از کسی خوشت آمد,از کسی خوشش آمد,از کسی خوشمان آمد,از کسی خوشتان آمد,از کسی خوششان آمد
@@ -36236,33 +36482,6 @@ b2-1059,persian,نشان دادن,past_progressive,داشتم نشان می‌د
 b2-1059,persian,نشان دادن,present_perfect,نشان داده‌ام,نشان داده‌ای,نشان داده است,نشان داده‌ایم,نشان داده‌اید,نشان داده‌اند
 b2-1059,persian,نشان دادن,past_perfect,نشان داده بودم,نشان داده بودی,نشان داده بود,نشان داده بودیم,نشان داده بودید,نشان داده بودند
 b2-1059,persian,نشان دادن,future,نشان خواهم داد,نشان خواهی داد,نشان خواهد داد,نشان خواهیم داد,نشان خواهید داد,نشان خواهند داد
-b2-1064,english,sink,present,sink,sink,sinks,sink,sink,sink
-b2-1064,english,sink,present_progressive,am sinking,are sinking,is sinking,are sinking,are sinking,are sinking
-b2-1064,english,sink,simple_past,sank,sank,sank,sank,sank,sank
-b2-1064,english,sink,past_progressive,was sinking,were sinking,was sinking,were sinking,were sinking,were sinking
-b2-1064,english,sink,present_perfect,have sunk,have sunk,has sunk,have sunk,have sunk,have sunk
-b2-1064,english,sink,past_perfect,had sunk,had sunk,had sunk,had sunk,had sunk,had sunk
-b2-1064,english,sink,future,will sink,will sink,will sink,will sink,will sink,will sink
-b2-1064,german,versinken,present,versinke,versinkst,versinkt,versinken,versinkt,versinken
-b2-1064,german,versinken,simple_past,versank,versankst,versank,versanken,versankt,versanken
-b2-1064,german,versinken,present_perfect,bin versunken,bist versunken,ist versunken,sind versunken,seid versunken,sind versunken
-b2-1064,german,versinken,past_perfect,war versunken,warst versunken,war versunken,waren versunken,wart versunken,waren versunken
-b2-1064,german,versinken,future,werde versinken,wirst versinken,wird versinken,werden versinken,werdet versinken,werden versinken
-b2-1064,dutch,zinken,present,zink,zinkt,zinkt,zinken,zinken,zinken
-b2-1064,dutch,zinken,present_progressive,ben aan het zinken,bent aan het zinken,is aan het zinken,zijn aan het zinken,zijn aan het zinken,zijn aan het zinken
-b2-1064,dutch,zinken,simple_past,zonk,zonk,zonk,zonken,zonken,zonken
-b2-1064,dutch,zinken,past_progressive,was aan het zinken,was aan het zinken,was aan het zinken,waren aan het zinken,waren aan het zinken,waren aan het zinken
-b2-1064,dutch,zinken,present_perfect,ben gezonken,bent gezonken,is gezonken,zijn gezonken,zijn gezonken,zijn gezonken
-b2-1064,dutch,zinken,past_perfect,was gezonken,was gezonken,was gezonken,waren gezonken,waren gezonken,waren gezonken
-b2-1064,dutch,zinken,future,zal zinken,zult zinken,zal zinken,zullen zinken,zullen zinken,zullen zinken
-b2-1064,persian,فرو رفتن,present,فرو می‌روم,فرو می‌روی,فرو می‌رود,فرو می‌رویم,فرو می‌روید,فرو می‌روند
-b2-1064,persian,فرو رفتن,present_progressive,دارم فرو می‌روم,داری فرو می‌روی,دارد فرو می‌رود,داریم فرو می‌رویم,دارید فرو می‌روید,دارند فرو می‌روند
-b2-1064,persian,فرو رفتن,simple_past,فرو رفتم,فرو رفتی,فرو رفت,فرو رفتیم,فرو رفتید,فرو رفتند
-b2-1064,persian,فرو رفتن,past_imperfect,فرو می‌رفتم,فرو می‌رفتی,فرو می‌رفت,فرو می‌رفتیم,فرو می‌رفتید,فرو می‌رفتند
-b2-1064,persian,فرو رفتن,past_progressive,داشتم فرو می‌رفتم,داشتی فرو می‌رفتی,داشت فرو می‌رفت,داشتیم فرو می‌رفتیم,داشتید فرو می‌رفتید,داشتند فرو می‌رفتند
-b2-1064,persian,فرو رفتن,present_perfect,فرو رفته‌ام,فرو رفته‌ای,فرو رفته است,فرو رفته‌ایم,فرو رفته‌اید,فرو رفته‌اند
-b2-1064,persian,فرو رفتن,past_perfect,فرو رفته بودم,فرو رفته بودی,فرو رفته بود,فرو رفته بودیم,فرو رفته بودید,فرو رفته بودند
-b2-1064,persian,فرو رفتن,future,فرو خواهم رفت,فرو خواهی رفت,فرو خواهد رفت,فرو خواهیم رفت,فرو خواهید رفت,فرو خواهند رفت
 b2-1067,english,slam something,present,slam something,slam something,slams something,slam something,slam something,slam something
 b2-1067,english,slam something,present_progressive,am slamming something,are slamming something,is slamming something,are slamming something,are slamming something,are slamming something
 b2-1067,english,slam something,simple_past,slammed something,slammed something,slammed something,slammed something,slammed something,slammed something
@@ -41365,33 +41584,6 @@ c1-0496,persian,ناپسند دانستن,past_progressive,-,-,-,-,-,-
 c1-0496,persian,ناپسند دانستن,present_perfect,ناپسند دانسته‌ام,ناپسند دانسته‌ای,ناپسند دانسته است,ناپسند دانسته‌ایم,ناپسند دانسته‌اید,ناپسند دانسته‌اند
 c1-0496,persian,ناپسند دانستن,past_perfect,ناپسند دانسته بودم,ناپسند دانسته بودی,ناپسند دانسته بود,ناپسند دانسته بودیم,ناپسند دانسته بودید,ناپسند دانسته بودند
 c1-0496,persian,ناپسند دانستن,future,ناپسند خواهم دانست,ناپسند خواهی دانست,ناپسند خواهد دانست,ناپسند خواهیم دانست,ناپسند خواهید دانست,ناپسند خواهند دانست
-c1-0497,english,frown upon,present,frown upon,frown upon,frowns upon,frown upon,frown upon,frown upon
-c1-0497,english,frown upon,present_progressive,-,-,-,-,-,-
-c1-0497,english,frown upon,simple_past,frowned upon,frowned upon,frowned upon,frowned upon,frowned upon,frowned upon
-c1-0497,english,frown upon,past_progressive,-,-,-,-,-,-
-c1-0497,english,frown upon,present_perfect,have frowned upon,have frowned upon,has frowned upon,have frowned upon,have frowned upon,have frowned upon
-c1-0497,english,frown upon,past_perfect,had frowned upon,had frowned upon,had frowned upon,had frowned upon,had frowned upon,had frowned upon
-c1-0497,english,frown upon,future,will frown upon,will frown upon,will frown upon,will frown upon,will frown upon,will frown upon
-c1-0497,german,missbilligen,present,missbillige,missbilligst,missbilligt,missbilligen,missbilligt,missbilligen
-c1-0497,german,missbilligen,simple_past,missbilligte,missbilligtest,missbilligte,missbilligten,missbilligtet,missbilligten
-c1-0497,german,missbilligen,present_perfect,habe missbilligt,hast missbilligt,hat missbilligt,haben missbilligt,habt missbilligt,haben missbilligt
-c1-0497,german,missbilligen,past_perfect,hatte missbilligt,hattest missbilligt,hatte missbilligt,hatten missbilligt,hattet missbilligt,hatten missbilligt
-c1-0497,german,missbilligen,future,werde missbilligen,wirst missbilligen,wird missbilligen,werden missbilligen,werdet missbilligen,werden missbilligen
-c1-0497,dutch,afkeuren,present,keur af,keurt af,keurt af,keuren af,keuren af,keuren af
-c1-0497,dutch,afkeuren,present_progressive,-,-,-,-,-,-
-c1-0497,dutch,afkeuren,simple_past,keurde af,keurde af,keurde af,keurden af,keurden af,keurden af
-c1-0497,dutch,afkeuren,past_progressive,-,-,-,-,-,-
-c1-0497,dutch,afkeuren,present_perfect,heb afgekeurd,hebt afgekeurd,heeft afgekeurd,hebben afgekeurd,hebben afgekeurd,hebben afgekeurd
-c1-0497,dutch,afkeuren,past_perfect,had afgekeurd,had afgekeurd,had afgekeurd,hadden afgekeurd,hadden afgekeurd,hadden afgekeurd
-c1-0497,dutch,afkeuren,future,zal afkeuren,zult afkeuren,zal afkeuren,zullen afkeuren,zullen afkeuren,zullen afkeuren
-c1-0497,persian,ناپسند دانستن,present,ناپسند می‌دانم,ناپسند می‌دانی,ناپسند می‌داند,ناپسند می‌دانیم,ناپسند می‌دانید,ناپسند می‌دانند
-c1-0497,persian,ناپسند دانستن,present_progressive,-,-,-,-,-,-
-c1-0497,persian,ناپسند دانستن,simple_past,ناپسند دانستم,ناپسند دانستی,ناپسند دانست,ناپسند دانستیم,ناپسند دانستید,ناپسند دانستند
-c1-0497,persian,ناپسند دانستن,past_imperfect,ناپسند می‌دانستم,ناپسند می‌دانستی,ناپسند می‌دانست,ناپسند می‌دانستیم,ناپسند می‌دانستید,ناپسند می‌دانستند
-c1-0497,persian,ناپسند دانستن,past_progressive,-,-,-,-,-,-
-c1-0497,persian,ناپسند دانستن,present_perfect,ناپسند دانسته‌ام,ناپسند دانسته‌ای,ناپسند دانسته است,ناپسند دانسته‌ایم,ناپسند دانسته‌اید,ناپسند دانسته‌اند
-c1-0497,persian,ناپسند دانستن,past_perfect,ناپسند دانسته بودم,ناپسند دانسته بودی,ناپسند دانسته بود,ناپسند دانسته بودیم,ناپسند دانسته بودید,ناپسند دانسته بودند
-c1-0497,persian,ناپسند دانستن,future,ناپسند خواهم دانست,ناپسند خواهی دانست,ناپسند خواهد دانست,ناپسند خواهیم دانست,ناپسند خواهید دانست,ناپسند خواهند دانست
 c1-0500,english,fuel,present,fuel,fuel,fuels,fuel,fuel,fuel
 c1-0500,english,fuel,present_progressive,am fuelling,are fuelling,is fuelling,are fuelling,are fuelling,are fuelling
 c1-0500,english,fuel,simple_past,fuelled,fuelled,fuelled,fuelled,fuelled,fuelled
@@ -41576,13 +41768,6 @@ c1-0521,persian,با چیزی کنار آمدن,past_progressive,داشتم با
 c1-0521,persian,با چیزی کنار آمدن,present_perfect,با چیزی کنار آمده‌ام,با چیزی کنار آمده‌ای,با چیزی کنار آمده است,با چیزی کنار آمده‌ایم,با چیزی کنار آمده‌اید,با چیزی کنار آمده‌اند
 c1-0521,persian,با چیزی کنار آمدن,past_perfect,با چیزی کنار آمده بودم,با چیزی کنار آمده بودی,با چیزی کنار آمده بود,با چیزی کنار آمده بودیم,با چیزی کنار آمده بودید,با چیزی کنار آمده بودند
 c1-0521,persian,با چیزی کنار آمدن,future,با چیزی کنار خواهم آمد,با چیزی کنار خواهی آمد,با چیزی کنار خواهد آمد,با چیزی کنار خواهیم آمد,با چیزی کنار خواهید آمد,با چیزی کنار خواهند آمد
-c1-0522,english,get on,present,get on,get on,gets on,get on,get on,get on
-c1-0522,english,get on,present_progressive,am getting on,are getting on,is getting on,are getting on,are getting on,are getting on
-c1-0522,english,get on,simple_past,got on,got on,got on,got on,got on,got on
-c1-0522,english,get on,past_progressive,was getting on,were getting on,was getting on,were getting on,were getting on,were getting on
-c1-0522,english,get on,present_perfect,have got on,have got on,has got on,have got on,have got on,have got on
-c1-0522,english,get on,past_perfect,had got on,had got on,had got on,had got on,had got on,had got on
-c1-0522,english,get on,future,will get on,will get on,will get on,will get on,will get on,will get on
 c1-0522,persian,پیر شدن,present,پیر می‌شوم,پیر می‌شوی,پیر می‌شود,پیر می‌شویم,پیر می‌شوید,پیر می‌شوند
 c1-0522,persian,پیر شدن,present_progressive,دارم پیر می‌شوم,داری پیر می‌شوی,دارد پیر می‌شود,داریم پیر می‌شویم,دارید پیر می‌شوید,دارند پیر می‌شوند
 c1-0522,persian,پیر شدن,simple_past,پیر شدم,پیر شدی,پیر شد,پیر شدیم,پیر شدید,پیر شدند
@@ -44600,14 +44785,14 @@ c1-1041,persian,پناه جستن,past_progressive,داشتم پناه می‌ج
 c1-1041,persian,پناه جستن,present_perfect,پناه جسته‌ام,پناه جسته‌ای,پناه جسته است,پناه جسته‌ایم,پناه جسته‌اید,پناه جسته‌اند
 c1-1041,persian,پناه جستن,past_perfect,پناه جسته بودم,پناه جسته بودی,پناه جسته بود,پناه جسته بودیم,پناه جسته بودید,پناه جسته بودند
 c1-1041,persian,پناه جستن,future,پناه خواهم جست,پناه خواهی جست,پناه خواهد جست,پناه خواهیم جست,پناه خواهید جست,پناه خواهند جست
-c1-1051,persian,کسی را پرت کردن,present,کسی را پرت می‌کنم,کسی را پرت می‌کنی,کسی را پرت می‌کند,کسی را پرت می‌کنیم,کسی را پرت می‌کنید,کسی را پرت می‌کنند
-c1-1051,persian,کسی را پرت کردن,present_progressive,دارم کسی را پرت می‌کنم,داری کسی را پرت می‌کنی,دارد کسی را پرت می‌کند,داریم کسی را پرت می‌کنیم,دارید کسی را پرت می‌کنید,دارند کسی را پرت می‌کنند
-c1-1051,persian,کسی را پرت کردن,simple_past,کسی را پرت کردم,کسی را پرت کردی,کسی را پرت کرد,کسی را پرت کردیم,کسی را پرت کردید,کسی را پرت کردند
-c1-1051,persian,کسی را پرت کردن,past_imperfect,کسی را پرت می‌کردم,کسی را پرت می‌کردی,کسی را پرت می‌کرد,کسی را پرت می‌کردیم,کسی را پرت می‌کردید,کسی را پرت می‌کردند
-c1-1051,persian,کسی را پرت کردن,past_progressive,داشتم کسی را پرت می‌کردم,داشتی کسی را پرت می‌کردی,داشت کسی را پرت می‌کرد,داشتیم کسی را پرت می‌کردیم,داشتید کسی را پرت می‌کردید,داشتند کسی را پرت می‌کردند
-c1-1051,persian,کسی را پرت کردن,present_perfect,کسی را پرت کرده‌ام,کسی را پرت کرده‌ای,کسی را پرت کرده است,کسی را پرت کرده‌ایم,کسی را پرت کرده‌اید,کسی را پرت کرده‌اند
-c1-1051,persian,کسی را پرت کردن,past_perfect,کسی را پرت کرده بودم,کسی را پرت کرده بودی,کسی را پرت کرده بود,کسی را پرت کرده بودیم,کسی را پرت کرده بودید,کسی را پرت کرده بودند
-c1-1051,persian,کسی را پرت کردن,future,کسی را پرت خواهم کرد,کسی را پرت خواهی کرد,کسی را پرت خواهد کرد,کسی را پرت خواهیم کرد,کسی را پرت خواهید کرد,کسی را پرت خواهند کرد
+c1-1051,persian,کسی/چیزی را پرت کردن,present,کسی/چیزی را پرت می‌کنم,کسی/چیزی را پرت می‌کنی,کسی/چیزی را پرت می‌کند,کسی/چیزی را پرت می‌کنیم,کسی/چیزی را پرت می‌کنید,کسی/چیزی را پرت می‌کنند
+c1-1051,persian,کسی/چیزی را پرت کردن,present_progressive,دارم کسی/چیزی را پرت می‌کنم,داری کسی/چیزی را پرت می‌کنی,دارد کسی/چیزی را پرت می‌کند,داریم کسی/چیزی را پرت می‌کنیم,دارید کسی/چیزی را پرت می‌کنید,دارند کسی/چیزی را پرت می‌کنند
+c1-1051,persian,کسی/چیزی را پرت کردن,simple_past,کسی/چیزی را پرت کردم,کسی/چیزی را پرت کردی,کسی/چیزی را پرت کرد,کسی/چیزی را پرت کردیم,کسی/چیزی را پرت کردید,کسی/چیزی را پرت کردند
+c1-1051,persian,کسی/چیزی را پرت کردن,past_imperfect,کسی/چیزی را پرت می‌کردم,کسی/چیزی را پرت می‌کردی,کسی/چیزی را پرت می‌کرد,کسی/چیزی را پرت می‌کردیم,کسی/چیزی را پرت می‌کردید,کسی/چیزی را پرت می‌کردند
+c1-1051,persian,کسی/چیزی را پرت کردن,past_progressive,داشتم کسی/چیزی را پرت می‌کردم,داشتی کسی/چیزی را پرت می‌کردی,داشت کسی/چیزی را پرت می‌کرد,داشتیم کسی/چیزی را پرت می‌کردیم,داشتید کسی/چیزی را پرت می‌کردید,داشتند کسی/چیزی را پرت می‌کردند
+c1-1051,persian,کسی/چیزی را پرت کردن,present_perfect,کسی/چیزی را پرت کرده‌ام,کسی/چیزی را پرت کرده‌ای,کسی/چیزی را پرت کرده است,کسی/چیزی را پرت کرده‌ایم,کسی/چیزی را پرت کرده‌اید,کسی/چیزی را پرت کرده‌اند
+c1-1051,persian,کسی/چیزی را پرت کردن,past_perfect,کسی/چیزی را پرت کرده بودم,کسی/چیزی را پرت کرده بودی,کسی/چیزی را پرت کرده بود,کسی/چیزی را پرت کرده بودیم,کسی/چیزی را پرت کرده بودید,کسی/چیزی را پرت کرده بودند
+c1-1051,persian,کسی/چیزی را پرت کردن,future,کسی/چیزی را پرت خواهم کرد,کسی/چیزی را پرت خواهی کرد,کسی/چیزی را پرت خواهد کرد,کسی/چیزی را پرت خواهیم کرد,کسی/چیزی را پرت خواهید کرد,کسی/چیزی را پرت خواهند کرد
 c1-1054,english,set off,present,set off,set off,sets off,set off,set off,set off
 c1-1054,english,set off,present_progressive,am setting off,are setting off,is setting off,are setting off,are setting off,are setting off
 c1-1054,english,set off,simple_past,set off,set off,set off,set off,set off,set off
@@ -46928,14 +47113,14 @@ c2-0171,dutch,afbrengen van,past_progressive,-,-,-,-,-,-
 c2-0171,dutch,afbrengen van,present_perfect,heb van ... afgebracht,hebt van ... afgebracht,heeft van ... afgebracht,hebben van ... afgebracht,hebben van ... afgebracht,hebben van ... afgebracht
 c2-0171,dutch,afbrengen van,past_perfect,had van ... afgebracht,had van ... afgebracht,had van ... afgebracht,hadden van ... afgebracht,hadden van ... afgebracht,hadden van ... afgebracht
 c2-0171,dutch,afbrengen van,future,zal van ... afbrengen,zult van ... afbrengen,zal van ... afbrengen,zullen van ... afbrengen,zullen van ... afbrengen,zullen van ... afbrengen
-c2-0171,persian,کسی را از چیزی منصرف کردن,present,کسی را از چیزی منصرف می‌کنم,کسی را از چیزی منصرف می‌کنی,کسی را از چیزی منصرف می‌کند,کسی را از چیزی منصرف می‌کنیم,کسی را از چیزی منصرف می‌کنید,کسی را از چیزی منصرف می‌کنند
-c2-0171,persian,کسی را از چیزی منصرف کردن,present_progressive,دارم کسی را از چیزی منصرف می‌کنم,داری کسی را از چیزی منصرف می‌کنی,دارد کسی را از چیزی منصرف می‌کند,داریم کسی را از چیزی منصرف می‌کنیم,دارید کسی را از چیزی منصرف می‌کنید,دارند کسی را از چیزی منصرف می‌کنند
-c2-0171,persian,کسی را از چیزی منصرف کردن,simple_past,کسی را از چیزی منصرف کردم,کسی را از چیزی منصرف کردی,کسی را از چیزی منصرف کرد,کسی را از چیزی منصرف کردیم,کسی را از چیزی منصرف کردید,کسی را از چیزی منصرف کردند
-c2-0171,persian,کسی را از چیزی منصرف کردن,past_imperfect,کسی را از چیزی منصرف می‌کردم,کسی را از چیزی منصرف می‌کردی,کسی را از چیزی منصرف می‌کرد,کسی را از چیزی منصرف می‌کردیم,کسی را از چیزی منصرف می‌کردید,کسی را از چیزی منصرف می‌کردند
-c2-0171,persian,کسی را از چیزی منصرف کردن,past_progressive,داشتم کسی را از چیزی منصرف می‌کردم,داشتی کسی را از چیزی منصرف می‌کردی,داشت کسی را از چیزی منصرف می‌کرد,داشتیم کسی را از چیزی منصرف می‌کردیم,داشتید کسی را از چیزی منصرف می‌کردید,داشتند کسی را از چیزی منصرف می‌کردند
-c2-0171,persian,کسی را از چیزی منصرف کردن,present_perfect,کسی را از چیزی منصرف کرده‌ام,کسی را از چیزی منصرف کرده‌ای,کسی را از چیزی منصرف کرده است,کسی را از چیزی منصرف کرده‌ایم,کسی را از چیزی منصرف کرده‌اید,کسی را از چیزی منصرف کرده‌اند
-c2-0171,persian,کسی را از چیزی منصرف کردن,past_perfect,کسی را از چیزی منصرف کرده بودم,کسی را از چیزی منصرف کرده بودی,کسی را از چیزی منصرف کرده بود,کسی را از چیزی منصرف کرده بودیم,کسی را از چیزی منصرف کرده بودید,کسی را از چیزی منصرف کرده بودند
-c2-0171,persian,کسی را از چیزی منصرف کردن,future,کسی را از چیزی منصرف خواهم کرد,کسی را از چیزی منصرف خواهی کرد,کسی را از چیزی منصرف خواهد کرد,کسی را از چیزی منصرف خواهیم کرد,کسی را از چیزی منصرف خواهید کرد,کسی را از چیزی منصرف خواهند کرد
+c2-0171,persian,از ... منصرف کردن,present,از ... منصرف می‌کنم,از ... منصرف می‌کنی,از ... منصرف می‌کند,از ... منصرف می‌کنیم,از ... منصرف می‌کنید,از ... منصرف می‌کنند
+c2-0171,persian,از ... منصرف کردن,present_progressive,دارم از ... منصرف می‌کنم,داری از ... منصرف می‌کنی,دارد از ... منصرف می‌کند,داریم از ... منصرف می‌کنیم,دارید از ... منصرف می‌کنید,دارند از ... منصرف می‌کنند
+c2-0171,persian,از ... منصرف کردن,simple_past,از ... منصرف کردم,از ... منصرف کردی,از ... منصرف کرد,از ... منصرف کردیم,از ... منصرف کردید,از ... منصرف کردند
+c2-0171,persian,از ... منصرف کردن,past_imperfect,از ... منصرف می‌کردم,از ... منصرف می‌کردی,از ... منصرف می‌کرد,از ... منصرف می‌کردیم,از ... منصرف می‌کردید,از ... منصرف می‌کردند
+c2-0171,persian,از ... منصرف کردن,past_progressive,داشتم از ... منصرف می‌کردم,داشتی از ... منصرف می‌کردی,داشت از ... منصرف می‌کرد,داشتیم از ... منصرف می‌کردیم,داشتید از ... منصرف می‌کردید,داشتند از ... منصرف می‌کردند
+c2-0171,persian,از ... منصرف کردن,present_perfect,از ... منصرف کرده‌ام,از ... منصرف کرده‌ای,از ... منصرف کرده است,از ... منصرف کرده‌ایم,از ... منصرف کرده‌اید,از ... منصرف کرده‌اند
+c2-0171,persian,از ... منصرف کردن,past_perfect,از ... منصرف کرده بودم,از ... منصرف کرده بودی,از ... منصرف کرده بود,از ... منصرف کرده بودیم,از ... منصرف کرده بودید,از ... منصرف کرده بودند
+c2-0171,persian,از ... منصرف کردن,future,از ... منصرف خواهم کرد,از ... منصرف خواهی کرد,از ... منصرف خواهد کرد,از ... منصرف خواهیم کرد,از ... منصرف خواهید کرد,از ... منصرف خواهند کرد
 c2-0173,english,do somebody in,present,do somebody in,do somebody in,does somebody in,do somebody in,do somebody in,do somebody in
 c2-0173,english,do somebody in,present_progressive,am doing somebody in,are doing somebody in,is doing somebody in,are doing somebody in,are doing somebody in,are doing somebody in
 c2-0173,english,do somebody in,simple_past,did somebody in,did somebody in,did somebody in,did somebody in,did somebody in,did somebody in
@@ -47191,14 +47376,14 @@ c2-0197,dutch,inbreuk maken op,past_progressive,-,-,-,-,-,-
 c2-0197,dutch,inbreuk maken op,present_perfect,heb inbreuk gemaakt op,hebt inbreuk gemaakt op,heeft inbreuk gemaakt op,hebben inbreuk gemaakt op,hebben inbreuk gemaakt op,hebben inbreuk gemaakt op
 c2-0197,dutch,inbreuk maken op,past_perfect,had inbreuk gemaakt op,had inbreuk gemaakt op,had inbreuk gemaakt op,hadden inbreuk gemaakt op,hadden inbreuk gemaakt op,hadden inbreuk gemaakt op
 c2-0197,dutch,inbreuk maken op,future,zal inbreuk maken op,zult inbreuk maken op,zal inbreuk maken op,zullen inbreuk maken op,zullen inbreuk maken op,zullen inbreuk maken op
-c2-0197,persian,به چیزی تجاوز کردن,present,به چیزی تجاوز می‌کنم,به چیزی تجاوز می‌کنی,به چیزی تجاوز می‌کند,به چیزی تجاوز می‌کنیم,به چیزی تجاوز می‌کنید,به چیزی تجاوز می‌کنند
-c2-0197,persian,به چیزی تجاوز کردن,present_progressive,دارم به چیزی تجاوز می‌کنم,داری به چیزی تجاوز می‌کنی,دارد به چیزی تجاوز می‌کند,داریم به چیزی تجاوز می‌کنیم,دارید به چیزی تجاوز می‌کنید,دارند به چیزی تجاوز می‌کنند
-c2-0197,persian,به چیزی تجاوز کردن,simple_past,به چیزی تجاوز کردم,به چیزی تجاوز کردی,به چیزی تجاوز کرد,به چیزی تجاوز کردیم,به چیزی تجاوز کردید,به چیزی تجاوز کردند
-c2-0197,persian,به چیزی تجاوز کردن,past_imperfect,به چیزی تجاوز می‌کردم,به چیزی تجاوز می‌کردی,به چیزی تجاوز می‌کرد,به چیزی تجاوز می‌کردیم,به چیزی تجاوز می‌کردید,به چیزی تجاوز می‌کردند
-c2-0197,persian,به چیزی تجاوز کردن,past_progressive,داشتم به چیزی تجاوز می‌کردم,داشتی به چیزی تجاوز می‌کردی,داشت به چیزی تجاوز می‌کرد,داشتیم به چیزی تجاوز می‌کردیم,داشتید به چیزی تجاوز می‌کردید,داشتند به چیزی تجاوز می‌کردند
-c2-0197,persian,به چیزی تجاوز کردن,present_perfect,به چیزی تجاوز کرده‌ام,به چیزی تجاوز کرده‌ای,به چیزی تجاوز کرده است,به چیزی تجاوز کرده‌ایم,به چیزی تجاوز کرده‌اید,به چیزی تجاوز کرده‌اند
-c2-0197,persian,به چیزی تجاوز کردن,past_perfect,به چیزی تجاوز کرده بودم,به چیزی تجاوز کرده بودی,به چیزی تجاوز کرده بود,به چیزی تجاوز کرده بودیم,به چیزی تجاوز کرده بودید,به چیزی تجاوز کرده بودند
-c2-0197,persian,به چیزی تجاوز کردن,future,به چیزی تجاوز خواهم کرد,به چیزی تجاوز خواهی کرد,به چیزی تجاوز خواهد کرد,به چیزی تجاوز خواهیم کرد,به چیزی تجاوز خواهید کرد,به چیزی تجاوز خواهند کرد
+c2-0197,persian,به ... تجاوز کردن,present,به ... تجاوز می‌کنم,به ... تجاوز می‌کنی,به ... تجاوز می‌کند,به ... تجاوز می‌کنیم,به ... تجاوز می‌کنید,به ... تجاوز می‌کنند
+c2-0197,persian,به ... تجاوز کردن,present_progressive,دارم به ... تجاوز می‌کنم,داری به ... تجاوز می‌کنی,دارد به ... تجاوز می‌کند,داریم به ... تجاوز می‌کنیم,دارید به ... تجاوز می‌کنید,دارند به ... تجاوز می‌کنند
+c2-0197,persian,به ... تجاوز کردن,simple_past,به ... تجاوز کردم,به ... تجاوز کردی,به ... تجاوز کرد,به ... تجاوز کردیم,به ... تجاوز کردید,به ... تجاوز کردند
+c2-0197,persian,به ... تجاوز کردن,past_imperfect,به ... تجاوز می‌کردم,به ... تجاوز می‌کردی,به ... تجاوز می‌کرد,به ... تجاوز می‌کردیم,به ... تجاوز می‌کردید,به ... تجاوز می‌کردند
+c2-0197,persian,به ... تجاوز کردن,past_progressive,داشتم به ... تجاوز می‌کردم,داشتی به ... تجاوز می‌کردی,داشت به ... تجاوز می‌کرد,داشتیم به ... تجاوز می‌کردیم,داشتید به ... تجاوز می‌کردید,داشتند به ... تجاوز می‌کردند
+c2-0197,persian,به ... تجاوز کردن,present_perfect,به ... تجاوز کرده‌ام,به ... تجاوز کرده‌ای,به ... تجاوز کرده است,به ... تجاوز کرده‌ایم,به ... تجاوز کرده‌اید,به ... تجاوز کرده‌اند
+c2-0197,persian,به ... تجاوز کردن,past_perfect,به ... تجاوز کرده بودم,به ... تجاوز کرده بودی,به ... تجاوز کرده بود,به ... تجاوز کرده بودیم,به ... تجاوز کرده بودید,به ... تجاوز کرده بودند
+c2-0197,persian,به ... تجاوز کردن,future,به ... تجاوز خواهم کرد,به ... تجاوز خواهی کرد,به ... تجاوز خواهد کرد,به ... تجاوز خواهیم کرد,به ... تجاوز خواهید کرد,به ... تجاوز خواهند کرد
 c2-0198,english,endow,present,endow,endow,endows,endow,endow,endow
 c2-0198,english,endow,present_progressive,am endowing,are endowing,is endowing,are endowing,are endowing,are endowing
 c2-0198,english,endow,simple_past,endowed,endowed,endowed,endowed,endowed,endowed
@@ -47483,14 +47668,14 @@ c2-0224,dutch,friemelen aan,past_progressive,was aan ... aan het friemelen,was a
 c2-0224,dutch,friemelen aan,present_perfect,heb aan ... gefriemeld,hebt aan ... gefriemeld,heeft aan ... gefriemeld,hebben aan ... gefriemeld,hebben aan ... gefriemeld,hebben aan ... gefriemeld
 c2-0224,dutch,friemelen aan,past_perfect,had aan ... gefriemeld,had aan ... gefriemeld,had aan ... gefriemeld,hadden aan ... gefriemeld,hadden aan ... gefriemeld,hadden aan ... gefriemeld
 c2-0224,dutch,friemelen aan,future,zal aan ... friemelen,zult aan ... friemelen,zal aan ... friemelen,zullen aan ... friemelen,zullen aan ... friemelen,zullen aan ... friemelen
-c2-0224,persian,با چیزی ور رفتن,present,با چیزی ور می‌روم,با چیزی ور می‌روی,با چیزی ور می‌رود,با چیزی ور می‌رویم,با چیزی ور می‌روید,با چیزی ور می‌روند
-c2-0224,persian,با چیزی ور رفتن,present_progressive,دارم با چیزی ور می‌روم,داری با چیزی ور می‌روی,دارد با چیزی ور می‌رود,داریم با چیزی ور می‌رویم,دارید با چیزی ور می‌روید,دارند با چیزی ور می‌روند
-c2-0224,persian,با چیزی ور رفتن,simple_past,با چیزی ور رفتم,با چیزی ور رفتی,با چیزی ور رفت,با چیزی ور رفتیم,با چیزی ور رفتید,با چیزی ور رفتند
-c2-0224,persian,با چیزی ور رفتن,past_imperfect,با چیزی ور می‌رفتم,با چیزی ور می‌رفتی,با چیزی ور می‌رفت,با چیزی ور می‌رفتیم,با چیزی ور می‌رفتید,با چیزی ور می‌رفتند
-c2-0224,persian,با چیزی ور رفتن,past_progressive,داشتم با چیزی ور می‌رفتم,داشتی با چیزی ور می‌رفتی,داشت با چیزی ور می‌رفت,داشتیم با چیزی ور می‌رفتیم,داشتید با چیزی ور می‌رفتید,داشتند با چیزی ور می‌رفتند
-c2-0224,persian,با چیزی ور رفتن,present_perfect,با چیزی ور رفته‌ام,با چیزی ور رفته‌ای,با چیزی ور رفته است,با چیزی ور رفته‌ایم,با چیزی ور رفته‌اید,با چیزی ور رفته‌اند
-c2-0224,persian,با چیزی ور رفتن,past_perfect,با چیزی ور رفته بودم,با چیزی ور رفته بودی,با چیزی ور رفته بود,با چیزی ور رفته بودیم,با چیزی ور رفته بودید,با چیزی ور رفته بودند
-c2-0224,persian,با چیزی ور رفتن,future,با چیزی ور خواهم رفت,با چیزی ور خواهی رفت,با چیزی ور خواهد رفت,با چیزی ور خواهیم رفت,با چیزی ور خواهید رفت,با چیزی ور خواهند رفت
+c2-0224,persian,با ... ور رفتن,present,با ... ور می‌روم,با ... ور می‌روی,با ... ور می‌رود,با ... ور می‌رویم,با ... ور می‌روید,با ... ور می‌روند
+c2-0224,persian,با ... ور رفتن,present_progressive,دارم با ... ور می‌روم,داری با ... ور می‌روی,دارد با ... ور می‌رود,داریم با ... ور می‌رویم,دارید با ... ور می‌روید,دارند با ... ور می‌روند
+c2-0224,persian,با ... ور رفتن,simple_past,با ... ور رفتم,با ... ور رفتی,با ... ور رفت,با ... ور رفتیم,با ... ور رفتید,با ... ور رفتند
+c2-0224,persian,با ... ور رفتن,past_imperfect,با ... ور می‌رفتم,با ... ور می‌رفتی,با ... ور می‌رفت,با ... ور می‌رفتیم,با ... ور می‌رفتید,با ... ور می‌رفتند
+c2-0224,persian,با ... ور رفتن,past_progressive,داشتم با ... ور می‌رفتم,داشتی با ... ور می‌رفتی,داشت با ... ور می‌رفت,داشتیم با ... ور می‌رفتیم,داشتید با ... ور می‌رفتید,داشتند با ... ور می‌رفتند
+c2-0224,persian,با ... ور رفتن,present_perfect,با ... ور رفته‌ام,با ... ور رفته‌ای,با ... ور رفته است,با ... ور رفته‌ایم,با ... ور رفته‌اید,با ... ور رفته‌اند
+c2-0224,persian,با ... ور رفتن,past_perfect,با ... ور رفته بودم,با ... ور رفته بودی,با ... ور رفته بود,با ... ور رفته بودیم,با ... ور رفته بودید,با ... ور رفته بودند
+c2-0224,persian,با ... ور رفتن,future,با ... ور خواهم رفت,با ... ور خواهی رفت,با ... ور خواهد رفت,با ... ور خواهیم رفت,با ... ور خواهید رفت,با ... ور خواهند رفت
 c2-0225,persian,در نبردی از پیش باخته جنگیدن,present,در نبردی از پیش باخته می‌جنگم,در نبردی از پیش باخته می‌جنگی,در نبردی از پیش باخته می‌جنگد,در نبردی از پیش باخته می‌جنگیم,در نبردی از پیش باخته می‌جنگید,در نبردی از پیش باخته می‌جنگند
 c2-0225,persian,در نبردی از پیش باخته جنگیدن,present_progressive,دارم در نبردی از پیش باخته می‌جنگم,داری در نبردی از پیش باخته می‌جنگی,دارد در نبردی از پیش باخته می‌جنگد,داریم در نبردی از پیش باخته می‌جنگیم,دارید در نبردی از پیش باخته می‌جنگید,دارند در نبردی از پیش باخته می‌جنگند
 c2-0225,persian,در نبردی از پیش باخته جنگیدن,simple_past,در نبردی از پیش باخته جنگیدم,در نبردی از پیش باخته جنگیدی,در نبردی از پیش باخته جنگید,در نبردی از پیش باخته جنگیدیم,در نبردی از پیش باخته جنگیدید,در نبردی از پیش باخته جنگیدند
@@ -50260,13 +50445,13 @@ c2-0614,german,sich stauen,simple_past,-,-,staute sich,-,-,stauten sich
 c2-0614,german,sich stauen,present_perfect,-,-,hat sich gestaut,-,-,haben sich gestaut
 c2-0614,german,sich stauen,past_perfect,-,-,hatte sich gestaut,-,-,hatten sich gestaut
 c2-0614,german,sich stauen,future,-,-,wird sich stauen,-,-,werden sich stauen
-c2-0614,dutch,zich opstoppen,present,-,-,stopt zich op,-,-,stoppen zich op
-c2-0614,dutch,zich opstoppen,present_progressive,-,-,-,-,-,-
-c2-0614,dutch,zich opstoppen,simple_past,-,-,stopte zich op,-,-,stopten zich op
-c2-0614,dutch,zich opstoppen,past_progressive,-,-,-,-,-,-
-c2-0614,dutch,zich opstoppen,present_perfect,-,-,heeft zich opgestopt,-,-,hebben zich opgestopt
-c2-0614,dutch,zich opstoppen,past_perfect,-,-,had zich opgestopt,-,-,hadden zich opgestopt
-c2-0614,dutch,zich opstoppen,future,-,-,zal zich opstoppen,-,-,zullen zich opstoppen
+c2-0614,dutch,een file vormen,present,vorm een file,vormt een file,vormt een file,vormen een file,vormen een file,vormen een file
+c2-0614,dutch,een file vormen,present_progressive,ben een file aan het vormen,bent een file aan het vormen,is een file aan het vormen,zijn een file aan het vormen,zijn een file aan het vormen,zijn een file aan het vormen
+c2-0614,dutch,een file vormen,simple_past,vormde een file,vormde een file,vormde een file,vormden een file,vormden een file,vormden een file
+c2-0614,dutch,een file vormen,past_progressive,was een file aan het vormen,was een file aan het vormen,was een file aan het vormen,waren een file aan het vormen,waren een file aan het vormen,waren een file aan het vormen
+c2-0614,dutch,een file vormen,present_perfect,heb een file gevormd,hebt een file gevormd,heeft een file gevormd,hebben een file gevormd,hebben een file gevormd,hebben een file gevormd
+c2-0614,dutch,een file vormen,past_perfect,had een file gevormd,had een file gevormd,had een file gevormd,hadden een file gevormd,hadden een file gevormd,hadden een file gevormd
+c2-0614,dutch,een file vormen,future,zal een file vormen,zult een file vormen,zal een file vormen,zullen een file vormen,zullen een file vormen,zullen een file vormen
 c2-0614,persian,صف طولانی خودروها تشکیل دادن,present,صف طولانی خودروها تشکیل می‌دهم,صف طولانی خودروها تشکیل می‌دهی,صف طولانی خودروها تشکیل می‌دهد,صف طولانی خودروها تشکیل می‌دهیم,صف طولانی خودروها تشکیل می‌دهید,صف طولانی خودروها تشکیل می‌دهند
 c2-0614,persian,صف طولانی خودروها تشکیل دادن,present_progressive,دارم صف طولانی خودروها تشکیل می‌دهم,داری صف طولانی خودروها تشکیل می‌دهی,دارد صف طولانی خودروها تشکیل می‌دهد,داریم صف طولانی خودروها تشکیل می‌دهیم,دارید صف طولانی خودروها تشکیل می‌دهید,دارند صف طولانی خودروها تشکیل می‌دهند
 c2-0614,persian,صف طولانی خودروها تشکیل دادن,simple_past,صف طولانی خودروها تشکیل دادم,صف طولانی خودروها تشکیل دادی,صف طولانی خودروها تشکیل داد,صف طولانی خودروها تشکیل دادیم,صف طولانی خودروها تشکیل دادید,صف طولانی خودروها تشکیل دادند
