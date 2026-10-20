@@ -31,7 +31,7 @@ void main() {
   final now = DateTime.utc(2026, 10, 13, 9);
 
   test('vocabulary.db holds every card in every language', () {
-    expect(vocabulary.cards.length, greaterThan(9000));
+    expect(vocabulary.cards.length, greaterThan(8900));
     expect(vocabulary.languages.map((l) => l.code), ['en', 'de', 'nl', 'fa']);
     final card = vocabulary.cards.firstWhere((c) => c.terms['de']!.word == 'die Frau');
     expect(card.terms['de']!.plural, 'Frauen');

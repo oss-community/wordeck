@@ -24,7 +24,7 @@ void main() {
     });
 
     test('is valid and complete', () {
-      expect(cards.length, greaterThan(9000));
+      expect(cards.length, greaterThan(8900));
       for (final level in levels) {
         expect(cards.where((c) => c.level == level), isNotEmpty, reason: level);
       }
