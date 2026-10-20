@@ -757,7 +757,7 @@ a1-0756,A1,medium,mister,misters,noun,,,,,der Herr,Herren,noun,,,,,,de meneer,me
 a1-0757,A1,medium,mobile number,mobile numbers,noun,,,,,die Handynummer,Handynummern,noun,,,,,,het mobiele nummer,mobiele nummers,noun,,,,,,شماره موبایل,شماره‌های موبایل,noun,,,,,
 a1-0758,A1,medium,mobile number,mobile numbers,noun,,,,,die Mobilnummer,Mobilnummern,noun,,,,,,het mobiele nummer,mobiele nummers,noun,,,,,,شماره موبایل,شماره‌های موبایل,noun,,,,,
 a1-0759,A1,easy,modern,,adj,,,more modern,most modern,modern,,adj,,,,moderner,am modernsten,modern,,adj,,,,moderner,modernst,امروزی، نوین، مدرن,,adj,,,,امروزی‌تر، نوین‌تر، مدرن‌تر,امروزی‌ترین، نوین‌ترین، مدرن‌ترین
-a1-0760,A1,advanced,chanson,chansons,noun,,,,,das Chanson,Chansons,noun,,,,,,het chanson,chansons,noun,,,,,,ترانه فرانسوی نو,ترانه‌های فرانسوی نو,noun,,,,,
+a1-0760,A1,advanced,chanson,chansons,noun,,,,,das Chanson,Chansons,noun,,,,,,het chanson,chansons,noun,,,,,,ترانه فرانسوی,ترانه‌های فرانسوی,noun,,,,,
 a1-0761,A1,easy,moment,moments,noun,,,,,der Moment,Momente,noun,,,,,,het moment,momenten,noun,,,,,,لحظه,لحظه‌ها,noun,,,,,
 a1-0762,A1,easy,Monday,Mondays,noun,,,,,der Montag,Montage,noun,,,,,,de maandag,maandagen,noun,,,,,,دوشنبه,دوشنبه‌ها,noun,,,,,
 a1-0763,A1,easy,money,-,noun,,,,,das Geld,Gelder,noun,,,,,,het geld,gelden,noun,,,,,,پول,پول‌ها,noun,,,,,
@@ -1095,7 +1095,7 @@ a1-1094,A1,easy,shower,,verb,showered,showered,,,duschen,,verb,duschte,geduscht,
 a1-1095,A1,advanced,shrink (clothes),,verb,shrank,shrunk,,,einlaufen,,verb,lief ein,eingelaufen,sein,,,krimpen,,verb,kromp,gekrompen,zijn,,,آب رفتن,,verb,آب رفت,آب رو,آب رفته,,
 a1-1096,A1,advanced,sibling,siblings,noun,,,,,das Geschwister,Geschwister,noun,,,,,,de broer of zus,broers en zussen,noun,,,,,,خواهر یا برادر,خواهر و برادرها,noun,,,,,
 a1-1097,A1,easy,sick,,adj,,,sicker,sickest,krank,,adj,,,,kränker,am kränksten,ziek,,adj,,,,zieker,ziekst,بیمار,,adj,,,,بیمارتر,بیمارترین
-a1-1098,A1,advanced,side dish,side dishes,noun,,,,,die Beilage,Beilagen,noun,,,,,,het bijgerecht,bijgerechten,noun,,,,,,مخلفات,-,noun,,,,,
+a1-1098,A1,advanced,side dish,side dishes,noun,,,,,die Beilage,Beilagen,noun,,,,,,het bijgerecht,bijgerechten,noun,,,,,,غذای جانبی,غذاهای جانبی,noun,,,,,
 a1-1099,A1,easy,simple,,adj,,,simpler,simplest,einfach,,adj,,,,einfacher,am einfachsten,eenvoudig,,adj,,,,eenvoudiger,eenvoudigst,ساده,,adj,,,,ساده‌تر,ساده‌ترین
 a1-1100,A1,medium,since,,prep,,,,,seit,,prep,,,,,,sinds,,prep,,,,,,از,,prep,,,,,
 a1-1101,A1,easy,sing,,verb,sang,sung,,,singen,,verb,sang,gesungen,haben,,,zingen,,verb,zong,gezongen,hebben,,,آواز خواندن,,verb,آواز خواند,آواز خوان,آواز خوانده,,
@@ -1533,7 +1533,7 @@ a2-0123,A2,easy,author,authors,noun,,,,,die Autorin,Autorinnen,noun,,,,,,de aute
 a2-0124,A2,medium,available,,adj,,,-,-,erhältlich,,adj,,,,-,-,verkrijgbaar,,adj,,,,-,-,موجود,,adj,,,,-,-
 a2-0125,A2,easy,away,,adv,,,,,weg,,adv,,,,,,weg,,adv,,,,,,دور,,adv,,,,,
 a2-0126,A2,medium,awful,,adj,,,more awful,most awful,schrecklich,,adj,,,,schrecklicher,am schrecklichsten,vreselijk,,adj,,,,vreselijker,vreselijkst,وحشتناک,,adj,,,,وحشتناک‌تر,وحشتناک‌ترین
-a2-0127,A2,easy,bachelor,bachelors,noun,,,,,der Bachelor,Bachelors,noun,,,,,,de bachelor,bachelors,noun,,,,,,کارشناسی,-,noun,,,,,
+a2-0127,A2,easy,bachelor's degree,bachelor's degrees,noun,,,,,der Bachelor,Bachelors,noun,,,,,,de bachelor,bachelors,noun,,,,,,کارشناسی,-,noun,,,,,
 a2-0128,A2,medium,back,,adj,,,-,-,hintere,,adj,,,,-,-,achterste,,adj,,,,-,-,عقبی,,adj,,,,-,-
 a2-0129,A2,medium,backache,backaches,noun,,,,,die Rückenschmerzen,-,noun,,,,,,de rugpijn,-,noun,,,,,,کمردرد,کمردردها,noun,,,,,
 a2-0130,A2,medium,bacon,-,noun,,,,,der Speck,-,noun,,,,,,het spek,-,noun,,,,,,بیکن,-,noun,,,,,
@@ -1587,7 +1587,7 @@ a2-0178,A2,medium,sting,,verb,stung,stung,,,stechen,,verb,stach,gestochen,haben,
 a2-0179,A2,medium,block,,verb,blocked,blocked,,,sperren,,verb,sperrte,gesperrt,haben,,,blokkeren,,verb,blokkeerde,geblokkeerd,hebben,,,مسدود کردن,,verb,مسدود کرد,مسدود کن,مسدود کرده,,
 a2-0180,A2,advanced,blow,,verb,blew,blown,,,wehen,,verb,wehte,geweht,haben,,,waaien,,verb,waaide,gewaaid,hebben,,,وزیدن,,verb,وزید,وز,وزیده,,
 a2-0181,A2,medium,board,boards,noun,,,,,das Brett,Bretter,noun,,,,,,de plank,planken,noun,,,,,,تخته,تخته‌ها,noun,,,,,
-a2-0182,A2,medium,board pen,board pens,noun,,,,,der Whiteboardmarker,Whiteboardmarker,noun,,,,,,de whiteboardmarker,whiteboardmarkers,noun,,,,,,ماژیک تخته,ماژیک‌های تخته,noun,,,,,
+a2-0182,A2,medium,whiteboard marker,whiteboard markers,noun,,,,,der Whiteboardmarker,Whiteboardmarker,noun,,,,,,de whiteboardmarker,whiteboardmarkers,noun,,,,,,ماژیک تخته,ماژیک‌های تخته,noun,,,,,
 a2-0183,A2,medium,boarding house,boarding houses,noun,,,,,die Pension,Pensionen,noun,,,,,,het pension,pensions,noun,,,,,,پانسیون,پانسیون‌ها,noun,,,,,
 a2-0184,A2,easy,body part,body parts,noun,,,,,der Körperteil,Körperteile,noun,,,,,,het lichaamsdeel,lichaamsdelen,noun,,,,,,عضو بدن,اعضای بدن,noun,,,,,
 a2-0185,A2,easy,boil,,verb,boiled,boiled,,,kochen,,verb,kochte,gekocht,haben,,,koken,,verb,kookte,gekookt,hebben,,,جوشاندن,,verb,جوشاند,جوشان,جوشانده,,
@@ -1896,7 +1896,6 @@ a2-0489,A2,medium,divide,,verb,divided,divided,,,gliedern,,verb,gliederte,geglie
 a2-0490,A2,medium,divorced,,adj,,,-,-,geschieden,,adj,,,,-,-,gescheiden,,adj,,,,-,-,طلاق‌گرفته,,adj,,,,-,-
 a2-0491,A2,medium,"do odd jobs, work part-time",,phrase,,,,,jobben,,verb,jobbte,gejobbt,haben,,,jobben,,verb,jobde,gejobd,hebben,,,موقتی کار کردن,,verb,موقتی کار کرد,موقتی کار کن,موقتی کار کرده,,
 a2-0492,A2,medium,do online banking,,phrase,,,,,Online-Banking machen,,phrase,,,,,,internetbankieren,,verb,internetbankierde,geïnternetbankierd,hebben,,,کار بانکی آنلاین انجام دادن,,verb,کار بانکی آنلاین انجام داد,کار بانکی آنلاین انجام ده,کار بانکی آنلاین انجام داده,,
-a2-0493,A2,medium,do the shopping,,phrase,,,,,einkaufen,,verb,kaufte ein,eingekauft,haben,,,boodschappen doen,,phrase,,,,,,خرید کردن,,verb,خرید کرد,خرید کن,خرید کرده,,
 a2-0494,A2,medium,do well,,verb,did well,done well,,,erfolgreich sein,,phrase,,,,,,slagen,,verb,slaagde,geslaagd,zijn,,,موفق شدن,,verb,موفق شد,موفق شو,موفق شده,,
 a2-0495,A2,advanced,doctor,doctors,noun,,,,,die Ärztin,Ärztinnen,noun,,,,,,de arts,artsen,noun,,,,,,پزشک,پزشکان,noun,,,,,
 a2-0496,A2,medium,doctor's assistant,doctor's assistants,noun,,,,,der Arzthelfer,Arzthelfer,noun,,,,,,de doktersassistent,doktersassistenten,noun,,,,,,دستیار پزشک,دستیاران پزشک,noun,,,,,
@@ -3224,7 +3223,6 @@ a2-1831,A2,easy,warning,warnings,noun,,,,,die Warnung,Warnungen,noun,,,,,,de waa
 a2-1832,A2,medium,"wash up, do the dishes",,phrasal verb,"washed up, did the dishes","washed up, done the dishes",,,abwaschen,,verb,wusch ab,abgewaschen,haben,,,afwassen,,verb,waste af,afgewassen,hebben,,,ظرف شستن، شستن,,verb,ظرف شست، شست,ظرف شوی، شوی,ظرف شسته، شسته,,
 a2-1833,A2,medium,washing up,-,noun,,,,,der Abwasch,-,noun,,,,,,de afwas,-,noun,,,,,,ظرف‌شویی، شستن ظرف‌ها,-,noun,,,,,
 a2-1834,A2,medium,waste paper,-,noun,,,,,das Altpapier,-,noun,,,,,,het oud papier,-,noun,,,,,,کاغذ باطله,-,noun,,,,,
-a2-1835,A2,medium,watch,,verb,watched,watched,,,aufpassen,,verb,passte auf,aufgepasst,haben,,,opletten,,verb,lette op,opgelet,hebben,,,مواظب بودن,,verb,مواظب بود,مواظب باش,مواظب بوده,,
 a2-1836,A2,medium,waterproof,,adj,,,-,-,wasserfest,,adj,,,,-,-,waterdicht,,adj,,,,-,-,ضد آب,,adj,,,,-,-
 a2-1837,A2,medium,wave,waves,noun,,,,,die Welle,Wellen,noun,,,,,,de golf,golven,noun,,,,,,موج,موج‌ها,noun,,,,,
 a2-1838,A2,easy,WC,WCs,noun,,,,,das WC,WCs,noun,,,,,,de wc,wc's,noun,,,,,,توالت,توالت‌ها,noun,,,,,
@@ -3466,7 +3464,7 @@ b1-0188,B1,medium,be under control,,phrase,,,,,unter Kontrolle sein,,phrase,,,,,
 b1-0189,B1,advanced,"be up for (something), feel like",,phrase,,,,,Bock haben,,phrase,,,,,,zin hebben,,phrase,,,,,,حوصلهٔ کاری را داشتن، پایه بودن,,verb,حوصلهٔ کاری را داشت، پایه بود,حوصلهٔ کاری را دار، پایه باش,حوصلهٔ کاری را داشته، پایه بوده,,
 b1-0190,B1,medium,be used to,,verb,was used to,been used to,,,gewohnt sein,,verb,war gewohnt,gewohnt gewesen,sein,,,gewend zijn,,verb,was gewend,gewend geweest,zijn,,,عادت داشتن به,,verb,به ... عادت داشت,به ... عادت دار,به ... عادت داشته,,
 b1-0191,B1,medium,be useful,,phrase,,,,,nützen,,verb,nützte,genützt,haben,,,van nut zijn,,phrase,,,,,,به کار آمدن,,verb,به کار آمد,به کار آ,به کار آمده,,
-b1-0192,B1,advanced,"be valid, apply",,verb,"was valid, applied","been valid, applied",,,gelten,,verb,galt,gegolten,haben,,,gelden,,verb,gold,gegolden,hebben,,,معتبر بودن، به شمار آمدن,,verb,معتبر بود، به شمار آمد,معتبر باش، به شمار آ,معتبر بوده، به شمار آمده,,
+b1-0192,B1,advanced,"be valid, apply",,verb,"was valid, applied","been valid, applied",,,gelten,,verb,galt,gegolten,haben,,,gelden,,verb,gold,gegolden,hebben,,,معتبر بودن، صدق کردن,,verb,معتبر بود، صدق کرد,معتبر باش، صدق کن,معتبر بوده، صدق کرده,,
 b1-0193,B1,advanced,bear,,verb,bore,borne,,,ertragen,,verb,ertrug,ertragen,haben,,,verdragen,,verb,verdroeg,verdragen,hebben,,,تاب آوردن، تحمل کردن,,verb,تاب آورد، تحمل کرد,تاب آور، تحمل کن,تاب آورده، تحمل کرده,,
 b1-0194,B1,medium,beat,,verb,beat,beaten,,,besiegen,,verb,besiegte,besiegt,haben,,,verslaan,,verb,versloeg,verslagen,hebben,,,شکست دادن,,verb,شکست داد,شکست ده,شکست داده,,
 b1-0195,B1,advanced,beat,,verb,beat,beaten,,,schlagen,,verb,schlug,geschlagen,haben,,,kloppen,,verb,klopte,geklopt,hebben,,,هم زدن (تخم‌مرغ),,verb,هم زد,هم زن,هم زده,,
@@ -3761,7 +3759,6 @@ b1-0484,B1,advanced,swimming costume,swimming costumes,noun,,,,,der Badeanzug,Ba
 b1-0485,B1,medium,cottage,cottages,noun,,,,,das Häuschen,Häuschen,noun,,,,,,het huisje,huisjes,noun,,,,,,کلبه,کلبه‌ها,noun,,,,,
 b1-0486,B1,easy,cough,coughs,noun,,,,,der Husten,-,noun,,,,,,de hoest,-,noun,,,,,,سرفه,سرفه‌ها,noun,,,,,
 b1-0487,B1,medium,count down,,phrasal verb,counted down,counted down,,,zurückzählen,,verb,zählte zurück,zurückgezählt,haben,,,aftellen,,verb,telde af,afgeteld,hebben,,,شمارش معکوس کردن,,verb,شمارش معکوس کرد,شمارش معکوس کن,شمارش معکوس کرده,,
-b1-0488,B1,medium,country,countries,noun,,,,,der Staat,Staaten,noun,,,,,,de staat,staten,noun,,,,,,کشور,کشورها,noun,,,,,
 b1-0489,B1,advanced,countryside,-,noun,,,,,das Land,-,noun,,,,,,het platteland,-,noun,,,,,,روستا، مناطق روستایی,روستاها، -,noun,,,,,
 b1-0490,B1,medium,courage,-,noun,,,,,der Mut,-,noun,,,,,,de moed,-,noun,,,,,,شجاعت,-,noun,,,,,
 b1-0491,B1,easy,courgette,courgettes,noun,,,,,die Zucchini,Zucchini,noun,,,,,,de courgette,courgettes,noun,,,,,,کدو سبز,کدو سبزها,noun,,,,,
@@ -3861,7 +3858,7 @@ b1-0584,B1,medium,difficult,,adj,,,more difficult,most difficult,schwierig,,adj,
 b1-0585,B1,medium,difficulty,difficulties,noun,,,,,die Schwierigkeit,Schwierigkeiten,noun,,,,,,de moeilijkheid,moeilijkheden,noun,,,,,,دشواری,دشواری‌ها,noun,,,,,
 b1-0586,B1,medium,dig,,verb,dug,dug,,,graben,,verb,grub,gegraben,haben,,,graven,,verb,groef,gegraven,hebben,,,کندن، بیل زدن,,verb,کند، بیل زد,کن، بیل زن,کنده، بیل زده,,
 b1-0587,B1,medium,diligent,,adj,,,more diligent,most diligent,fleißig,,adj,,,,fleißiger,am fleißigsten,vlijtig,,adj,,,,vlijtiger,vlijtigst,کوشا,,adj,,,,کوشاتر,کوشاترین
-b1-0588,B1,easy,dinner,dinners,noun,,,,,das Dinner,Dinners,noun,,,,,,het diner,diners,noun,,,,,,شام,شام‌ها,noun,,,,,
+b1-0588,B1,easy,dinner,dinners,noun,,,,,das Abendessen,Abendessen,noun,,,,,,het diner,diners,noun,,,,,,شام,شام‌ها,noun,,,,,
 b1-0589,B1,easy,diploma,diplomas,noun,,,,,das Diplom,Diplome,noun,,,,,,het diploma,diploma's,noun,,,,,,دیپلم، مدرک دانشگاهی,دیپلم‌ها، مدارک دانشگاهی,noun,,,,,
 b1-0590,B1,advanced,direct,,adj,,,more direct,most direct,unmittelbar,,adj,,,,unmittelbarer,am unmittelbarsten,rechtstreeks,,adj,,,,-,-,مستقیم، بی‌واسطه,,adj,,,,مستقیم‌تر، بی‌واسطه‌تر,مستقیم‌ترین، بی‌واسطه‌ترین
 b1-0591,B1,advanced,direct,,verb,directed,directed,,,richten,,verb,richtete,gerichtet,haben,,,richten,,verb,richtte,gericht,hebben,,,متوجه کردن، جهت دادن,,verb,متوجه کرد، جهت داد,متوجه کن، جهت ده,متوجه کرده، جهت داده,,
@@ -3932,7 +3929,7 @@ b1-0656,B1,medium,eager,,adj,,,more eager,most eager,eifrig,,adj,,,,eifriger,am 
 b1-0657,B1,easy,eagle,eagles,noun,,,,,der Adler,Adler,noun,,,,,,de adelaar,adelaars,noun,,,,,,عقاب,عقاب‌ها,noun,,,,,
 b1-0658,B1,medium,early bird,early birds,noun,,,,,der Frühaufsteher,Frühaufsteher,noun,,,,,,de vroege vogel,vroege vogels,noun,,,,,,سحرخیز,سحرخیزان,noun,,,,,
 b1-0659,B1,medium,earthquake,earthquakes,noun,,,,,das Erdbeben,Erdbeben,noun,,,,,,de aardbeving,aardbevingen,noun,,,,,,زلزله,زلزله‌ها,noun,,,,,
-b1-0660,B1,advanced,eat,,verb,ate,eaten,,,fressen,,verb,fraß,gefressen,haben,,,vreten,,verb,vrat,gevreten,hebben,,,خوردن,,verb,خورد,خور,خورده,,
+b1-0660,B1,advanced,eat (of animals),,verb,ate,eaten,,,fressen,,verb,fraß,gefressen,haben,,,vreten,,verb,vrat,gevreten,hebben,,,خوردن (حیوان),,verb,خورد,خور,خورده,,
 b1-0661,B1,advanced,environmentalist,environmentalists,noun,,,,,der Umweltschützer,Umweltschützer,noun,,,,,,de milieuactivist,milieuactivisten,noun,,,,,,دوستدار محیط زیست,دوستداران محیط زیست,noun,,,,,
 b1-0662,B1,medium,eco-friendly,,adj,,,more eco-friendly,most eco-friendly,umweltfreundlich,,adj,,,,umweltfreundlicher,am umweltfreundlichsten,milieuvriendelijk,,adj,,,,milieuvriendelijker,milieuvriendelijkst,سازگار با محیط زیست,,adj,,,,سازگارتر با محیط زیست,سازگارترین با محیط زیست
 b1-0663,B1,medium,ecological,,adj,,,-,-,ökologisch,,adj,,,,-,-,ecologisch,,adj,,,,-,-,بوم‌شناختی,,adj,,,,-,-
@@ -4530,7 +4527,6 @@ b1-1257,B1,medium,log on,,phrasal verb,logged on,logged on,,,sich einloggen,,ver
 b1-1258,B1,medium,log out,,phrasal verb,logged out,logged out,,,sich abmelden,,verb,meldete sich ab,abgemeldet,haben,,,uitloggen,,verb,logde uit,uitgelogd,hebben,,,از سیستم خارج شدن,,verb,از سیستم خارج شد,از سیستم خارج شو,از سیستم خارج شده,,
 b1-1259,B1,easy,logical,,adj,,,more logical,most logical,logisch,,adj,,,,logischer,am logischsten,logisch,,adj,,,,logischer,meest logisch,منطقی,,adj,,,,منطقی‌تر,منطقی‌ترین
 b1-1260,B1,medium,long weekend,long weekends,noun,,,,,das verlängerte Wochenende,verlängerte Wochenenden,noun,,,,,,het lange weekend,lange weekenden,noun,,,,,,آخر هفته طولانی,آخر هفته‌های طولانی,noun,,,,,
-b1-1262,B1,medium,look forward to something,,phrasal verb,looked forward to something,looked forward to something,,,sich freuen auf,,verb,freute sich auf,gefreut,haben,,,zich verheugen op,,verb,verheugde zich op,verheugd op,hebben,,,چشم‌انتظار چیزی بودن,,verb,چشم‌انتظار چیزی بود,چشم‌انتظار چیزی باش,چشم‌انتظار چیزی بوده,,
 b1-1263,B1,medium,look round,,phrasal verb,looked round,looked round,,,sich umsehen,,verb,sah sich um,umgesehen,haben,,,rondkijken,,verb,keek rond,rondgekeken,hebben,,,گشتی زدن، دیدن,,verb,گشتی زد، دید,گشتی زن، بین,گشتی زده، دیده,,
 b1-1264,B1,medium,look up,,phrasal verb,looked up,looked up,,,nachschlagen,,verb,schlug nach,nachgeschlagen,haben,,,opzoeken,,verb,zocht op,opgezocht,hebben,,,جستجو کردن (در فرهنگ لغت)، مراجعه کردن,,verb,جستجو کرد، مراجعه کرد,جستجو کن، مراجعه کن,جستجو کرده، مراجعه کرده,,
 b1-1265,B1,medium,"look up, read up on",,phrasal verb,"looked up, read up on","looked up, read up on",,,nachlesen,,verb,las nach,nachgelesen,haben,,,nalezen,,verb,las na,nagelezen,hebben,,,مراجعه کردن، (در متن) خواندن,,verb,مراجعه کرد، خواند,مراجعه کن، خوان,مراجعه کرده، خوانده,,
@@ -5347,7 +5343,6 @@ b1-2083,B1,medium,take care of,,verb,took care of,taken care of,,,sich kümmern 
 b1-2084,B1,advanced,take it easy,,verb,took it easy,taken it easy,,,es ruhig angehen lassen,,verb,ließ es ruhig angehen,es ruhig angehen lassen,haben,,,het rustig aan doen,,verb,deed het rustig aan,het rustig aan gedaan,hebben,,,استراحت کردن، آرام گرفتن,,verb,استراحت کرد، آرام گرفت,استراحت کن، آرام گیر,استراحت کرده، آرام گرفته,,
 b1-2085,B1,medium,take out,,phrasal verb,took out,taken out,,,herausnehmen,,verb,nahm heraus,herausgenommen,haben,,,eruit halen,,verb,haalde eruit,eruit gehaald,hebben,,,بیرون آوردن,,verb,بیرون آورد,بیرون آور,بیرون آورده,,
 b1-2086,B1,medium,take over,,phrasal verb,took over,taken over,,,übernehmen,,verb,übernahm,übernommen,haben,,,overnemen,,verb,nam over,overgenomen,hebben,,,به عهده گرفتن,,verb,به عهده گرفت,به عهده گیر,به عهده گرفته,,
-b1-2087,B1,medium,take place,,verb,took place,taken place,,,stattfinden,,verb,fand statt,stattgefunden,haben,,,plaatsvinden,,verb,vond plaats,plaatsgevonden,hebben,,,برگزار شدن,,verb,برگزار شد,برگزار شو,برگزار شده,,
 b1-2088,B1,medium,take something away from something,,phrasal verb,took something away from something,taken something away from something,,,etwas von etwas abziehen,,verb,zog etwas von etwas ab,etwas von etwas abgezogen,haben,,,iets van iets aftrekken,,verb,trok iets van iets af,iets van iets afgetrokken,hebben,,,چیزی را از چیزی کم کردن,,verb,چیزی را از چیزی کم کرد,چیزی را از چیزی کم کن,چیزی را از چیزی کم کرده,,
 b1-2089,B1,medium,talent,talents,noun,,,,,die Begabung,Begabungen,noun,,,,,,de aanleg,-,noun,,,,,,استعداد,استعدادها,noun,,,,,
 b1-2090,B1,medium,"tariff, rate","tariffs, rates",noun,,,,,der Tarif,Tarife,noun,,,,,,het tarief,tarieven,noun,,,,,,نرخ,نرخ‌ها,noun,,,,,
@@ -5511,7 +5506,7 @@ b1-2251,B1,medium,vest,vests,noun,,,,,das Unterhemd,Unterhemden,noun,,,,,,het on
 b1-2252,B1,easy,vet,vets,noun,,,,,der Tierarzt,Tierärzte,noun,,,,,,de dierenarts,dierenartsen,noun,,,,,,دامپزشک,دامپزشکان,noun,,,,,
 b1-2253,B1,easy,via,,prep,,,,,via,,prep,,,,,,via,,prep,,,,,,از راه,,prep,,,,,
 b1-2254,B1,easy,vicinity,-,noun,,,,,die Nähe,-,noun,,,,,,de nabijheid,-,noun,,,,,,نزدیکی، مجاورت,-,noun,,,,,
-b1-2255,B1,medium,"victim, sacrifice","victims, sacrifices",noun,,,,,das Opfer,Opfer,noun,,,,,,het offer,offers,noun,,,,,,قربانی,قربانیان,noun,,,,,
+b1-2255,B1,medium,"victim, sacrifice","victims, sacrifices",noun,,,,,das Opfer,Opfer,noun,,,,,,"het slachtoffer, het offer","slachtoffers, offers",noun,,,,,,قربانی,قربانیان,noun,,,,,
 b1-2256,B1,easy,vinegar,-,noun,,,,,der Essig,-,noun,,,,,,de azijn,-,noun,,,,,,سرکه,-,noun,,,,,
 b1-2257,B1,advanced,"violence, power (authority)","-, powers",noun,,,,,die Gewalt,Gewalten,noun,,,,,,het geweld,-,noun,,,,,,خشونت، قوه (قدرت),-، قوا,noun,,,,,
 b1-2258,B1,medium,violent,,adj,,,more violent,most violent,gewalttätig,,adj,,,,gewalttätiger,am gewalttätigsten,gewelddadig,,adj,,,,gewelddadiger,gewelddadigst,خشونت‌آمیز,,adj,,,,خشونت‌آمیزتر,خشونت‌آمیزترین
@@ -6439,7 +6434,7 @@ b2-0838,B2,advanced,peeler,peelers,noun,,,,,der Sparschäler,Sparschäler,noun,,
 b2-0839,B2,medium,peer pressure,-,noun,,,,,der Gruppenzwang,-,noun,,,,,,de groepsdruk,-,noun,,,,,,فشار همسالان,-,noun,,,,,
 b2-0840,B2,medium,pension,pensions,noun,,,,,die Rente,Renten,noun,,,,,,het pensioen,pensioenen,noun,,,,,,حقوق بازنشستگی,-,noun,,,,,
 b2-0841,B2,advanced,perceived as,,phrase,,,,,wahrgenommen werden als,,phrase,,,,,,gezien worden als,,phrase,,,,,,تلقی شدن به‌عنوان,,verb,به‌عنوان ... تلقی شد,به‌عنوان ... تلقی شو,به‌عنوان ... تلقی شده,,
-b2-0842,B2,advanced,perm,perms,noun,,,,,die Dauerwelle,Dauerwellen,noun,,,,,,het permanent,permanenten,noun,,,,,,موی فر,موهای فر,noun,,,,,
+b2-0842,B2,advanced,perm,perms,noun,,,,,die Dauerwelle,Dauerwellen,noun,,,,,,het permanent,permanenten,noun,,,,,,فر دائم,-,noun,,,,,
 b2-0843,B2,advanced,perm,,verb,permed,permed,,,eine Dauerwelle machen,,verb,machte eine Dauerwelle,eine Dauerwelle gemacht,haben,,,permanenten,,verb,permanentte,gepermanent,hebben,,,مو را فر کردن,,verb,مو را فر کرد,مو را فر کن,مو را فر کرده,,
 b2-0844,B2,medium,permanent,,adj,,,-,-,dauerhaft,,adj,,,,dauerhafter,am dauerhaftesten,blijvend,,adj,,,,-,-,دائمی,,adj,,,,-,-
 b2-0845,B2,medium,permitted,,adj,,,-,-,erlaubt,,adj,,,,-,-,toegestaan,,adj,,,,-,-,مجاز,,adj,,,,-,-
@@ -6475,7 +6470,7 @@ b2-0874,B2,medium,precise,,adj,,,more precise,most precise,präzise,,adj,,,,prä
 b2-0875,B2,medium,precisely,,adv,,,,,genau,,adv,,,,,,precies,,adv,,,,,,دقیقاً,,adv,,,,,
 b2-0876,B2,medium,predictable,,adj,,,more predictable,most predictable,vorhersehbar,,adj,,,,vorhersehbarer,am vorhersehbarsten,voorspelbaar,,adj,,,,voorspelbaarder,voorspelbaarst,قابل پیش‌بینی,,adj,,,,-,-
 b2-0877,B2,medium,preserve,,verb,preserved,preserved,,,bewahren,,verb,bewahrte,bewahrt,haben,,,bewaren,,verb,bewaarde,bewaard,hebben,,,حفظ کردن,,verb,حفظ کرد,حفظ کن,حفظ کرده,,
-b2-0878,B2,medium,press-up,press-ups,noun,,,,,der Liegestütz,Liegestütze,noun,,,,,,de opdrukoefening,opdrukoefeningen,noun,,,,,,شنای سوئدی,-,noun,,,,,
+b2-0878,B2,medium,press-up,press-ups,noun,,,,,der Liegestütz,Liegestütze,noun,,,,,,de push-up,push-ups,noun,,,,,,شنای سوئدی,-,noun,,,,,
 b2-0879,B2,easy,pressure,pressures,noun,,,,,der Druck,-,noun,,,,,,de druk,-,noun,,,,,,فشار,فشارها,noun,,,,,
 b2-0880,B2,advanced,prevention is better than cure,,idiom,,,,,Vorbeugen ist besser als Heilen,,idiom,,,,,,voorkomen is beter dan genezen,,idiom,,,,,,پیشگیری بهتر از درمان است,,idiom,,,,,
 b2-0881,B2,medium,price tag,price tags,noun,,,,,das Preisschild,Preisschilder,noun,,,,,,het prijskaartje,prijskaartjes,noun,,,,,,برچسب قیمت,برچسب‌های قیمت,noun,,,,,
@@ -6587,7 +6582,7 @@ b2-0986,B2,easy,roots,-,noun,,,,,die Wurzeln,-,noun,,,,,,de wortels,-,noun,,,,,,
 b2-0987,B2,medium,rough,,adj,,,rougher,roughest,rau,,adj,,,,rauer,am rauesten,ruw,,adj,,,,ruwer,ruwst,خشن,,adj,,,,خشن‌تر,خشن‌ترین
 b2-0988,B2,medium,rough,,adj,,,rougher,roughest,ungefähr,,adj,,,,-,-,ruw,,adj,,,,ruwer,ruwst,تقریبی,,adj,,,,-,-
 b2-0989,B2,medium,roughly,,adv,,,,,ungefähr,,adv,,,,,,ongeveer,,adv,,,,,,تقریباً,,adv,,,,,
-b2-0990,B2,medium,routine,,adj,,,-,-,routinemäßig,,adj,,,,-,-,routinematig,,adj,,,,-,-,همیشگی,,adj,,,,-,-
+b2-0990,B2,medium,routine,,adj,,,-,-,routinemäßig,,adj,,,,-,-,routinematig,,adj,,,,-,-,معمول,,adj,,,,-,-
 b2-0991,B2,advanced,royal,royals,noun,,,,,das Mitglied der königlichen Familie,Mitglieder der königlichen Familie,noun,,,,,,het lid van de koninklijke familie,leden van de koninklijke familie,noun,,,,,,عضو خانواده سلطنتی,اعضای خانواده سلطنتی,noun,,,,,
 b2-0992,B2,medium,rub,,verb,rubbed,rubbed,,,reiben,,verb,rieb,gerieben,haben,,,wrijven,,verb,wreef,gewreven,hebben,,,مالش دادن,,verb,مالش داد,مالش ده,مالش داده,,
 b2-0993,B2,medium,rubber tyre,rubber tyres,noun,,,,,der Gummireifen,Gummireifen,noun,,,,,,de rubberen band,rubberen banden,noun,,,,,,تایر لاستیکی,تایرهای لاستیکی,noun,,,,,
@@ -7401,7 +7396,7 @@ c1-0429,C1,advanced,excel,,verb,excelled,excelled,,,sich auszeichnen,,verb,zeich
 c1-0430,C1,medium,excess,excesses,noun,,,,,der Überschuss,Überschüsse,noun,,,,,,het overschot,overschotten,noun,,,,,,مازاد,مازادها,noun,,,,,
 c1-0431,C1,medium,excessive,,adj,,,more excessive,most excessive,übermäßig,,adj,,,,-,-,buitensporig,,adj,,,,buitensporiger,buitensporigst,بیش از حد,,adj,,,,-,-
 c1-0432,C1,advanced,exclusively,,adv,,,,,ausschließlich,,adv,,,,,,uitsluitend,,adv,,,,,,منحصراً,,adv,,,,,
-c1-0433,C1,advanced,exemplary,,adj,,,more exemplary,most exemplary,vorbildlich,,adj,,,,vorbildlicher,am vorbildlichsten,voorbeeldig,,adj,,,,voorbeeldiger,voorbeeldigst,نمونه‌وار,,adj,,,,-,-
+c1-0433,C1,advanced,exemplary,,adj,,,more exemplary,most exemplary,vorbildlich,,adj,,,,vorbildlicher,am vorbildlichsten,voorbeeldig,,adj,,,,voorbeeldiger,voorbeeldigst,مثال‌زدنی,,adj,,,,-,-
 c1-0434,C1,advanced,exploit,,verb,exploited,exploited,,,ausbeuten,,verb,beutete aus,ausgebeutet,haben,,,uitbuiten,,verb,buitte uit,uitgebuit,hebben,,,بهره‌برداری کردن، استثمار کردن، سوءاستفاده کردن,,verb,بهره‌برداری کرد، استثمار کرد، سوءاستفاده کرد,بهره‌برداری کن، استثمار کن، سوءاستفاده کن,بهره‌برداری کرده، استثمار کرده، سوءاستفاده کرده,,
 c1-0435,C1,advanced,exploitation,-,noun,,,,,die Ausbeutung,-,noun,,,,,,de uitbuiting,-,noun,,,,,,بهره‌برداری، استثمار,-,noun,,,,,
 c1-0436,C1,advanced,expose,,verb,exposed,exposed,,,aufdecken,,verb,deckte auf,aufgedeckt,haben,,,blootleggen,,verb,legde bloot,blootgelegd,hebben,,,افشا کردن,,verb,افشا کرد,افشا کن,افشا کرده,,
@@ -7855,7 +7850,6 @@ c1-0887,C1,advanced,performance-related bonus scheme,performance-related bonus s
 c1-0888,C1,medium,persist,,verb,persisted,persisted,,,anhalten,,verb,hielt an,angehalten,haben,,,aanhouden,,verb,hield aan,aangehouden,hebben,,,ادامه یافتن، پابرجا ماندن,,verb,ادامه یافت، پابرجا ماند,ادامه یاب، پابرجا مان,ادامه یافته، پابرجا مانده,,
 c1-0889,C1,medium,persistent,,adj,,,more persistent,most persistent,anhaltend,,adj,,,,anhaltender,am anhaltendsten,aanhoudend,,adj,,,,aanhoudender,aanhoudendst,مداوم,,adj,,,,مداوم‌تر,مداوم‌ترین
 c1-0890,C1,easy,personalized,,adj,,,more personalized,most personalized,personalisiert,,adj,,,,-,-,gepersonaliseerd,,adj,,,,-,-,شخصی‌سازی‌شده,,adj,,,,-,-
-c1-0891,C1,advanced,phenomena,-,noun,,,,,die Phänomene,-,noun,,,,,,de fenomenen,-,noun,,,,,,پدیده‌ها,-,noun,,,,,
 c1-0892,C1,medium,phenomenal,,adj,,,more phenomenal,most phenomenal,phänomenal,,adj,,,,phänomenaler,am phänomenalsten,fenomenaal,,adj,,,,fenomenaler,fenomenaalst,خارق‌العاده,,adj,,,,-,-
 c1-0893,C1,medium,phenomenally,,adv,,,,,phänomenal,,adv,,,,,,fenomenaal,,adv,,,,,,به‌طور خارق‌العاده‌ای,,adv,,,,,
 c1-0894,C1,medium,phenomenon,phenomena,noun,,,,,das Phänomen,Phänomene,noun,,,,,,het fenomeen,fenomenen,noun,,,,,,پدیده,پدیده‌ها,noun,,,,,
@@ -8014,12 +8008,12 @@ c1-1046,C1,medium,self-esteem,-,noun,,,,,das Selbstwertgefühl,-,noun,,,,,,de ei
 c1-1047,C1,medium,self-explanatory,,adj,,,-,-,selbsterklärend,,adj,,,,-,-,vanzelfsprekend,,adj,,,,-,-,گویا، بی‌نیاز از توضیح,,adj,,,,-,-
 c1-1048,C1,advanced,sell like hot cakes,,idiom,,,,,weggehen wie warme Semmeln,,idiom,,,,,,als warme broodjes over de toonbank gaan,,idiom,,,,,,مثل نقل و نبات فروش رفتن,,idiom,,,,,
 c1-1049,C1,easy,senate,senates,noun,,,,,der Senat,Senate,noun,,,,,,de senaat,senaten,noun,,,,,,سنا,سناها,noun,,,,,
-c1-1050,C1,easy,senators,-,noun,,,,,die Senatoren,-,noun,,,,,,de senatoren,-,noun,,,,,,سناتورها,-,noun,,,,,
+c1-1050,C1,easy,senator,senators,noun,,,,,der Senator,Senatoren,noun,,,,,,de senator,senatoren,noun,,,,,,سناتور,سناتورها,noun,,,,,
 c1-1051,C1,advanced,send something or somebody flying,,phrase,,,,,jemanden/etwas umstoßen,,phrase,,,,,,iemand/iets omverstoten,,phrase,,,,,,کسی/چیزی را پرت کردن,,verb,کسی/چیزی را پرت کرد,کسی/چیزی را پرت کن,کسی/چیزی را پرت کرده,,
 c1-1052,C1,medium,sequence of events,,phrase,,,,,der Ablauf der Ereignisse,-,noun,,,,,,het verloop van de gebeurtenissen,,phrase,,,,,,توالی رویدادها,,phrase,,,,,
 c1-1053,C1,medium,sergeant,sergeants,noun,,,,,der Feldwebel,Feldwebel,noun,,,,,,de sergeant,sergeanten,noun,,,,,,گروهبان,گروهبان‌ها,noun,,,,,
 c1-1054,C1,advanced,set off,,phrasal verb,set off,set off,,,auslösen,,verb,löste aus,ausgelöst,haben,,,veroorzaken,,verb,veroorzaakte,veroorzaakt,hebben,,,باعث شدن، به راه انداختن,,verb,باعث شد، به راه انداخت,باعث شو، به راه انداز,باعث شده، به راه انداخته,,
-c1-1055,C1,medium,set-back,set-backs,noun,,,,,der Rückschlag,Rückschläge,noun,,,,,,de tegenslag,tegenslagen,noun,,,,,,مانع، عقب‌گرد، شکست موقت,موانع، عقب‌گردها، شکست‌های موقت,noun,,,,,
+c1-1055,C1,medium,setback,setbacks,noun,,,,,der Rückschlag,Rückschläge,noun,,,,,,de tegenslag,tegenslagen,noun,,,,,,مانع، عقب‌گرد، شکست موقت,موانع، عقب‌گردها، شکست‌های موقت,noun,,,,,
 c1-1057,C1,medium,settle a dispute,,phrase,,,,,einen Streit beilegen,,phrase,,,,,,een geschil bijleggen,,phrase,,,,,,اختلاف را حل و فصل کردن,,verb,اختلاف را حل و فصل کرد,اختلاف را حل و فصل کن,اختلاف را حل و فصل کرده,,
 c1-1058,C1,medium,settle for,,phrasal verb,settled for,settled for,,,sich zufriedengeben mit,,verb,gab sich zufrieden mit,zufriedengegeben mit,haben,,,genoegen nemen met,,verb,nam genoegen met,genoegen genomen met,hebben,,,بسنده کردن به,,verb,به ... بسنده کرد,به ... بسنده کن,به ... بسنده کرده,,
 c1-1059,C1,medium,settle the bill,,phrase,,,,,die Rechnung begleichen,,phrase,,,,,,de rekening voldoen,,phrase,,,,,,صورتحساب را پرداختن,,verb,صورتحساب را پرداخت,صورتحساب را پرداز,صورتحساب را پرداخته,,
@@ -8170,7 +8164,7 @@ c1-1203,C1,medium,to the point,,idiom,,,,,zur Sache,,idiom,,,,,,ter zake,,idiom,
 c1-1204,C1,advanced,together,,adj,,,more together,most together,organisiert,,adj,,,,-,-,georganiseerd,,adj,,,,-,-,منظم,,adj,,,,منظم‌تر,منظم‌ترین
 c1-1205,C1,advanced,toll,tolls,noun,,,,,die Opferzahl,Opferzahlen,noun,,,,,,het dodental,dodentallen,noun,,,,,,شمار جان‌باختگان یا زیان‌دیدگان,-,noun,,,,,
 c1-1206,C1,medium,touch wood,,idiom,,,,,"toi, toi, toi",,idiom,,,,,,even afkloppen,,idiom,,,,,,بزنم به تخته,,idiom,,,,,
-c1-1207,C1,medium,trafficking,-,noun,,,,,der Schmuggel,-,noun,,,,,,de smokkel,-,noun,,,,,,قاچاق,-,noun,,,,,
+c1-1207,C1,medium,trafficking,-,noun,,,,,der illegale Handel,-,noun,,,,,,de illegale handel,-,noun,,,,,,قاچاق,-,noun,,,,,
 c1-1208,C1,medium,train of thought,,phrase,,,,,der Gedankengang,Gedankengänge,noun,,,,,,de gedachtegang,gedachtegangen,noun,,,,,,رشتهٔ افکار,رشته‌های افکار,noun,,,,,
 c1-1209,C1,medium,trait,traits,noun,,,,,der Charakterzug,Charakterzüge,noun,,,,,,de karaktertrek,karaktertrekken,noun,,,,,,صفت,صفات,noun,,,,,
 c1-1210,C1,easy,transaction,transactions,noun,,,,,die Transaktion,Transaktionen,noun,,,,,,de transactie,transacties,noun,,,,,,تراکنش,تراکنش‌ها,noun,,,,,
@@ -8241,7 +8235,7 @@ c1-1274,C1,easy,walled,,adj,,,-,-,ummauert,,adj,,,,-,-,ommuurd,,adj,,,,-,-,دی�
 c1-1275,C1,medium,warfare,-,noun,,,,,die Kriegsführung,-,noun,,,,,,de oorlogvoering,-,noun,,,,,,جنگ، شیوهٔ جنگیدن,-,noun,,,,,
 c1-1276,C1,advanced,warrant,warrants,noun,,,,,der Haftbefehl,Haftbefehle,noun,,,,,,het arrestatiebevel,arrestatiebevelen,noun,,,,,,حکم بازداشت,احکام بازداشت,noun,,,,,
 c1-1277,C1,easy,washable,,adj,,,-,-,waschbar,,adj,,,,-,-,wasbaar,,adj,,,,-,-,قابل شستشو,,adj,,,,-,-
-c1-1278,C1,advanced,waste,,adj,,,-,-,überflüssig,,adj,,,,-,-,overbodig,,adj,,,,-,-,زائد، بلااستفاده,,adj,,,,-,-
+c1-1278,C1,advanced,waste,,adj,,,-,-,Abfall-,,adj,,,,-,-,afval-,,adj,,,,-,-,زائد، بلااستفاده,,adj,,,,-,-
 c1-1280,C1,medium,wear off,,phrasal verb,wore off,worn off,,,nachlassen,,verb,ließ nach,nachgelassen,haben,,,uitwerken,,verb,werkte uit,uitgewerkt,zijn,,,(اثر چیزی) از بین رفتن,,verb,از بین رفت,از بین رو,از بین رفته,,
 c1-1281,C1,medium,go up in flames,,phrase,,,,,in Flammen aufgehen,,phrase,,,,,,in vlammen opgaan,,phrase,,,,,,در آتش سوختن,,verb,در آتش سوخت,در آتش سوز,در آتش سوخته,,
 c1-1282,C1,advanced,wicked,,adj,,,more wicked,most wicked,böse,,adj,,,,böser,am bösesten,slecht,,adj,,,,slechter,slechtst,شرور,,adj,,,,شرورتر,شرورترین
@@ -8258,7 +8252,7 @@ c1-1292,C1,medium,without fail,,phrase,,,,,ausnahmslos,,adv,,,,,,zonder uitzonde
 c1-1293,C1,medium,withstand,,verb,withstood,withstood,,,standhalten,,verb,hielt stand,standgehalten,haben,,,weerstaan,,verb,weerstond,weerstaan,hebben,,,تحمل کردن,,verb,تحمل کرد,تحمل کن,تحمل کرده,,
 c1-1294,C1,easy,wok,woks,noun,,,,,der Wok,Woks,noun,,,,,,de wok,woks,noun,,,,,,وک,وک‌ها,noun,,,,,
 c1-1295,C1,advanced,wonder,,adj,,,-,-,Wunder-,,adj,,,,-,-,wonder-,,adj,,,,-,-,معجزه‌آسا,,adj,,,,-,-
-c1-1296,C1,advanced,wooden,,adj,,,-,-,hölzern,,adj,,,,-,-,houterig,,adj,,,,houteriger,houterigst,خشک و بی‌روح (بازی),,adj,,,,-,-
+c1-1296,C1,advanced,wooden,,adj,,,more wooden,most wooden,hölzern,,adj,,,,hölzerner,am hölzernsten,houterig,,adj,,,,houteriger,houterigst,خشک و بی‌روح (بازی),,adj,,,,-,-
 c1-1297,C1,medium,work like a dream,,idiom,,,,,wie am Schnürchen klappen,,idiom,,,,,,op rolletjes lopen,,idiom,,,,,,عالی کار کردن,,phrase,,,,,
 c1-1298,C1,medium,worthwhile,,adj,,,more worthwhile,most worthwhile,lohnend,,adj,,,,lohnender,am lohnendsten,de moeite waard,,phrase,,,,,,ارزشمند,,adj,,,,ارزشمندتر,ارزشمندترین
 c1-1299,C1,medium,worthy,,adj,,,worthier,worthiest,würdig,,adj,,,,würdiger,am würdigsten,waardig,,adj,,,,waardiger,waardigst,شایسته,,adj,,,,شایسته‌تر,شایسته‌ترین
@@ -8286,7 +8280,7 @@ c2-0016,C2,advanced,affluent,,adj,,,more affluent,most affluent,wohlhabend,,adj,
 c2-0017,C2,medium,after-effect,after-effects,noun,,,,,die Nachwirkung,Nachwirkungen,noun,,,,,,de nawerking,nawerkingen,noun,,,,,,پیامد، اثر بعدی,پیامدها، اثرات بعدی,noun,,,,,
 c2-0018,C2,medium,aggravate,,verb,aggravated,aggravated,,,verschlimmern,,verb,verschlimmerte,verschlimmert,haben,,,verergeren,,verb,verergerde,verergerd,hebben,,,تشدید کردن,,verb,تشدید کرد,تشدید کن,تشدید کرده,,
 c2-0019,C2,advanced,aggregate,aggregates,noun,,,,,der Zuschlagstoff,Zuschlagstoffe,noun,,,,,,het toeslagmateriaal,toeslagmaterialen,noun,,,,,,سنگدانه,سنگدانه‌ها,noun,,,,,
-c2-0020,C2,medium,agile,,adj,,,more agile,most agile,flink,,adj,,,,flinker,am flinksten,lenig,,adj,,,,leniger,lenigst,چابک,,adj,,,,چابک‌تر,چابک‌ترین
+c2-0020,C2,medium,agile,,adj,,,more agile,most agile,beweglich,,adj,,,,beweglicher,am beweglichsten,lenig,,adj,,,,leniger,lenigst,چابک,,adj,,,,چابک‌تر,چابک‌ترین
 c2-0021,C2,medium,agility,-,noun,,,,,die Beweglichkeit,-,noun,,,,,,de lenigheid,-,noun,,,,,,چابکی,-,noun,,,,,
 c2-0022,C2,advanced,albeit,,conj,,,,,wenn auch,,conj,,,,,,zij het,,conj,,,,,,هرچند,,conj,,,,,
 c2-0023,C2,advanced,all things being equal,,idiom,,,,,unter sonst gleichen Bedingungen,,idiom,,,,,,als alle andere omstandigheden gelijk blijven,,idiom,,,,,,اگر همه چیز طبق روال پیش برود,,phrase,,,,,
@@ -8303,7 +8297,7 @@ c2-0033,C2,medium,anonymity,-,noun,,,,,die Anonymität,-,noun,,,,,,de anonimitei
 c2-0034,C2,medium,anticlimax,anticlimaxes,noun,,,,,die Enttäuschung,Enttäuschungen,noun,,,,,,de anticlimax,anticlimaxen,noun,,,,,,ضد اوج,-,noun,,,,,
 c2-0035,C2,medium,appetizing,,adj,,,more appetizing,most appetizing,appetitlich,,adj,,,,appetitlicher,am appetitlichsten,smakelijk,,adj,,,,smakelijker,smakelijkst,اشتهاآور,,adj,,,,اشتهاآورتر,اشتهاآورترین
 c2-0036,C2,advanced,aptitude for,,phrase,,,,,die Begabung für,,phrase,,,,,,aanleg voor,,phrase,,,,,,استعداد برای,,phrase,,,,,
-c2-0037,C2,advanced,archaic,,adj,,,more archaic,most archaic,veraltet,,adj,,,,-,-,archaïsch,,adj,,,,archaïscher,meest archaïsch,منسوخ,,adj,,,,-,-
+c2-0037,C2,advanced,archaic,,adj,,,more archaic,most archaic,veraltet,,adj,,,,veralteter,am veraltetsten,archaïsch,,adj,,,,archaïscher,meest archaïsch,منسوخ,,adj,,,,-,-
 c2-0038,C2,advanced,arduous,,adj,,,more arduous,most arduous,mühsam,,adj,,,,mühsamer,am mühsamsten,moeizaam,,adj,,,,moeizamer,moeizaamst,طاقت‌فرسا,,adj,,,,طاقت‌فرساتر,طاقت‌فرساترین
 c2-0039,C2,medium,be reconciled,,verb,was/were reconciled,been reconciled,,,versöhnt sein,,phrase,,,,,,verzoend zijn,,phrase,,,,,,آشتی کردن,,verb,آشتی کرد,آشتی کن,آشتی کرده,,
 c2-0040,C2,medium,arouse,,verb,aroused,aroused,,,erregen,,verb,erregte,erregt,haben,,,opwekken,,verb,wekte op,opgewekt,hebben,,,برانگیختن,,verb,برانگیخت,برانگیز,برانگیخته,,

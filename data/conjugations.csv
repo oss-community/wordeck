@@ -9842,19 +9842,6 @@ a2-0492,persian,کار بانکی آنلاین انجام دادن,past_progress
 a2-0492,persian,کار بانکی آنلاین انجام دادن,present_perfect,کار بانکی آنلاین انجام داده‌ام,کار بانکی آنلاین انجام داده‌ای,کار بانکی آنلاین انجام داده است,کار بانکی آنلاین انجام داده‌ایم,کار بانکی آنلاین انجام داده‌اید,کار بانکی آنلاین انجام داده‌اند
 a2-0492,persian,کار بانکی آنلاین انجام دادن,past_perfect,کار بانکی آنلاین انجام داده بودم,کار بانکی آنلاین انجام داده بودی,کار بانکی آنلاین انجام داده بود,کار بانکی آنلاین انجام داده بودیم,کار بانکی آنلاین انجام داده بودید,کار بانکی آنلاین انجام داده بودند
 a2-0492,persian,کار بانکی آنلاین انجام دادن,future,کار بانکی آنلاین انجام خواهم داد,کار بانکی آنلاین انجام خواهی داد,کار بانکی آنلاین انجام خواهد داد,کار بانکی آنلاین انجام خواهیم داد,کار بانکی آنلاین انجام خواهید داد,کار بانکی آنلاین انجام خواهند داد
-a2-0493,german,einkaufen,present,kaufe ein,kaufst ein,kauft ein,kaufen ein,kauft ein,kaufen ein
-a2-0493,german,einkaufen,simple_past,kaufte ein,kauftest ein,kaufte ein,kauften ein,kauftet ein,kauften ein
-a2-0493,german,einkaufen,present_perfect,habe eingekauft,hast eingekauft,hat eingekauft,haben eingekauft,habt eingekauft,haben eingekauft
-a2-0493,german,einkaufen,past_perfect,hatte eingekauft,hattest eingekauft,hatte eingekauft,hatten eingekauft,hattet eingekauft,hatten eingekauft
-a2-0493,german,einkaufen,future,werde einkaufen,wirst einkaufen,wird einkaufen,werden einkaufen,werdet einkaufen,werden einkaufen
-a2-0493,persian,خرید کردن,present,خرید می‌کنم,خرید می‌کنی,خرید می‌کند,خرید می‌کنیم,خرید می‌کنید,خرید می‌کنند
-a2-0493,persian,خرید کردن,present_progressive,دارم خرید می‌کنم,داری خرید می‌کنی,دارد خرید می‌کند,داریم خرید می‌کنیم,دارید خرید می‌کنید,دارند خرید می‌کنند
-a2-0493,persian,خرید کردن,simple_past,خرید کردم,خرید کردی,خرید کرد,خرید کردیم,خرید کردید,خرید کردند
-a2-0493,persian,خرید کردن,past_imperfect,خرید می‌کردم,خرید می‌کردی,خرید می‌کرد,خرید می‌کردیم,خرید می‌کردید,خرید می‌کردند
-a2-0493,persian,خرید کردن,past_progressive,داشتم خرید می‌کردم,داشتی خرید می‌کردی,داشت خرید می‌کرد,داشتیم خرید می‌کردیم,داشتید خرید می‌کردید,داشتند خرید می‌کردند
-a2-0493,persian,خرید کردن,present_perfect,خرید کرده‌ام,خرید کرده‌ای,خرید کرده است,خرید کرده‌ایم,خرید کرده‌اید,خرید کرده‌اند
-a2-0493,persian,خرید کردن,past_perfect,خرید کرده بودم,خرید کرده بودی,خرید کرده بود,خرید کرده بودیم,خرید کرده بودید,خرید کرده بودند
-a2-0493,persian,خرید کردن,future,خرید خواهم کرد,خرید خواهی کرد,خرید خواهد کرد,خرید خواهیم کرد,خرید خواهید کرد,خرید خواهند کرد
 a2-0494,english,do well,present,do well,do well,does well,do well,do well,do well
 a2-0494,english,do well,present_progressive,am doing well,are doing well,is doing well,are doing well,are doing well,are doing well
 a2-0494,english,do well,simple_past,did well,did well,did well,did well,did well,did well
@@ -16536,33 +16523,6 @@ a2-1832,persian,ظرف شستن,past_progressive,داشتم ظرف می‌شست
 a2-1832,persian,ظرف شستن,present_perfect,ظرف شسته‌ام,ظرف شسته‌ای,ظرف شسته است,ظرف شسته‌ایم,ظرف شسته‌اید,ظرف شسته‌اند
 a2-1832,persian,ظرف شستن,past_perfect,ظرف شسته بودم,ظرف شسته بودی,ظرف شسته بود,ظرف شسته بودیم,ظرف شسته بودید,ظرف شسته بودند
 a2-1832,persian,ظرف شستن,future,ظرف خواهم شست,ظرف خواهی شست,ظرف خواهد شست,ظرف خواهیم شست,ظرف خواهید شست,ظرف خواهند شست
-a2-1835,english,watch,present,watch,watch,watches,watch,watch,watch
-a2-1835,english,watch,present_progressive,am watching,are watching,is watching,are watching,are watching,are watching
-a2-1835,english,watch,simple_past,watched,watched,watched,watched,watched,watched
-a2-1835,english,watch,past_progressive,was watching,were watching,was watching,were watching,were watching,were watching
-a2-1835,english,watch,present_perfect,have watched,have watched,has watched,have watched,have watched,have watched
-a2-1835,english,watch,past_perfect,had watched,had watched,had watched,had watched,had watched,had watched
-a2-1835,english,watch,future,will watch,will watch,will watch,will watch,will watch,will watch
-a2-1835,german,aufpassen,present,passe auf,passt auf,passt auf,passen auf,passt auf,passen auf
-a2-1835,german,aufpassen,simple_past,passte auf,passtest auf,passte auf,passten auf,passtet auf,passten auf
-a2-1835,german,aufpassen,present_perfect,habe aufgepasst,hast aufgepasst,hat aufgepasst,haben aufgepasst,habt aufgepasst,haben aufgepasst
-a2-1835,german,aufpassen,past_perfect,hatte aufgepasst,hattest aufgepasst,hatte aufgepasst,hatten aufgepasst,hattet aufgepasst,hatten aufgepasst
-a2-1835,german,aufpassen,future,werde aufpassen,wirst aufpassen,wird aufpassen,werden aufpassen,werdet aufpassen,werden aufpassen
-a2-1835,dutch,opletten,present,let op,let op,let op,letten op,letten op,letten op
-a2-1835,dutch,opletten,present_progressive,-,-,-,-,-,-
-a2-1835,dutch,opletten,simple_past,lette op,lette op,lette op,letten op,letten op,letten op
-a2-1835,dutch,opletten,past_progressive,-,-,-,-,-,-
-a2-1835,dutch,opletten,present_perfect,heb opgelet,hebt opgelet,heeft opgelet,hebben opgelet,hebben opgelet,hebben opgelet
-a2-1835,dutch,opletten,past_perfect,had opgelet,had opgelet,had opgelet,hadden opgelet,hadden opgelet,hadden opgelet
-a2-1835,dutch,opletten,future,zal opletten,zult opletten,zal opletten,zullen opletten,zullen opletten,zullen opletten
-a2-1835,persian,مواظب بودن,present,مواظب هستم,مواظب هستی,مواظب است,مواظب هستیم,مواظب هستید,مواظب هستند
-a2-1835,persian,مواظب بودن,present_progressive,-,-,-,-,-,-
-a2-1835,persian,مواظب بودن,simple_past,مواظب بودم,مواظب بودی,مواظب بود,مواظب بودیم,مواظب بودید,مواظب بودند
-a2-1835,persian,مواظب بودن,past_imperfect,مواظب بودم,مواظب بودی,مواظب بود,مواظب بودیم,مواظب بودید,مواظب بودند
-a2-1835,persian,مواظب بودن,past_progressive,-,-,-,-,-,-
-a2-1835,persian,مواظب بودن,present_perfect,مواظب بوده‌ام,مواظب بوده‌ای,مواظب بوده است,مواظب بوده‌ایم,مواظب بوده‌اید,مواظب بوده‌اند
-a2-1835,persian,مواظب بودن,past_perfect,مواظب بوده بودم,مواظب بوده بودی,مواظب بوده بود,مواظب بوده بودیم,مواظب بوده بودید,مواظب بوده بودند
-a2-1835,persian,مواظب بودن,future,مواظب خواهم بود,مواظب خواهی بود,مواظب خواهد بود,مواظب خواهیم بود,مواظب خواهید بود,مواظب خواهند بود
 a2-1844,english,weigh,present,weigh,weigh,weighs,weigh,weigh,weigh
 a2-1844,english,weigh,present_progressive,am weighing,are weighing,is weighing,are weighing,are weighing,are weighing
 a2-1844,english,weigh,simple_past,weighed,weighed,weighed,weighed,weighed,weighed
@@ -23647,33 +23607,6 @@ b1-1258,persian,از سیستم خارج شدن,past_progressive,داشتم از
 b1-1258,persian,از سیستم خارج شدن,present_perfect,از سیستم خارج شده‌ام,از سیستم خارج شده‌ای,از سیستم خارج شده است,از سیستم خارج شده‌ایم,از سیستم خارج شده‌اید,از سیستم خارج شده‌اند
 b1-1258,persian,از سیستم خارج شدن,past_perfect,از سیستم خارج شده بودم,از سیستم خارج شده بودی,از سیستم خارج شده بود,از سیستم خارج شده بودیم,از سیستم خارج شده بودید,از سیستم خارج شده بودند
 b1-1258,persian,از سیستم خارج شدن,future,از سیستم خارج خواهم شد,از سیستم خارج خواهی شد,از سیستم خارج خواهد شد,از سیستم خارج خواهیم شد,از سیستم خارج خواهید شد,از سیستم خارج خواهند شد
-b1-1262,english,look forward to something,present,look forward to something,look forward to something,looks forward to something,look forward to something,look forward to something,look forward to something
-b1-1262,english,look forward to something,present_progressive,am looking forward to something,are looking forward to something,is looking forward to something,are looking forward to something,are looking forward to something,are looking forward to something
-b1-1262,english,look forward to something,simple_past,looked forward to something,looked forward to something,looked forward to something,looked forward to something,looked forward to something,looked forward to something
-b1-1262,english,look forward to something,past_progressive,was looking forward to something,were looking forward to something,was looking forward to something,were looking forward to something,were looking forward to something,were looking forward to something
-b1-1262,english,look forward to something,present_perfect,have looked forward to something,have looked forward to something,has looked forward to something,have looked forward to something,have looked forward to something,have looked forward to something
-b1-1262,english,look forward to something,past_perfect,had looked forward to something,had looked forward to something,had looked forward to something,had looked forward to something,had looked forward to something,had looked forward to something
-b1-1262,english,look forward to something,future,will look forward to something,will look forward to something,will look forward to something,will look forward to something,will look forward to something,will look forward to something
-b1-1262,german,sich freuen auf,present,freue mich auf ...,freust dich auf ...,freut sich auf ...,freuen uns auf ...,freut euch auf ...,freuen sich auf ...
-b1-1262,german,sich freuen auf,simple_past,freute mich auf ...,freutest dich auf ...,freute sich auf ...,freuten uns auf ...,freutet euch auf ...,freuten sich auf ...
-b1-1262,german,sich freuen auf,present_perfect,habe mich auf ... gefreut,hast dich auf ... gefreut,hat sich auf ... gefreut,haben uns auf ... gefreut,habt euch auf ... gefreut,haben sich auf ... gefreut
-b1-1262,german,sich freuen auf,past_perfect,hatte mich auf ... gefreut,hattest dich auf ... gefreut,hatte sich auf ... gefreut,hatten uns auf ... gefreut,hattet euch auf ... gefreut,hatten sich auf ... gefreut
-b1-1262,german,sich freuen auf,future,werde mich auf ... freuen,wirst dich auf ... freuen,wird sich auf ... freuen,werden uns auf ... freuen,werdet euch auf ... freuen,werden sich auf ... freuen
-b1-1262,dutch,zich verheugen op,present,verheug me op ...,verheugt je op ...,verheugt zich op ...,verheugen ons op ...,verheugen je op ...,verheugen zich op ...
-b1-1262,dutch,zich verheugen op,present_progressive,-,-,-,-,-,-
-b1-1262,dutch,zich verheugen op,simple_past,verheugde me op ...,verheugde je op ...,verheugde zich op ...,verheugden ons op ...,verheugden je op ...,verheugden zich op ...
-b1-1262,dutch,zich verheugen op,past_progressive,-,-,-,-,-,-
-b1-1262,dutch,zich verheugen op,present_perfect,heb me op ... verheugd,hebt je op ... verheugd,heeft zich op ... verheugd,hebben ons op ... verheugd,hebben je op ... verheugd,hebben zich op ... verheugd
-b1-1262,dutch,zich verheugen op,past_perfect,had me op ... verheugd,had je op ... verheugd,had zich op ... verheugd,hadden ons op ... verheugd,hadden je op ... verheugd,hadden zich op ... verheugd
-b1-1262,dutch,zich verheugen op,future,zal me op ... verheugen,zult je op ... verheugen,zal zich op ... verheugen,zullen ons op ... verheugen,zullen je op ... verheugen,zullen zich op ... verheugen
-b1-1262,persian,چشم‌انتظار چیزی بودن,present,چشم‌انتظار چیزی هستم,چشم‌انتظار چیزی هستی,چشم‌انتظار چیزی است,چشم‌انتظار چیزی هستیم,چشم‌انتظار چیزی هستید,چشم‌انتظار چیزی هستند
-b1-1262,persian,چشم‌انتظار چیزی بودن,present_progressive,-,-,-,-,-,-
-b1-1262,persian,چشم‌انتظار چیزی بودن,simple_past,چشم‌انتظار چیزی بودم,چشم‌انتظار چیزی بودی,چشم‌انتظار چیزی بود,چشم‌انتظار چیزی بودیم,چشم‌انتظار چیزی بودید,چشم‌انتظار چیزی بودند
-b1-1262,persian,چشم‌انتظار چیزی بودن,past_imperfect,چشم‌انتظار چیزی بودم,چشم‌انتظار چیزی بودی,چشم‌انتظار چیزی بود,چشم‌انتظار چیزی بودیم,چشم‌انتظار چیزی بودید,چشم‌انتظار چیزی بودند
-b1-1262,persian,چشم‌انتظار چیزی بودن,past_progressive,-,-,-,-,-,-
-b1-1262,persian,چشم‌انتظار چیزی بودن,present_perfect,چشم‌انتظار چیزی بوده‌ام,چشم‌انتظار چیزی بوده‌ای,چشم‌انتظار چیزی بوده است,چشم‌انتظار چیزی بوده‌ایم,چشم‌انتظار چیزی بوده‌اید,چشم‌انتظار چیزی بوده‌اند
-b1-1262,persian,چشم‌انتظار چیزی بودن,past_perfect,چشم‌انتظار چیزی بوده بودم,چشم‌انتظار چیزی بوده بودی,چشم‌انتظار چیزی بوده بود,چشم‌انتظار چیزی بوده بودیم,چشم‌انتظار چیزی بوده بودید,چشم‌انتظار چیزی بوده بودند
-b1-1262,persian,چشم‌انتظار چیزی بودن,future,چشم‌انتظار چیزی خواهم بود,چشم‌انتظار چیزی خواهی بود,چشم‌انتظار چیزی خواهد بود,چشم‌انتظار چیزی خواهیم بود,چشم‌انتظار چیزی خواهید بود,چشم‌انتظار چیزی خواهند بود
 b1-1263,english,look round,present,look round,look round,looks round,look round,look round,look round
 b1-1263,english,look round,present_progressive,am looking round,are looking round,is looking round,are looking round,are looking round,are looking round
 b1-1263,english,look round,simple_past,looked round,looked round,looked round,looked round,looked round,looked round
@@ -28575,33 +28508,6 @@ b1-2086,persian,به عهده گرفتن,past_progressive,داشتم به عهد
 b1-2086,persian,به عهده گرفتن,present_perfect,به عهده گرفته‌ام,به عهده گرفته‌ای,به عهده گرفته است,به عهده گرفته‌ایم,به عهده گرفته‌اید,به عهده گرفته‌اند
 b1-2086,persian,به عهده گرفتن,past_perfect,به عهده گرفته بودم,به عهده گرفته بودی,به عهده گرفته بود,به عهده گرفته بودیم,به عهده گرفته بودید,به عهده گرفته بودند
 b1-2086,persian,به عهده گرفتن,future,به عهده خواهم گرفت,به عهده خواهی گرفت,به عهده خواهد گرفت,به عهده خواهیم گرفت,به عهده خواهید گرفت,به عهده خواهند گرفت
-b1-2087,english,take place,present,take place,take place,takes place,take place,take place,take place
-b1-2087,english,take place,present_progressive,am taking place,are taking place,is taking place,are taking place,are taking place,are taking place
-b1-2087,english,take place,simple_past,took place,took place,took place,took place,took place,took place
-b1-2087,english,take place,past_progressive,was taking place,were taking place,was taking place,were taking place,were taking place,were taking place
-b1-2087,english,take place,present_perfect,have taken place,have taken place,has taken place,have taken place,have taken place,have taken place
-b1-2087,english,take place,past_perfect,had taken place,had taken place,had taken place,had taken place,had taken place,had taken place
-b1-2087,english,take place,future,will take place,will take place,will take place,will take place,will take place,will take place
-b1-2087,german,stattfinden,present,-,-,findet statt,-,-,finden statt
-b1-2087,german,stattfinden,simple_past,-,-,fand statt,-,-,fanden statt
-b1-2087,german,stattfinden,present_perfect,-,-,hat stattgefunden,-,-,haben stattgefunden
-b1-2087,german,stattfinden,past_perfect,-,-,hatte stattgefunden,-,-,hatten stattgefunden
-b1-2087,german,stattfinden,future,-,-,wird stattfinden,-,-,werden stattfinden
-b1-2087,dutch,plaatsvinden,present,-,-,vindt plaats,-,-,vinden plaats
-b1-2087,dutch,plaatsvinden,present_progressive,-,-,-,-,-,-
-b1-2087,dutch,plaatsvinden,simple_past,-,-,vond plaats,-,-,vonden plaats
-b1-2087,dutch,plaatsvinden,past_progressive,-,-,-,-,-,-
-b1-2087,dutch,plaatsvinden,present_perfect,-,-,heeft plaatsgevonden,-,-,hebben plaatsgevonden
-b1-2087,dutch,plaatsvinden,past_perfect,-,-,had plaatsgevonden,-,-,hadden plaatsgevonden
-b1-2087,dutch,plaatsvinden,future,-,-,zal plaatsvinden,-,-,zullen plaatsvinden
-b1-2087,persian,برگزار شدن,present,-,-,برگزار می‌شود,-,-,برگزار می‌شوند
-b1-2087,persian,برگزار شدن,present_progressive,-,-,دارد برگزار می‌شود,-,-,دارند برگزار می‌شوند
-b1-2087,persian,برگزار شدن,simple_past,-,-,برگزار شد,-,-,برگزار شدند
-b1-2087,persian,برگزار شدن,past_imperfect,-,-,برگزار می‌شد,-,-,برگزار می‌شدند
-b1-2087,persian,برگزار شدن,past_progressive,-,-,داشت برگزار می‌شد,-,-,داشتند برگزار می‌شدند
-b1-2087,persian,برگزار شدن,present_perfect,-,-,برگزار شده است,-,-,برگزار شده‌اند
-b1-2087,persian,برگزار شدن,past_perfect,-,-,برگزار شده بود,-,-,برگزار شده بودند
-b1-2087,persian,برگزار شدن,future,-,-,برگزار خواهد شد,-,-,برگزار خواهند شد
 b1-2088,english,take something away from something,present,take something away from something,take something away from something,takes something away from something,take something away from something,take something away from something,take something away from something
 b1-2088,english,take something away from something,present_progressive,am taking something away from something,are taking something away from something,is taking something away from something,are taking something away from something,are taking something away from something,are taking something away from something
 b1-2088,english,take something away from something,simple_past,took something away from something,took something away from something,took something away from something,took something away from something,took something away from something,took something away from something
