@@ -1543,13 +1543,13 @@ a1-0347,german,einzeichnen,simple_past,zeichnete ein,zeichnetest ein,zeichnete e
 a1-0347,german,einzeichnen,present_perfect,habe eingezeichnet,hast eingezeichnet,hat eingezeichnet,haben eingezeichnet,habt eingezeichnet,haben eingezeichnet
 a1-0347,german,einzeichnen,past_perfect,hatte eingezeichnet,hattest eingezeichnet,hatte eingezeichnet,hatten eingezeichnet,hattet eingezeichnet,hatten eingezeichnet
 a1-0347,german,einzeichnen,future,werde einzeichnen,wirst einzeichnen,wird einzeichnen,werden einzeichnen,werdet einzeichnen,werden einzeichnen
-a1-0347,dutch,tekenen,present,teken,tekent,tekent,tekenen,tekenen,tekenen
-a1-0347,dutch,tekenen,present_progressive,ben aan het tekenen,bent aan het tekenen,is aan het tekenen,zijn aan het tekenen,zijn aan het tekenen,zijn aan het tekenen
-a1-0347,dutch,tekenen,simple_past,tekende,tekende,tekende,tekenden,tekenden,tekenden
-a1-0347,dutch,tekenen,past_progressive,was aan het tekenen,was aan het tekenen,was aan het tekenen,waren aan het tekenen,waren aan het tekenen,waren aan het tekenen
-a1-0347,dutch,tekenen,present_perfect,heb getekend,hebt getekend,heeft getekend,hebben getekend,hebben getekend,hebben getekend
-a1-0347,dutch,tekenen,past_perfect,had getekend,had getekend,had getekend,hadden getekend,hadden getekend,hadden getekend
-a1-0347,dutch,tekenen,future,zal tekenen,zult tekenen,zal tekenen,zullen tekenen,zullen tekenen,zullen tekenen
+a1-0347,dutch,intekenen,present,teken in,tekent in,tekent in,tekenen in,tekenen in,tekenen in
+a1-0347,dutch,intekenen,present_progressive,ben aan het intekenen,bent aan het intekenen,is aan het intekenen,zijn aan het intekenen,zijn aan het intekenen,zijn aan het intekenen
+a1-0347,dutch,intekenen,simple_past,tekende in,tekende in,tekende in,tekenden in,tekenden in,tekenden in
+a1-0347,dutch,intekenen,past_progressive,was aan het intekenen,was aan het intekenen,was aan het intekenen,waren aan het intekenen,waren aan het intekenen,waren aan het intekenen
+a1-0347,dutch,intekenen,present_perfect,heb ingetekend,hebt ingetekend,heeft ingetekend,hebben ingetekend,hebben ingetekend,hebben ingetekend
+a1-0347,dutch,intekenen,past_perfect,had ingetekend,had ingetekend,had ingetekend,hadden ingetekend,hadden ingetekend,hadden ingetekend
+a1-0347,dutch,intekenen,future,zal intekenen,zult intekenen,zal intekenen,zullen intekenen,zullen intekenen,zullen intekenen
 a1-0347,persian,طراحی کردن,present,طراحی می‌کنم,طراحی می‌کنی,طراحی می‌کند,طراحی می‌کنیم,طراحی می‌کنید,طراحی می‌کنند
 a1-0347,persian,طراحی کردن,present_progressive,دارم طراحی می‌کنم,داری طراحی می‌کنی,دارد طراحی می‌کند,داریم طراحی می‌کنیم,دارید طراحی می‌کنید,دارند طراحی می‌کنند
 a1-0347,persian,طراحی کردن,simple_past,طراحی کردم,طراحی کردی,طراحی کرد,طراحی کردیم,طراحی کردید,طراحی کردند
@@ -4166,8 +4166,8 @@ a1-0914,persian,رفتن و آوردن,present_progressive,دارم می‌رو�
 a1-0914,persian,رفتن و آوردن,simple_past,رفتم و آوردم,رفتی و آوردی,رفت و آورد,رفتیم و آوردیم,رفتید و آوردید,رفتند و آوردند
 a1-0914,persian,رفتن و آوردن,past_imperfect,می‌رفتم و می‌آوردم,می‌رفتی و می‌آوردی,می‌رفت و می‌آورد,می‌رفتیم و می‌آوردیم,می‌رفتید و می‌آوردید,می‌رفتند و می‌آوردند
 a1-0914,persian,رفتن و آوردن,past_progressive,داشتم می‌رفتم و می‌آوردم,داشتی می‌رفتی و می‌آوردی,داشت می‌رفت و می‌آورد,داشتیم می‌رفتیم و می‌آوردیم,داشتید می‌رفتید و می‌آوردید,داشتند می‌رفتند و می‌آوردند
-a1-0914,persian,رفتن و آوردن,present_perfect,رفتم و آورده‌ام,رفتی و آورده‌ای,رفت و آورده است,رفتیم و آورده‌ایم,رفتید و آورده‌اید,رفتند و آورده‌اند
-a1-0914,persian,رفتن و آوردن,past_perfect,رفتم و آورده بودم,رفتی و آورده بودی,رفت و آورده بود,رفتیم و آورده بودیم,رفتید و آورده بودید,رفتند و آورده بودند
+a1-0914,persian,رفتن و آوردن,present_perfect,رفته‌ام و آورده‌ام,رفته‌ای و آورده‌ای,رفته است و آورده است,رفته‌ایم و آورده‌ایم,رفته‌اید و آورده‌اید,رفته‌اند و آورده‌اند
+a1-0914,persian,رفتن و آوردن,past_perfect,رفته بودم و آورده بودم,رفته بودی و آورده بودی,رفته بود و آورده بود,رفته بودیم و آورده بودیم,رفته بودید و آورده بودید,رفته بودند و آورده بودند
 a1-0914,persian,رفتن و آوردن,future,خواهم رفت و خواهم آورد,خواهی رفت و خواهی آورد,خواهد رفت و خواهد آورد,خواهیم رفت و خواهیم آورد,خواهید رفت و خواهید آورد,خواهند رفت و خواهند آورد
 a1-0925,english,plan,present,plan,plan,plans,plan,plan,plan
 a1-0925,english,plan,present_progressive,am planning,are planning,is planning,are planning,are planning,are planning
@@ -6184,8 +6184,8 @@ a1-1258,english,be born,past_perfect,had been born,had been born,had been born,h
 a1-1258,english,be born,future,will be born,will be born,will be born,will be born,will be born,will be born
 a1-1258,german,geboren sein,present,bin geboren,bist geboren,ist geboren,sind geboren,seid geboren,sind geboren
 a1-1258,german,geboren sein,simple_past,war geboren,warst geboren,war geboren,waren geboren,wart geboren,waren geboren
-a1-1258,german,geboren sein,present_perfect,-,-,-,-,-,-
-a1-1258,german,geboren sein,past_perfect,-,-,-,-,-,-
+a1-1258,german,geboren sein,present_perfect,bin geboren gewesen,bist geboren gewesen,ist geboren gewesen,sind geboren gewesen,seid geboren gewesen,sind geboren gewesen
+a1-1258,german,geboren sein,past_perfect,war geboren gewesen,warst geboren gewesen,war geboren gewesen,waren geboren gewesen,wart geboren gewesen,waren geboren gewesen
 a1-1258,german,geboren sein,future,werde geboren sein,wirst geboren sein,wird geboren sein,werden geboren sein,werdet geboren sein,werden geboren sein
 a1-1258,dutch,geboren worden,present,word geboren,wordt geboren,wordt geboren,worden geboren,worden geboren,worden geboren
 a1-1258,dutch,geboren worden,present_progressive,-,-,-,-,-,-
@@ -15264,8 +15264,8 @@ a2-1659,english,take off,past_perfect,had taken off,had taken off,had taken off,
 a2-1659,english,take off,future,will take off,will take off,will take off,will take off,will take off,will take off
 a2-1659,german,ausziehen,present,ziehe aus,ziehst aus,zieht aus,ziehen aus,zieht aus,ziehen aus
 a2-1659,german,ausziehen,simple_past,zog aus,zogst aus,zog aus,zogen aus,zogt aus,zogen aus
-a2-1659,german,ausziehen,present_perfect,bin ausgezogen,bist ausgezogen,ist ausgezogen,sind ausgezogen,seid ausgezogen,sind ausgezogen
-a2-1659,german,ausziehen,past_perfect,war ausgezogen,warst ausgezogen,war ausgezogen,waren ausgezogen,wart ausgezogen,waren ausgezogen
+a2-1659,german,ausziehen,present_perfect,habe ausgezogen,hast ausgezogen,hat ausgezogen,haben ausgezogen,habt ausgezogen,haben ausgezogen
+a2-1659,german,ausziehen,past_perfect,hatte ausgezogen,hattest ausgezogen,hatte ausgezogen,hatten ausgezogen,hattet ausgezogen,hatten ausgezogen
 a2-1659,german,ausziehen,future,werde ausziehen,wirst ausziehen,wird ausziehen,werden ausziehen,werdet ausziehen,werden ausziehen
 a2-1659,dutch,uittrekken,present,trek uit,trekt uit,trekt uit,trekken uit,trekken uit,trekken uit
 a2-1659,dutch,uittrekken,present_progressive,ben aan het uittrekken,bent aan het uittrekken,is aan het uittrekken,zijn aan het uittrekken,zijn aan het uittrekken,zijn aan het uittrekken
@@ -16205,8 +16205,8 @@ a2-1868,english,withdraw,past_perfect,had withdrawn,had withdrawn,had withdrawn,
 a2-1868,english,withdraw,future,will withdraw,will withdraw,will withdraw,will withdraw,will withdraw,will withdraw
 a2-1868,german,abheben,present,hebe ab,hebst ab,hebt ab,heben ab,hebt ab,heben ab
 a2-1868,german,abheben,simple_past,hob ab,hobst ab,hob ab,hoben ab,hobt ab,hoben ab
-a2-1868,german,abheben,present_perfect,bin abgehoben,bist abgehoben,ist abgehoben,sind abgehoben,seid abgehoben,sind abgehoben
-a2-1868,german,abheben,past_perfect,war abgehoben,warst abgehoben,war abgehoben,waren abgehoben,wart abgehoben,waren abgehoben
+a2-1868,german,abheben,present_perfect,habe abgehoben,hast abgehoben,hat abgehoben,haben abgehoben,habt abgehoben,haben abgehoben
+a2-1868,german,abheben,past_perfect,hatte abgehoben,hattest abgehoben,hatte abgehoben,hatten abgehoben,hattet abgehoben,hatten abgehoben
 a2-1868,german,abheben,future,werde abheben,wirst abheben,wird abheben,werden abheben,werdet abheben,werden abheben
 a2-1868,dutch,opnemen,present,neem op,neemt op,neemt op,nemen op,nemen op,nemen op
 a2-1868,dutch,opnemen,present_progressive,ben aan het opnemen,bent aan het opnemen,is aan het opnemen,zijn aan het opnemen,zijn aan het opnemen,zijn aan het opnemen
@@ -23045,10 +23045,10 @@ b1-1224,persian,کسی را ناامید کردن,past_perfect,کسی را نا�
 b1-1224,persian,کسی را ناامید کردن,future,کسی را ناامید خواهم کرد,کسی را ناامید خواهی کرد,کسی را ناامید خواهد کرد,کسی را ناامید خواهیم کرد,کسی را ناامید خواهید کرد,کسی را ناامید خواهند کرد
 b1-1230,english,lie,present,lie,lie,lies,lie,lie,lie
 b1-1230,english,lie,present_progressive,am lying,are lying,is lying,are lying,are lying,are lying
-b1-1230,english,lie,simple_past,lay,lay,lay,lay,lay,lay
+b1-1230,english,lie,simple_past,lied,lied,lied,lied,lied,lied
 b1-1230,english,lie,past_progressive,was lying,were lying,was lying,were lying,were lying,were lying
-b1-1230,english,lie,present_perfect,have lain,have lain,has lain,have lain,have lain,have lain
-b1-1230,english,lie,past_perfect,had lain,had lain,had lain,had lain,had lain,had lain
+b1-1230,english,lie,present_perfect,have lied,have lied,has lied,have lied,have lied,have lied
+b1-1230,english,lie,past_perfect,had lied,had lied,had lied,had lied,had lied,had lied
 b1-1230,english,lie,future,will lie,will lie,will lie,will lie,will lie,will lie
 b1-1230,german,lügen,present,lüge,lügst,lügt,lügen,lügt,lügen
 b1-1230,german,lügen,simple_past,log,logst,log,logen,logt,logen
@@ -27405,8 +27405,8 @@ b1-2013,english,step,past_perfect,had stepped,had stepped,had stepped,had steppe
 b1-2013,english,step,future,will step,will step,will step,will step,will step,will step
 b1-2013,german,treten,present,trete,trittst,tritt,treten,tretet,treten
 b1-2013,german,treten,simple_past,trat,tratst,trat,traten,tratet,traten
-b1-2013,german,treten,present_perfect,habe getreten,hast getreten,hat getreten,haben getreten,habt getreten,haben getreten
-b1-2013,german,treten,past_perfect,hatte getreten,hattest getreten,hatte getreten,hatten getreten,hattet getreten,hatten getreten
+b1-2013,german,treten,present_perfect,bin getreten,bist getreten,ist getreten,sind getreten,seid getreten,sind getreten
+b1-2013,german,treten,past_perfect,war getreten,warst getreten,war getreten,waren getreten,wart getreten,waren getreten
 b1-2013,german,treten,future,werde treten,wirst treten,wird treten,werden treten,werdet treten,werden treten
 b1-2013,dutch,stappen,present,stap,stapt,stapt,stappen,stappen,stappen
 b1-2013,dutch,stappen,present_progressive,ben aan het stappen,bent aan het stappen,is aan het stappen,zijn aan het stappen,zijn aan het stappen,zijn aan het stappen
@@ -32599,15 +32599,15 @@ b2-0506,english,go off,past_perfect,had gone off,had gone off,had gone off,had g
 b2-0506,english,go off,future,will go off,will go off,will go off,will go off,will go off,will go off
 b2-0506,german,verderben,present,verderbe,verdirbst,verdirbt,verderben,verderbt,verderben
 b2-0506,german,verderben,simple_past,verdarb,verdarbst,verdarb,verdarben,verdarbt,verdarben
-b2-0506,german,verderben,present_perfect,habe verdorben,hast verdorben,hat verdorben,haben verdorben,habt verdorben,haben verdorben
-b2-0506,german,verderben,past_perfect,hatte verdorben,hattest verdorben,hatte verdorben,hatten verdorben,hattet verdorben,hatten verdorben
+b2-0506,german,verderben,present_perfect,bin verdorben,bist verdorben,ist verdorben,sind verdorben,seid verdorben,sind verdorben
+b2-0506,german,verderben,past_perfect,war verdorben,warst verdorben,war verdorben,waren verdorben,wart verdorben,waren verdorben
 b2-0506,german,verderben,future,werde verderben,wirst verderben,wird verderben,werden verderben,werdet verderben,werden verderben
 b2-0506,dutch,bederven,present,bederf,bederft,bederft,bederven,bederven,bederven
 b2-0506,dutch,bederven,present_progressive,ben aan het bederven,bent aan het bederven,is aan het bederven,zijn aan het bederven,zijn aan het bederven,zijn aan het bederven
 b2-0506,dutch,bederven,simple_past,bedierf,bedierf,bedierf,bedierven,bedierven,bedierven
 b2-0506,dutch,bederven,past_progressive,was aan het bederven,was aan het bederven,was aan het bederven,waren aan het bederven,waren aan het bederven,waren aan het bederven
-b2-0506,dutch,bederven,present_perfect,heb bedorven,hebt bedorven,heeft bedorven,hebben bedorven,hebben bedorven,hebben bedorven
-b2-0506,dutch,bederven,past_perfect,had bedorven,had bedorven,had bedorven,hadden bedorven,hadden bedorven,hadden bedorven
+b2-0506,dutch,bederven,present_perfect,ben bedorven,bent bedorven,is bedorven,zijn bedorven,zijn bedorven,zijn bedorven
+b2-0506,dutch,bederven,past_perfect,was bedorven,was bedorven,was bedorven,waren bedorven,waren bedorven,waren bedorven
 b2-0506,dutch,bederven,future,zal bederven,zult bederven,zal bederven,zullen bederven,zullen bederven,zullen bederven
 b2-0506,persian,فاسد شدن,present,فاسد می‌شوم,فاسد می‌شوی,فاسد می‌شود,فاسد می‌شویم,فاسد می‌شوید,فاسد می‌شوند
 b2-0506,persian,فاسد شدن,present_progressive,دارم فاسد می‌شوم,داری فاسد می‌شوی,دارد فاسد می‌شود,داریم فاسد می‌شویم,دارید فاسد می‌شوید,دارند فاسد می‌شوند
@@ -33982,8 +33982,8 @@ b2-0722,persian,قرار بودن کاری انجام شود,present_progressive
 b2-0722,persian,قرار بودن کاری انجام شود,simple_past,-,-,قرار بود کاری انجام شود,-,-,-
 b2-0722,persian,قرار بودن کاری انجام شود,past_imperfect,-,-,قرار بود کاری انجام شود,-,-,-
 b2-0722,persian,قرار بودن کاری انجام شود,past_progressive,-,-,-,-,-,-
-b2-0722,persian,قرار بودن کاری انجام شود,present_perfect,-,-,قرار بوده است,-,-,-
-b2-0722,persian,قرار بودن کاری انجام شود,past_perfect,-,-,قرار بوده بود,-,-,-
+b2-0722,persian,قرار بودن کاری انجام شود,present_perfect,-,-,قرار بوده است کاری انجام شود,-,-,-
+b2-0722,persian,قرار بودن کاری انجام شود,past_perfect,-,-,قرار بوده بود کاری انجام شود,-,-,-
 b2-0722,persian,قرار بودن کاری انجام شود,future,-,-,قرار خواهد بود کاری انجام شود,-,-,-
 b2-0726,persian,نیازهای چیزی را برآورده کردن,present,نیازهای چیزی را برآورده می‌کنم,نیازهای چیزی را برآورده می‌کنی,نیازهای چیزی را برآورده می‌کند,نیازهای چیزی را برآورده می‌کنیم,نیازهای چیزی را برآورده می‌کنید,نیازهای چیزی را برآورده می‌کنند
 b2-0726,persian,نیازهای چیزی را برآورده کردن,present_progressive,دارم نیازهای چیزی را برآورده می‌کنم,داری نیازهای چیزی را برآورده می‌کنی,دارد نیازهای چیزی را برآورده می‌کند,داریم نیازهای چیزی را برآورده می‌کنیم,دارید نیازهای چیزی را برآورده می‌کنید,دارند نیازهای چیزی را برآورده می‌کنند
@@ -41137,8 +41137,8 @@ c1-0564,dutch,genezen,present,genees,geneest,geneest,genezen,genezen,genezen
 c1-0564,dutch,genezen,present_progressive,ben aan het genezen,bent aan het genezen,is aan het genezen,zijn aan het genezen,zijn aan het genezen,zijn aan het genezen
 c1-0564,dutch,genezen,simple_past,genas,genas,genas,genazen,genazen,genazen
 c1-0564,dutch,genezen,past_progressive,was aan het genezen,was aan het genezen,was aan het genezen,waren aan het genezen,waren aan het genezen,waren aan het genezen
-c1-0564,dutch,genezen,present_perfect,heb genezen,hebt genezen,heeft genezen,hebben genezen,hebben genezen,hebben genezen
-c1-0564,dutch,genezen,past_perfect,had genezen,had genezen,had genezen,hadden genezen,hadden genezen,hadden genezen
+c1-0564,dutch,genezen,present_perfect,ben genezen,bent genezen,is genezen,zijn genezen,zijn genezen,zijn genezen
+c1-0564,dutch,genezen,past_perfect,was genezen,was genezen,was genezen,waren genezen,waren genezen,waren genezen
 c1-0564,dutch,genezen,future,zal genezen,zult genezen,zal genezen,zullen genezen,zullen genezen,zullen genezen
 c1-0564,persian,خوب شدن,present,خوب می‌شوم,خوب می‌شوی,خوب می‌شود,خوب می‌شویم,خوب می‌شوید,خوب می‌شوند
 c1-0564,persian,خوب شدن,present_progressive,دارم خوب می‌شوم,داری خوب می‌شوی,دارد خوب می‌شود,داریم خوب می‌شویم,دارید خوب می‌شوید,دارند خوب می‌شوند
@@ -41749,8 +41749,8 @@ c1-0707,persian,راحت بودن و خوش گذراندن,present_progressive,-
 c1-0707,persian,راحت بودن و خوش گذراندن,simple_past,راحت بودم و خوش گذراندم,راحت بودی و خوش گذراندی,راحت بود و خوش گذراند,راحت بودیم و خوش گذراندیم,راحت بودید و خوش گذراندید,راحت بودند و خوش گذراندند
 c1-0707,persian,راحت بودن و خوش گذراندن,past_imperfect,راحت بودم و خوش می‌گذراندم,راحت بودی و خوش می‌گذراندی,راحت بود و خوش می‌گذراند,راحت بودیم و خوش می‌گذراندیم,راحت بودید و خوش می‌گذراندید,راحت بودند و خوش می‌گذراندند
 c1-0707,persian,راحت بودن و خوش گذراندن,past_progressive,-,-,-,-,-,-
-c1-0707,persian,راحت بودن و خوش گذراندن,present_perfect,راحت بودم و خوش گذرانده‌ام,راحت بودی و خوش گذرانده‌ای,راحت بود و خوش گذرانده است,راحت بودیم و خوش گذرانده‌ایم,راحت بودید و خوش گذرانده‌اید,راحت بودند و خوش گذرانده‌اند
-c1-0707,persian,راحت بودن و خوش گذراندن,past_perfect,راحت بودم و خوش گذرانده بودم,راحت بودی و خوش گذرانده بودی,راحت بود و خوش گذرانده بود,راحت بودیم و خوش گذرانده بودیم,راحت بودید و خوش گذرانده بودید,راحت بودند و خوش گذرانده بودند
+c1-0707,persian,راحت بودن و خوش گذراندن,present_perfect,راحت بوده‌ام و خوش گذرانده‌ام,راحت بوده‌ای و خوش گذرانده‌ای,راحت بوده است و خوش گذرانده است,راحت بوده‌ایم و خوش گذرانده‌ایم,راحت بوده‌اید و خوش گذرانده‌اید,راحت بوده‌اند و خوش گذرانده‌اند
+c1-0707,persian,راحت بودن و خوش گذراندن,past_perfect,راحت بوده بودم و خوش گذرانده بودم,راحت بوده بودی و خوش گذرانده بودی,راحت بوده بود و خوش گذرانده بود,راحت بوده بودیم و خوش گذرانده بودیم,راحت بوده بودید و خوش گذرانده بودید,راحت بوده بودند و خوش گذرانده بودند
 c1-0707,persian,راحت بودن و خوش گذراندن,future,راحت خواهم بود و خوش خواهم گذراند,راحت خواهی بود و خوش خواهی گذراند,راحت خواهد بود و خوش خواهد گذراند,راحت خواهیم بود و خوش خواهیم گذراند,راحت خواهید بود و خوش خواهید گذراند,راحت خواهند بود و خوش خواهند گذراند
 c1-0710,persian,اجاره دادن,present,اجاره می‌دهم,اجاره می‌دهی,اجاره می‌دهد,اجاره می‌دهیم,اجاره می‌دهید,اجاره می‌دهند
 c1-0710,persian,اجاره دادن,present_progressive,دارم اجاره می‌دهم,داری اجاره می‌دهی,دارد اجاره می‌دهد,داریم اجاره می‌دهیم,دارید اجاره می‌دهید,دارند اجاره می‌دهند
@@ -42993,8 +42993,8 @@ c1-0942,persian,هل دادن و تنه زدن,present_progressive,دارم هل
 c1-0942,persian,هل دادن و تنه زدن,simple_past,هل دادم و تنه زدم,هل دادی و تنه زدی,هل داد و تنه زد,هل دادیم و تنه زدیم,هل دادید و تنه زدید,هل دادند و تنه زدند
 c1-0942,persian,هل دادن و تنه زدن,past_imperfect,هل می‌دادم و تنه می‌زدم,هل می‌دادی و تنه می‌زدی,هل می‌داد و تنه می‌زد,هل می‌دادیم و تنه می‌زدیم,هل می‌دادید و تنه می‌زدید,هل می‌دادند و تنه می‌زدند
 c1-0942,persian,هل دادن و تنه زدن,past_progressive,داشتم هل می‌دادم و تنه می‌زدم,داشتی هل می‌دادی و تنه می‌زدی,داشت هل می‌داد و تنه می‌زد,داشتیم هل می‌دادیم و تنه می‌زدیم,داشتید هل می‌دادید و تنه می‌زدید,داشتند هل می‌دادند و تنه می‌زدند
-c1-0942,persian,هل دادن و تنه زدن,present_perfect,هل دادم و تنه زده‌ام,هل دادی و تنه زده‌ای,هل داد و تنه زده است,هل دادیم و تنه زده‌ایم,هل دادید و تنه زده‌اید,هل دادند و تنه زده‌اند
-c1-0942,persian,هل دادن و تنه زدن,past_perfect,هل دادم و تنه زده بودم,هل دادی و تنه زده بودی,هل داد و تنه زده بود,هل دادیم و تنه زده بودیم,هل دادید و تنه زده بودید,هل دادند و تنه زده بودند
+c1-0942,persian,هل دادن و تنه زدن,present_perfect,هل داده‌ام و تنه زده‌ام,هل داده‌ای و تنه زده‌ای,هل داده است و تنه زده است,هل داده‌ایم و تنه زده‌ایم,هل داده‌اید و تنه زده‌اید,هل داده‌اند و تنه زده‌اند
+c1-0942,persian,هل دادن و تنه زدن,past_perfect,هل داده بودم و تنه زده بودم,هل داده بودی و تنه زده بودی,هل داده بود و تنه زده بود,هل داده بودیم و تنه زده بودیم,هل داده بودید و تنه زده بودید,هل داده بودند و تنه زده بودند
 c1-0942,persian,هل دادن و تنه زدن,future,هل خواهم داد و تنه خواهم زد,هل خواهی داد و تنه خواهی زد,هل خواهد داد و تنه خواهد زد,هل خواهیم داد و تنه خواهیم زد,هل خواهید داد و تنه خواهید زد,هل خواهند داد و تنه خواهند زد
 c1-0943,german,jemanden oder etwas belasten,present,belaste jemanden oder etwas,belastest jemanden oder etwas,belastet jemanden oder etwas,belasten jemanden oder etwas,belastet jemanden oder etwas,belasten jemanden oder etwas
 c1-0943,german,jemanden oder etwas belasten,simple_past,belastete jemanden oder etwas,belastetest jemanden oder etwas,belastete jemanden oder etwas,belasteten jemanden oder etwas,belastetet jemanden oder etwas,belasteten jemanden oder etwas
@@ -45803,8 +45803,8 @@ c2-0115,dutch,herstellen,present,herstel,herstelt,herstelt,herstellen,herstellen
 c2-0115,dutch,herstellen,present_progressive,ben aan het herstellen,bent aan het herstellen,is aan het herstellen,zijn aan het herstellen,zijn aan het herstellen,zijn aan het herstellen
 c2-0115,dutch,herstellen,simple_past,herstelde,herstelde,herstelde,herstelden,herstelden,herstelden
 c2-0115,dutch,herstellen,past_progressive,was aan het herstellen,was aan het herstellen,was aan het herstellen,waren aan het herstellen,waren aan het herstellen,waren aan het herstellen
-c2-0115,dutch,herstellen,present_perfect,heb hersteld,hebt hersteld,heeft hersteld,hebben hersteld,hebben hersteld,hebben hersteld
-c2-0115,dutch,herstellen,past_perfect,had hersteld,had hersteld,had hersteld,hadden hersteld,hadden hersteld,hadden hersteld
+c2-0115,dutch,herstellen,present_perfect,ben hersteld,bent hersteld,is hersteld,zijn hersteld,zijn hersteld,zijn hersteld
+c2-0115,dutch,herstellen,past_perfect,was hersteld,was hersteld,was hersteld,waren hersteld,waren hersteld,waren hersteld
 c2-0115,dutch,herstellen,future,zal herstellen,zult herstellen,zal herstellen,zullen herstellen,zullen herstellen,zullen herstellen
 c2-0115,persian,دوران نقاهت را گذراندن,present,دوران نقاهت را می‌گذرانم,دوران نقاهت را می‌گذرانی,دوران نقاهت را می‌گذراند,دوران نقاهت را می‌گذرانیم,دوران نقاهت را می‌گذرانید,دوران نقاهت را می‌گذرانند
 c2-0115,persian,دوران نقاهت را گذراندن,present_progressive,دارم دوران نقاهت را می‌گذرانم,داری دوران نقاهت را می‌گذرانی,دارد دوران نقاهت را می‌گذراند,داریم دوران نقاهت را می‌گذرانیم,دارید دوران نقاهت را می‌گذرانید,دارند دوران نقاهت را می‌گذرانند
@@ -47919,11 +47919,11 @@ c2-0440,english,parent,past_progressive,was parenting,were parenting,was parenti
 c2-0440,english,parent,present_perfect,have parented,have parented,has parented,have parented,have parented,have parented
 c2-0440,english,parent,past_perfect,had parented,had parented,had parented,had parented,had parented,had parented
 c2-0440,english,parent,future,will parent,will parent,will parent,will parent,will parent,will parent
-c2-0440,german,Kinder erziehen,present,erziehe Kinder,erziehst Kinder,erzieht Kinder,erziehen Kinder,erzieht Kinder,erziehen Kinder
-c2-0440,german,Kinder erziehen,simple_past,erzog Kinder,erzogst Kinder,erzog Kinder,erzogen Kinder,erzogt Kinder,erzogen Kinder
-c2-0440,german,Kinder erziehen,present_perfect,habe Kinder erzogen,hast Kinder erzogen,hat Kinder erzogen,haben Kinder erzogen,habt Kinder erzogen,haben Kinder erzogen
-c2-0440,german,Kinder erziehen,past_perfect,hatte Kinder erzogen,hattest Kinder erzogen,hatte Kinder erzogen,hatten Kinder erzogen,hattet Kinder erzogen,hatten Kinder erzogen
-c2-0440,german,Kinder erziehen,future,werde Kinder erziehen,wirst Kinder erziehen,wird Kinder erziehen,werden Kinder erziehen,werdet Kinder erziehen,werden Kinder erziehen
+c2-0440,german,Eltern sein,present,bin Eltern,bist Eltern,ist Eltern,sind Eltern,seid Eltern,sind Eltern
+c2-0440,german,Eltern sein,simple_past,war Eltern,warst Eltern,war Eltern,waren Eltern,wart Eltern,waren Eltern
+c2-0440,german,Eltern sein,present_perfect,bin Eltern gewesen,bist Eltern gewesen,ist Eltern gewesen,sind Eltern gewesen,seid Eltern gewesen,sind Eltern gewesen
+c2-0440,german,Eltern sein,past_perfect,war Eltern gewesen,warst Eltern gewesen,war Eltern gewesen,waren Eltern gewesen,wart Eltern gewesen,waren Eltern gewesen
+c2-0440,german,Eltern sein,future,werde Eltern sein,wirst Eltern sein,wird Eltern sein,werden Eltern sein,werdet Eltern sein,werden Eltern sein
 c2-0440,persian,پدر یا مادر بودن,present,پدر یا مادر هستم,پدر یا مادر هستی,پدر یا مادر است,پدر یا مادر هستیم,پدر یا مادر هستید,پدر یا مادر هستند
 c2-0440,persian,پدر یا مادر بودن,present_progressive,-,-,-,-,-,-
 c2-0440,persian,پدر یا مادر بودن,simple_past,پدر یا مادر بودم,پدر یا مادر بودی,پدر یا مادر بود,پدر یا مادر بودیم,پدر یا مادر بودید,پدر یا مادر بودند
@@ -48425,8 +48425,8 @@ c2-0504,dutch,herstellen,present,herstel,herstelt,herstelt,herstellen,herstellen
 c2-0504,dutch,herstellen,present_progressive,ben aan het herstellen,bent aan het herstellen,is aan het herstellen,zijn aan het herstellen,zijn aan het herstellen,zijn aan het herstellen
 c2-0504,dutch,herstellen,simple_past,herstelde,herstelde,herstelde,herstelden,herstelden,herstelden
 c2-0504,dutch,herstellen,past_progressive,was aan het herstellen,was aan het herstellen,was aan het herstellen,waren aan het herstellen,waren aan het herstellen,waren aan het herstellen
-c2-0504,dutch,herstellen,present_perfect,heb hersteld,hebt hersteld,heeft hersteld,hebben hersteld,hebben hersteld,hebben hersteld
-c2-0504,dutch,herstellen,past_perfect,had hersteld,had hersteld,had hersteld,hadden hersteld,hadden hersteld,hadden hersteld
+c2-0504,dutch,herstellen,present_perfect,ben hersteld,bent hersteld,is hersteld,zijn hersteld,zijn hersteld,zijn hersteld
+c2-0504,dutch,herstellen,past_perfect,was hersteld,was hersteld,was hersteld,waren hersteld,waren hersteld,waren hersteld
 c2-0504,dutch,herstellen,future,zal herstellen,zult herstellen,zal herstellen,zullen herstellen,zullen herstellen,zullen herstellen
 c2-0504,persian,بهبود یافتن,present,-,-,بهبود می‌یابد,-,-,بهبود می‌یابند
 c2-0504,persian,بهبود یافتن,present_progressive,-,-,دارد بهبود می‌یابد,-,-,دارند بهبود می‌یابند
@@ -48587,8 +48587,8 @@ c2-0515,dutch,herstellen,present,herstel,herstelt,herstelt,herstellen,herstellen
 c2-0515,dutch,herstellen,present_progressive,ben aan het herstellen,bent aan het herstellen,is aan het herstellen,zijn aan het herstellen,zijn aan het herstellen,zijn aan het herstellen
 c2-0515,dutch,herstellen,simple_past,herstelde,herstelde,herstelde,herstelden,herstelden,herstelden
 c2-0515,dutch,herstellen,past_progressive,was aan het herstellen,was aan het herstellen,was aan het herstellen,waren aan het herstellen,waren aan het herstellen,waren aan het herstellen
-c2-0515,dutch,herstellen,present_perfect,heb hersteld,hebt hersteld,heeft hersteld,hebben hersteld,hebben hersteld,hebben hersteld
-c2-0515,dutch,herstellen,past_perfect,had hersteld,had hersteld,had hersteld,hadden hersteld,hadden hersteld,hadden hersteld
+c2-0515,dutch,herstellen,present_perfect,ben hersteld,bent hersteld,is hersteld,zijn hersteld,zijn hersteld,zijn hersteld
+c2-0515,dutch,herstellen,past_perfect,was hersteld,was hersteld,was hersteld,waren hersteld,waren hersteld,waren hersteld
 c2-0515,dutch,herstellen,future,zal herstellen,zult herstellen,zal herstellen,zullen herstellen,zullen herstellen,zullen herstellen
 c2-0515,persian,بهبودی یافتن,present,بهبودی می‌یابم,بهبودی می‌یابی,بهبودی می‌یابد,بهبودی می‌یابیم,بهبودی می‌یابید,بهبودی می‌یابند
 c2-0515,persian,بهبودی یافتن,present_progressive,دارم بهبودی می‌یابم,داری بهبودی می‌یابی,دارد بهبودی می‌یابد,داریم بهبودی می‌یابیم,دارید بهبودی می‌یابید,دارند بهبودی می‌یابند
@@ -48904,8 +48904,8 @@ c2-0560,dutch,scheiden,present,scheid,scheidt,scheidt,scheiden,scheiden,scheiden
 c2-0560,dutch,scheiden,present_progressive,ben aan het scheiden,bent aan het scheiden,is aan het scheiden,zijn aan het scheiden,zijn aan het scheiden,zijn aan het scheiden
 c2-0560,dutch,scheiden,simple_past,scheidde,scheidde,scheidde,scheidden,scheidden,scheidden
 c2-0560,dutch,scheiden,past_progressive,was aan het scheiden,was aan het scheiden,was aan het scheiden,waren aan het scheiden,waren aan het scheiden,waren aan het scheiden
-c2-0560,dutch,scheiden,present_perfect,ben gescheiden,bent gescheiden,is gescheiden,zijn gescheiden,zijn gescheiden,zijn gescheiden
-c2-0560,dutch,scheiden,past_perfect,was gescheiden,was gescheiden,was gescheiden,waren gescheiden,waren gescheiden,waren gescheiden
+c2-0560,dutch,scheiden,present_perfect,heb gescheiden,hebt gescheiden,heeft gescheiden,hebben gescheiden,hebben gescheiden,hebben gescheiden
+c2-0560,dutch,scheiden,past_perfect,had gescheiden,had gescheiden,had gescheiden,hadden gescheiden,hadden gescheiden,hadden gescheiden
 c2-0560,dutch,scheiden,future,zal scheiden,zult scheiden,zal scheiden,zullen scheiden,zullen scheiden,zullen scheiden
 c2-0560,persian,جدا کردن,present,جدا می‌کنم,جدا می‌کنی,جدا می‌کند,جدا می‌کنیم,جدا می‌کنید,جدا می‌کنند
 c2-0560,persian,جدا کردن,present_progressive,دارم جدا می‌کنم,داری جدا می‌کنی,دارد جدا می‌کند,داریم جدا می‌کنیم,دارید جدا می‌کنید,دارند جدا می‌کنند
