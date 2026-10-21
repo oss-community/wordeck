@@ -20242,6 +20242,13 @@ b1-0600,german,nicht mögen,simple_past,mochte nicht,mochtest nicht,mochte nicht
 b1-0600,german,nicht mögen,present_perfect,habe nicht gemocht,hast nicht gemocht,hat nicht gemocht,haben nicht gemocht,habt nicht gemocht,haben nicht gemocht
 b1-0600,german,nicht mögen,past_perfect,hatte nicht gemocht,hattest nicht gemocht,hatte nicht gemocht,hatten nicht gemocht,hattet nicht gemocht,hatten nicht gemocht
 b1-0600,german,nicht mögen,future,werde nicht mögen,wirst nicht mögen,wird nicht mögen,werden nicht mögen,werdet nicht mögen,werden nicht mögen
+b1-0600,dutch,niet leuk vinden,present,vind niet leuk,vindt niet leuk,vindt niet leuk,vinden niet leuk,vinden niet leuk,vinden niet leuk
+b1-0600,dutch,niet leuk vinden,present_progressive,-,-,-,-,-,-
+b1-0600,dutch,niet leuk vinden,simple_past,vond niet leuk,vond niet leuk,vond niet leuk,vonden niet leuk,vonden niet leuk,vonden niet leuk
+b1-0600,dutch,niet leuk vinden,past_progressive,-,-,-,-,-,-
+b1-0600,dutch,niet leuk vinden,present_perfect,heb niet leuk gevonden,hebt niet leuk gevonden,heeft niet leuk gevonden,hebben niet leuk gevonden,hebben niet leuk gevonden,hebben niet leuk gevonden
+b1-0600,dutch,niet leuk vinden,past_perfect,had niet leuk gevonden,had niet leuk gevonden,had niet leuk gevonden,hadden niet leuk gevonden,hadden niet leuk gevonden,hadden niet leuk gevonden
+b1-0600,dutch,niet leuk vinden,future,zal niet leuk vinden,zult niet leuk vinden,zal niet leuk vinden,zullen niet leuk vinden,zullen niet leuk vinden,zullen niet leuk vinden
 b1-0600,persian,دوست نداشتن,present,دوست ندارم,دوست نداری,دوست ندارد,دوست نداریم,دوست ندارید,دوست ندارند
 b1-0600,persian,دوست نداشتن,present_progressive,-,-,-,-,-,-
 b1-0600,persian,دوست نداشتن,simple_past,دوست نداشتم,دوست نداشتی,دوست نداشت,دوست نداشتیم,دوست نداشتید,دوست نداشتند
@@ -20471,6 +20478,13 @@ b1-0615,german,sich frisieren,simple_past,frisierte mich,frisiertest dich,frisie
 b1-0615,german,sich frisieren,present_perfect,habe mich frisiert,hast dich frisiert,hat sich frisiert,haben uns frisiert,habt euch frisiert,haben sich frisiert
 b1-0615,german,sich frisieren,past_perfect,hatte mich frisiert,hattest dich frisiert,hatte sich frisiert,hatten uns frisiert,hattet euch frisiert,hatten sich frisiert
 b1-0615,german,sich frisieren,future,werde mich frisieren,wirst dich frisieren,wird sich frisieren,werden uns frisieren,werdet euch frisieren,werden sich frisieren
+b1-0615,dutch,zijn haar doen,present,doe mijn haar,doet je haar,doet zijn haar,doen ons haar,doen jullie haar,doen hun haar
+b1-0615,dutch,zijn haar doen,present_progressive,ben mijn haar aan het doen,bent je haar aan het doen,is zijn haar aan het doen,zijn ons haar aan het doen,zijn jullie haar aan het doen,zijn hun haar aan het doen
+b1-0615,dutch,zijn haar doen,simple_past,deed mijn haar,deed je haar,deed zijn haar,deden ons haar,deden jullie haar,deden hun haar
+b1-0615,dutch,zijn haar doen,past_progressive,was mijn haar aan het doen,was je haar aan het doen,was zijn haar aan het doen,waren ons haar aan het doen,waren jullie haar aan het doen,waren hun haar aan het doen
+b1-0615,dutch,zijn haar doen,present_perfect,heb mijn haar gedaan,hebt je haar gedaan,heeft zijn haar gedaan,hebben ons haar gedaan,hebben jullie haar gedaan,hebben hun haar gedaan
+b1-0615,dutch,zijn haar doen,past_perfect,had mijn haar gedaan,had je haar gedaan,had zijn haar gedaan,hadden ons haar gedaan,hadden jullie haar gedaan,hadden hun haar gedaan
+b1-0615,dutch,zijn haar doen,future,zal mijn haar doen,zult je haar doen,zal zijn haar doen,zullen ons haar doen,zullen jullie haar doen,zullen hun haar doen
 b1-0615,persian,مو را درست کردن,present,مو را درست می‌کنم,مو را درست می‌کنی,مو را درست می‌کند,مو را درست می‌کنیم,مو را درست می‌کنید,مو را درست می‌کنند
 b1-0615,persian,مو را درست کردن,present_progressive,دارم مو را درست می‌کنم,داری مو را درست می‌کنی,دارد مو را درست می‌کند,داریم مو را درست می‌کنیم,دارید مو را درست می‌کنید,دارند مو را درست می‌کنند
 b1-0615,persian,مو را درست کردن,simple_past,مو را درست کردم,مو را درست کردی,مو را درست کرد,مو را درست کردیم,مو را درست کردید,مو را درست کردند
@@ -20531,6 +20545,13 @@ b1-0634,german,sich schick anziehen,simple_past,zog mich schick an,zogst dich sc
 b1-0634,german,sich schick anziehen,present_perfect,habe mich schick angezogen,hast dich schick angezogen,hat sich schick angezogen,haben uns schick angezogen,habt euch schick angezogen,haben sich schick angezogen
 b1-0634,german,sich schick anziehen,past_perfect,hatte mich schick angezogen,hattest dich schick angezogen,hatte sich schick angezogen,hatten uns schick angezogen,hattet euch schick angezogen,hatten sich schick angezogen
 b1-0634,german,sich schick anziehen,future,werde mich schick anziehen,wirst dich schick anziehen,wird sich schick anziehen,werden uns schick anziehen,werdet euch schick anziehen,werden sich schick anziehen
+b1-0634,dutch,zich mooi aankleden,present,kleed me mooi aan,kleedt je mooi aan,kleedt zich mooi aan,kleden ons mooi aan,kleden je mooi aan,kleden zich mooi aan
+b1-0634,dutch,zich mooi aankleden,present_progressive,ben me mooi aan het aankleden,bent je mooi aan het aankleden,is zich mooi aan het aankleden,zijn ons mooi aan het aankleden,zijn je mooi aan het aankleden,zijn zich mooi aan het aankleden
+b1-0634,dutch,zich mooi aankleden,simple_past,kleedde me mooi aan,kleedde je mooi aan,kleedde zich mooi aan,kleedden ons mooi aan,kleedden je mooi aan,kleedden zich mooi aan
+b1-0634,dutch,zich mooi aankleden,past_progressive,was me mooi aan het aankleden,was je mooi aan het aankleden,was zich mooi aan het aankleden,waren ons mooi aan het aankleden,waren je mooi aan het aankleden,waren zich mooi aan het aankleden
+b1-0634,dutch,zich mooi aankleden,present_perfect,heb me mooi aangekleed,hebt je mooi aangekleed,heeft zich mooi aangekleed,hebben ons mooi aangekleed,hebben je mooi aangekleed,hebben zich mooi aangekleed
+b1-0634,dutch,zich mooi aankleden,past_perfect,had me mooi aangekleed,had je mooi aangekleed,had zich mooi aangekleed,hadden ons mooi aangekleed,hadden je mooi aangekleed,hadden zich mooi aangekleed
+b1-0634,dutch,zich mooi aankleden,future,zal me mooi aankleden,zult je mooi aankleden,zal zich mooi aankleden,zullen ons mooi aankleden,zullen je mooi aankleden,zullen zich mooi aankleden
 b1-0634,persian,لباس مخصوص پوشیدن,present,لباس مخصوص می‌پوشم,لباس مخصوص می‌پوشی,لباس مخصوص می‌پوشد,لباس مخصوص می‌پوشیم,لباس مخصوص می‌پوشید,لباس مخصوص می‌پوشند
 b1-0634,persian,لباس مخصوص پوشیدن,present_progressive,دارم لباس مخصوص می‌پوشم,داری لباس مخصوص می‌پوشی,دارد لباس مخصوص می‌پوشد,داریم لباس مخصوص می‌پوشیم,دارید لباس مخصوص می‌پوشید,دارند لباس مخصوص می‌پوشند
 b1-0634,persian,لباس مخصوص پوشیدن,simple_past,لباس مخصوص پوشیدم,لباس مخصوص پوشیدی,لباس مخصوص پوشید,لباس مخصوص پوشیدیم,لباس مخصوص پوشیدید,لباس مخصوص پوشیدند
@@ -21153,6 +21174,13 @@ b1-0779,german,gegenüberstehen,simple_past,stand gegenüber,standest gegenüber
 b1-0779,german,gegenüberstehen,present_perfect,habe gegenübergestanden,hast gegenübergestanden,hat gegenübergestanden,haben gegenübergestanden,habt gegenübergestanden,haben gegenübergestanden
 b1-0779,german,gegenüberstehen,past_perfect,hatte gegenübergestanden,hattest gegenübergestanden,hatte gegenübergestanden,hatten gegenübergestanden,hattet gegenübergestanden,hatten gegenübergestanden
 b1-0779,german,gegenüberstehen,future,werde gegenüberstehen,wirst gegenüberstehen,wird gegenüberstehen,werden gegenüberstehen,werdet gegenüberstehen,werden gegenüberstehen
+b1-0779,dutch,tegenover staan,present,sta tegenover,staat tegenover,staat tegenover,staan tegenover,staan tegenover,staan tegenover
+b1-0779,dutch,tegenover staan,present_progressive,-,-,-,-,-,-
+b1-0779,dutch,tegenover staan,simple_past,stond tegenover,stond tegenover,stond tegenover,stonden tegenover,stonden tegenover,stonden tegenover
+b1-0779,dutch,tegenover staan,past_progressive,-,-,-,-,-,-
+b1-0779,dutch,tegenover staan,present_perfect,heb tegenover gestaan,hebt tegenover gestaan,heeft tegenover gestaan,hebben tegenover gestaan,hebben tegenover gestaan,hebben tegenover gestaan
+b1-0779,dutch,tegenover staan,past_perfect,had tegenover gestaan,had tegenover gestaan,had tegenover gestaan,hadden tegenover gestaan,hadden tegenover gestaan,hadden tegenover gestaan
+b1-0779,dutch,tegenover staan,future,zal tegenover staan,zult tegenover staan,zal tegenover staan,zullen tegenover staan,zullen tegenover staan,zullen tegenover staan
 b1-0779,persian,روبه‌رو شدن,present,روبه‌رو می‌شوم,روبه‌رو می‌شوی,روبه‌رو می‌شود,روبه‌رو می‌شویم,روبه‌رو می‌شوید,روبه‌رو می‌شوند
 b1-0779,persian,روبه‌رو شدن,present_progressive,دارم روبه‌رو می‌شوم,داری روبه‌رو می‌شوی,دارد روبه‌رو می‌شود,داریم روبه‌رو می‌شویم,دارید روبه‌رو می‌شوید,دارند روبه‌رو می‌شوند
 b1-0779,persian,روبه‌رو شدن,simple_past,روبه‌رو شدم,روبه‌رو شدی,روبه‌رو شد,روبه‌رو شدیم,روبه‌رو شدید,روبه‌رو شدند
@@ -21173,6 +21201,13 @@ b1-0780,german,sich stellen,simple_past,stellte mich,stelltest dich,stellte sich
 b1-0780,german,sich stellen,present_perfect,habe mich gestellt,hast dich gestellt,hat sich gestellt,haben uns gestellt,habt euch gestellt,haben sich gestellt
 b1-0780,german,sich stellen,past_perfect,hatte mich gestellt,hattest dich gestellt,hatte sich gestellt,hatten uns gestellt,hattet euch gestellt,hatten sich gestellt
 b1-0780,german,sich stellen,future,werde mich stellen,wirst dich stellen,wird sich stellen,werden uns stellen,werdet euch stellen,werden sich stellen
+b1-0780,dutch,onder ogen zien,present,zie onder ogen,ziet onder ogen,ziet onder ogen,zien onder ogen,zien onder ogen,zien onder ogen
+b1-0780,dutch,onder ogen zien,present_progressive,-,-,-,-,-,-
+b1-0780,dutch,onder ogen zien,simple_past,zag onder ogen,zag onder ogen,zag onder ogen,zagen onder ogen,zagen onder ogen,zagen onder ogen
+b1-0780,dutch,onder ogen zien,past_progressive,-,-,-,-,-,-
+b1-0780,dutch,onder ogen zien,present_perfect,heb onder ogen gezien,hebt onder ogen gezien,heeft onder ogen gezien,hebben onder ogen gezien,hebben onder ogen gezien,hebben onder ogen gezien
+b1-0780,dutch,onder ogen zien,past_perfect,had onder ogen gezien,had onder ogen gezien,had onder ogen gezien,hadden onder ogen gezien,hadden onder ogen gezien,hadden onder ogen gezien
+b1-0780,dutch,onder ogen zien,future,zal onder ogen zien,zult onder ogen zien,zal onder ogen zien,zullen onder ogen zien,zullen onder ogen zien,zullen onder ogen zien
 b1-0780,persian,رویارو شدن,present,رویارو می‌شوم,رویارو می‌شوی,رویارو می‌شود,رویارو می‌شویم,رویارو می‌شوید,رویارو می‌شوند
 b1-0780,persian,رویارو شدن,present_progressive,دارم رویارو می‌شوم,داری رویارو می‌شوی,دارد رویارو می‌شود,داریم رویارو می‌شویم,دارید رویارو می‌شوید,دارند رویارو می‌شوند
 b1-0780,persian,رویارو شدن,simple_past,رویارو شدم,رویارو شدی,رویارو شد,رویارو شدیم,رویارو شدید,رویارو شدند
@@ -21282,6 +21317,18 @@ b1-0794,english,fancy,past_progressive,-,-,-,-,-,-
 b1-0794,english,fancy,present_perfect,have fancied,have fancied,has fancied,have fancied,have fancied,have fancied
 b1-0794,english,fancy,past_perfect,had fancied,had fancied,had fancied,had fancied,had fancied,had fancied
 b1-0794,english,fancy,future,will fancy,will fancy,will fancy,will fancy,will fancy,will fancy
+b1-0794,german,Lust haben auf,present,habe Lust auf,hast Lust auf,hat Lust auf,haben Lust auf,habt Lust auf,haben Lust auf
+b1-0794,german,Lust haben auf,simple_past,hatte Lust auf,hattest Lust auf,hatte Lust auf,hatten Lust auf,hattet Lust auf,hatten Lust auf
+b1-0794,german,Lust haben auf,present_perfect,habe Lust gehabt auf,hast Lust gehabt auf,hat Lust gehabt auf,haben Lust gehabt auf,habt Lust gehabt auf,haben Lust gehabt auf
+b1-0794,german,Lust haben auf,past_perfect,hatte Lust gehabt auf,hattest Lust gehabt auf,hatte Lust gehabt auf,hatten Lust gehabt auf,hattet Lust gehabt auf,hatten Lust gehabt auf
+b1-0794,german,Lust haben auf,future,werde Lust haben auf,wirst Lust haben auf,wird Lust haben auf,werden Lust haben auf,werdet Lust haben auf,werden Lust haben auf
+b1-0794,dutch,zin hebben in,present,heb zin in,hebt zin in,heeft zin in,hebben zin in,hebben zin in,hebben zin in
+b1-0794,dutch,zin hebben in,present_progressive,-,-,-,-,-,-
+b1-0794,dutch,zin hebben in,simple_past,had zin in,had zin in,had zin in,hadden zin in,hadden zin in,hadden zin in
+b1-0794,dutch,zin hebben in,past_progressive,-,-,-,-,-,-
+b1-0794,dutch,zin hebben in,present_perfect,heb zin gehad in,hebt zin gehad in,heeft zin gehad in,hebben zin gehad in,hebben zin gehad in,hebben zin gehad in
+b1-0794,dutch,zin hebben in,past_perfect,had zin gehad in,had zin gehad in,had zin gehad in,hadden zin gehad in,hadden zin gehad in,hadden zin gehad in
+b1-0794,dutch,zin hebben in,future,zal zin hebben in,zult zin hebben in,zal zin hebben in,zullen zin hebben in,zullen zin hebben in,zullen zin hebben in
 b1-0794,persian,دلش خواستن,present,دلم می‌خواهد,دلت می‌خواهد,دلش می‌خواهد,دلمان می‌خواهد,دلتان می‌خواهد,دلشان می‌خواهد
 b1-0794,persian,دلش خواستن,present_progressive,-,-,-,-,-,-
 b1-0794,persian,دلش خواستن,simple_past,دلم خواست,دلت خواست,دلش خواست,دلمان خواست,دلتان خواست,دلشان خواست
@@ -21916,6 +21963,13 @@ b1-0923,german,jemanden kennenlernen,simple_past,lernte jemanden kennen,lerntest
 b1-0923,german,jemanden kennenlernen,present_perfect,habe jemanden kennengelernt,hast jemanden kennengelernt,hat jemanden kennengelernt,haben jemanden kennengelernt,habt jemanden kennengelernt,haben jemanden kennengelernt
 b1-0923,german,jemanden kennenlernen,past_perfect,hatte jemanden kennengelernt,hattest jemanden kennengelernt,hatte jemanden kennengelernt,hatten jemanden kennengelernt,hattet jemanden kennengelernt,hatten jemanden kennengelernt
 b1-0923,german,jemanden kennenlernen,future,werde jemanden kennenlernen,wirst jemanden kennenlernen,wird jemanden kennenlernen,werden jemanden kennenlernen,werdet jemanden kennenlernen,werden jemanden kennenlernen
+b1-0923,dutch,iemand leren kennen,present,leer iemand kennen,leert iemand kennen,leert iemand kennen,leren iemand kennen,leren iemand kennen,leren iemand kennen
+b1-0923,dutch,iemand leren kennen,present_progressive,ben iemand aan het leren kennen,bent iemand aan het leren kennen,is iemand aan het leren kennen,zijn iemand aan het leren kennen,zijn iemand aan het leren kennen,zijn iemand aan het leren kennen
+b1-0923,dutch,iemand leren kennen,simple_past,leerde iemand kennen,leerde iemand kennen,leerde iemand kennen,leerden iemand kennen,leerden iemand kennen,leerden iemand kennen
+b1-0923,dutch,iemand leren kennen,past_progressive,was iemand aan het leren kennen,was iemand aan het leren kennen,was iemand aan het leren kennen,waren iemand aan het leren kennen,waren iemand aan het leren kennen,waren iemand aan het leren kennen
+b1-0923,dutch,iemand leren kennen,present_perfect,heb iemand leren kennen,hebt iemand leren kennen,heeft iemand leren kennen,hebben iemand leren kennen,hebben iemand leren kennen,hebben iemand leren kennen
+b1-0923,dutch,iemand leren kennen,past_perfect,had iemand leren kennen,had iemand leren kennen,had iemand leren kennen,hadden iemand leren kennen,hadden iemand leren kennen,hadden iemand leren kennen
+b1-0923,dutch,iemand leren kennen,future,zal iemand leren kennen,zult iemand leren kennen,zal iemand leren kennen,zullen iemand leren kennen,zullen iemand leren kennen,zullen iemand leren kennen
 b1-0923,persian,با کسی آشنا شدن,present,با کسی آشنا می‌شوم,با کسی آشنا می‌شوی,با کسی آشنا می‌شود,با کسی آشنا می‌شویم,با کسی آشنا می‌شوید,با کسی آشنا می‌شوند
 b1-0923,persian,با کسی آشنا شدن,present_progressive,دارم با کسی آشنا می‌شوم,داری با کسی آشنا می‌شوی,دارد با کسی آشنا می‌شود,داریم با کسی آشنا می‌شویم,دارید با کسی آشنا می‌شوید,دارند با کسی آشنا می‌شوند
 b1-0923,persian,با کسی آشنا شدن,simple_past,با کسی آشنا شدم,با کسی آشنا شدی,با کسی آشنا شد,با کسی آشنا شدیم,با کسی آشنا شدید,با کسی آشنا شدند
@@ -22088,6 +22142,13 @@ b1-0937,german,mit jemandem ausgehen,simple_past,ging mit jemandem aus,gingst mi
 b1-0937,german,mit jemandem ausgehen,present_perfect,bin mit jemandem ausgegangen,bist mit jemandem ausgegangen,ist mit jemandem ausgegangen,sind mit jemandem ausgegangen,seid mit jemandem ausgegangen,sind mit jemandem ausgegangen
 b1-0937,german,mit jemandem ausgehen,past_perfect,war mit jemandem ausgegangen,warst mit jemandem ausgegangen,war mit jemandem ausgegangen,waren mit jemandem ausgegangen,wart mit jemandem ausgegangen,waren mit jemandem ausgegangen
 b1-0937,german,mit jemandem ausgehen,future,werde mit jemandem ausgehen,wirst mit jemandem ausgehen,wird mit jemandem ausgehen,werden mit jemandem ausgehen,werdet mit jemandem ausgehen,werden mit jemandem ausgehen
+b1-0937,dutch,met iemand uitgaan,present,ga met iemand uit,gaat met iemand uit,gaat met iemand uit,gaan met iemand uit,gaan met iemand uit,gaan met iemand uit
+b1-0937,dutch,met iemand uitgaan,present_progressive,ben met iemand aan het uitgaan,bent met iemand aan het uitgaan,is met iemand aan het uitgaan,zijn met iemand aan het uitgaan,zijn met iemand aan het uitgaan,zijn met iemand aan het uitgaan
+b1-0937,dutch,met iemand uitgaan,simple_past,ging met iemand uit,ging met iemand uit,ging met iemand uit,gingen met iemand uit,gingen met iemand uit,gingen met iemand uit
+b1-0937,dutch,met iemand uitgaan,past_progressive,was met iemand aan het uitgaan,was met iemand aan het uitgaan,was met iemand aan het uitgaan,waren met iemand aan het uitgaan,waren met iemand aan het uitgaan,waren met iemand aan het uitgaan
+b1-0937,dutch,met iemand uitgaan,present_perfect,ben met iemand uitgegaan,bent met iemand uitgegaan,is met iemand uitgegaan,zijn met iemand uitgegaan,zijn met iemand uitgegaan,zijn met iemand uitgegaan
+b1-0937,dutch,met iemand uitgaan,past_perfect,was met iemand uitgegaan,was met iemand uitgegaan,was met iemand uitgegaan,waren met iemand uitgegaan,waren met iemand uitgegaan,waren met iemand uitgegaan
+b1-0937,dutch,met iemand uitgaan,future,zal met iemand uitgaan,zult met iemand uitgaan,zal met iemand uitgaan,zullen met iemand uitgaan,zullen met iemand uitgaan,zullen met iemand uitgaan
 b1-0937,persian,با کسی بیرون رفتن,present,با کسی بیرون می‌روم,با کسی بیرون می‌روی,با کسی بیرون می‌رود,با کسی بیرون می‌رویم,با کسی بیرون می‌روید,با کسی بیرون می‌روند
 b1-0937,persian,با کسی بیرون رفتن,present_progressive,دارم با کسی بیرون می‌روم,داری با کسی بیرون می‌روی,دارد با کسی بیرون می‌رود,داریم با کسی بیرون می‌رویم,دارید با کسی بیرون می‌روید,دارند با کسی بیرون می‌روند
 b1-0937,persian,با کسی بیرون رفتن,simple_past,با کسی بیرون رفتم,با کسی بیرون رفتی,با کسی بیرون رفت,با کسی بیرون رفتیم,با کسی بیرون رفتید,با کسی بیرون رفتند
@@ -22899,6 +22960,13 @@ b1-1135,german,"vorhaben, etwas zu tun",simple_past,"hatte vor, etwas zu tun","h
 b1-1135,german,"vorhaben, etwas zu tun",present_perfect,"habe vorgehabt, etwas zu tun","hast vorgehabt, etwas zu tun","hat vorgehabt, etwas zu tun","haben vorgehabt, etwas zu tun","habt vorgehabt, etwas zu tun","haben vorgehabt, etwas zu tun"
 b1-1135,german,"vorhaben, etwas zu tun",past_perfect,"hatte vorgehabt, etwas zu tun","hattest vorgehabt, etwas zu tun","hatte vorgehabt, etwas zu tun","hatten vorgehabt, etwas zu tun","hattet vorgehabt, etwas zu tun","hatten vorgehabt, etwas zu tun"
 b1-1135,german,"vorhaben, etwas zu tun",future,"werde vorhaben, etwas zu tun","wirst vorhaben, etwas zu tun","wird vorhaben, etwas zu tun","werden vorhaben, etwas zu tun","werdet vorhaben, etwas zu tun","werden vorhaben, etwas zu tun"
+b1-1135,dutch,van plan zijn iets te doen,present,ben van plan iets te doen,bent van plan iets te doen,is van plan iets te doen,zijn van plan iets te doen,zijn van plan iets te doen,zijn van plan iets te doen
+b1-1135,dutch,van plan zijn iets te doen,present_progressive,-,-,-,-,-,-
+b1-1135,dutch,van plan zijn iets te doen,simple_past,was van plan iets te doen,was van plan iets te doen,was van plan iets te doen,waren van plan iets te doen,waren van plan iets te doen,waren van plan iets te doen
+b1-1135,dutch,van plan zijn iets te doen,past_progressive,-,-,-,-,-,-
+b1-1135,dutch,van plan zijn iets te doen,present_perfect,ben van plan geweest iets te doen,bent van plan geweest iets te doen,is van plan geweest iets te doen,zijn van plan geweest iets te doen,zijn van plan geweest iets te doen,zijn van plan geweest iets te doen
+b1-1135,dutch,van plan zijn iets te doen,past_perfect,was van plan geweest iets te doen,was van plan geweest iets te doen,was van plan geweest iets te doen,waren van plan geweest iets te doen,waren van plan geweest iets te doen,waren van plan geweest iets te doen
+b1-1135,dutch,van plan zijn iets te doen,future,zal van plan zijn iets te doen,zult van plan zijn iets te doen,zal van plan zijn iets te doen,zullen van plan zijn iets te doen,zullen van plan zijn iets te doen,zullen van plan zijn iets te doen
 b1-1135,persian,قصد انجام کاری را داشتن,present,قصد انجام کاری را دارم,قصد انجام کاری را داری,قصد انجام کاری را دارد,قصد انجام کاری را داریم,قصد انجام کاری را دارید,قصد انجام کاری را دارند
 b1-1135,persian,قصد انجام کاری را داشتن,present_progressive,-,-,-,-,-,-
 b1-1135,persian,قصد انجام کاری را داشتن,simple_past,قصد انجام کاری را داشتم,قصد انجام کاری را داشتی,قصد انجام کاری را داشت,قصد انجام کاری را داشتیم,قصد انجام کاری را داشتید,قصد انجام کاری را داشتند
@@ -23219,6 +23287,18 @@ b1-1183,english,keep in touch,past_progressive,was keeping in touch,were keeping
 b1-1183,english,keep in touch,present_perfect,have kept in touch,have kept in touch,has kept in touch,have kept in touch,have kept in touch,have kept in touch
 b1-1183,english,keep in touch,past_perfect,had kept in touch,had kept in touch,had kept in touch,had kept in touch,had kept in touch,had kept in touch
 b1-1183,english,keep in touch,future,will keep in touch,will keep in touch,will keep in touch,will keep in touch,will keep in touch,will keep in touch
+b1-1183,german,in Kontakt bleiben,present,bleibe in Kontakt,bleibst in Kontakt,bleibt in Kontakt,bleiben in Kontakt,bleibt in Kontakt,bleiben in Kontakt
+b1-1183,german,in Kontakt bleiben,simple_past,blieb in Kontakt,bliebst in Kontakt,blieb in Kontakt,blieben in Kontakt,bliebt in Kontakt,blieben in Kontakt
+b1-1183,german,in Kontakt bleiben,present_perfect,bin in Kontakt geblieben,bist in Kontakt geblieben,ist in Kontakt geblieben,sind in Kontakt geblieben,seid in Kontakt geblieben,sind in Kontakt geblieben
+b1-1183,german,in Kontakt bleiben,past_perfect,war in Kontakt geblieben,warst in Kontakt geblieben,war in Kontakt geblieben,waren in Kontakt geblieben,wart in Kontakt geblieben,waren in Kontakt geblieben
+b1-1183,german,in Kontakt bleiben,future,werde in Kontakt bleiben,wirst in Kontakt bleiben,wird in Kontakt bleiben,werden in Kontakt bleiben,werdet in Kontakt bleiben,werden in Kontakt bleiben
+b1-1183,dutch,contact houden,present,houd contact,houdt contact,houdt contact,houden contact,houden contact,houden contact
+b1-1183,dutch,contact houden,present_progressive,-,-,-,-,-,-
+b1-1183,dutch,contact houden,simple_past,hield contact,hield contact,hield contact,hielden contact,hielden contact,hielden contact
+b1-1183,dutch,contact houden,past_progressive,-,-,-,-,-,-
+b1-1183,dutch,contact houden,present_perfect,heb contact gehouden,hebt contact gehouden,heeft contact gehouden,hebben contact gehouden,hebben contact gehouden,hebben contact gehouden
+b1-1183,dutch,contact houden,past_perfect,had contact gehouden,had contact gehouden,had contact gehouden,hadden contact gehouden,hadden contact gehouden,hadden contact gehouden
+b1-1183,dutch,contact houden,future,zal contact houden,zult contact houden,zal contact houden,zullen contact houden,zullen contact houden,zullen contact houden
 b1-1183,persian,در تماس ماندن,present,در تماس می‌مانم,در تماس می‌مانی,در تماس می‌ماند,در تماس می‌مانیم,در تماس می‌مانید,در تماس می‌مانند
 b1-1183,persian,در تماس ماندن,present_progressive,دارم در تماس می‌مانم,داری در تماس می‌مانی,دارد در تماس می‌ماند,داریم در تماس می‌مانیم,دارید در تماس می‌مانید,دارند در تماس می‌مانند
 b1-1183,persian,در تماس ماندن,simple_past,در تماس ماندم,در تماس ماندی,در تماس ماند,در تماس ماندیم,در تماس ماندید,در تماس ماندند
@@ -23696,14 +23776,6 @@ b1-1268,persian,از کوره در رفتن,past_progressive,داشتم از ک�
 b1-1268,persian,از کوره در رفتن,present_perfect,از کوره در رفته‌ام,از کوره در رفته‌ای,از کوره در رفته است,از کوره در رفته‌ایم,از کوره در رفته‌اید,از کوره در رفته‌اند
 b1-1268,persian,از کوره در رفتن,past_perfect,از کوره در رفته بودم,از کوره در رفته بودی,از کوره در رفته بود,از کوره در رفته بودیم,از کوره در رفته بودید,از کوره در رفته بودند
 b1-1268,persian,از کوره در رفتن,future,از کوره در خواهم رفت,از کوره در خواهی رفت,از کوره در خواهد رفت,از کوره در خواهیم رفت,از کوره در خواهید رفت,از کوره در خواهند رفت
-b1-1269,persian,از کوره در رفتن,present,از کوره در می‌روم,از کوره در می‌روی,از کوره در می‌رود,از کوره در می‌رویم,از کوره در می‌روید,از کوره در می‌روند
-b1-1269,persian,از کوره در رفتن,present_progressive,دارم از کوره در می‌روم,داری از کوره در می‌روی,دارد از کوره در می‌رود,داریم از کوره در می‌رویم,دارید از کوره در می‌روید,دارند از کوره در می‌روند
-b1-1269,persian,از کوره در رفتن,simple_past,از کوره در رفتم,از کوره در رفتی,از کوره در رفت,از کوره در رفتیم,از کوره در رفتید,از کوره در رفتند
-b1-1269,persian,از کوره در رفتن,past_imperfect,از کوره در می‌رفتم,از کوره در می‌رفتی,از کوره در می‌رفت,از کوره در می‌رفتیم,از کوره در می‌رفتید,از کوره در می‌رفتند
-b1-1269,persian,از کوره در رفتن,past_progressive,داشتم از کوره در می‌رفتم,داشتی از کوره در می‌رفتی,داشت از کوره در می‌رفت,داشتیم از کوره در می‌رفتیم,داشتید از کوره در می‌رفتید,داشتند از کوره در می‌رفتند
-b1-1269,persian,از کوره در رفتن,present_perfect,از کوره در رفته‌ام,از کوره در رفته‌ای,از کوره در رفته است,از کوره در رفته‌ایم,از کوره در رفته‌اید,از کوره در رفته‌اند
-b1-1269,persian,از کوره در رفتن,past_perfect,از کوره در رفته بودم,از کوره در رفته بودی,از کوره در رفته بود,از کوره در رفته بودیم,از کوره در رفته بودید,از کوره در رفته بودند
-b1-1269,persian,از کوره در رفتن,future,از کوره در خواهم رفت,از کوره در خواهی رفت,از کوره در خواهد رفت,از کوره در خواهیم رفت,از کوره در خواهید رفت,از کوره در خواهند رفت
 b1-1278,english,mail,present,mail,mail,mails,mail,mail,mail
 b1-1278,english,mail,present_progressive,am mailing,are mailing,is mailing,are mailing,are mailing,are mailing
 b1-1278,english,mail,simple_past,mailed,mailed,mailed,mailed,mailed,mailed
@@ -48924,11 +48996,11 @@ c2-0440,english,parent,past_progressive,was parenting,were parenting,was parenti
 c2-0440,english,parent,present_perfect,have parented,have parented,has parented,have parented,have parented,have parented
 c2-0440,english,parent,past_perfect,had parented,had parented,had parented,had parented,had parented,had parented
 c2-0440,english,parent,future,will parent,will parent,will parent,will parent,will parent,will parent
-c2-0440,german,Eltern sein,present,bin Eltern,bist Eltern,ist Eltern,sind Eltern,seid Eltern,sind Eltern
-c2-0440,german,Eltern sein,simple_past,war Eltern,warst Eltern,war Eltern,waren Eltern,wart Eltern,waren Eltern
-c2-0440,german,Eltern sein,present_perfect,bin Eltern gewesen,bist Eltern gewesen,ist Eltern gewesen,sind Eltern gewesen,seid Eltern gewesen,sind Eltern gewesen
-c2-0440,german,Eltern sein,past_perfect,war Eltern gewesen,warst Eltern gewesen,war Eltern gewesen,waren Eltern gewesen,wart Eltern gewesen,waren Eltern gewesen
-c2-0440,german,Eltern sein,future,werde Eltern sein,wirst Eltern sein,wird Eltern sein,werden Eltern sein,werdet Eltern sein,werden Eltern sein
+c2-0440,german,erziehen,present,erziehe,erziehst,erzieht,erziehen,erzieht,erziehen
+c2-0440,german,erziehen,simple_past,erzog,erzogst,erzog,erzogen,erzogt,erzogen
+c2-0440,german,erziehen,present_perfect,habe erzogen,hast erzogen,hat erzogen,haben erzogen,habt erzogen,haben erzogen
+c2-0440,german,erziehen,past_perfect,hatte erzogen,hattest erzogen,hatte erzogen,hatten erzogen,hattet erzogen,hatten erzogen
+c2-0440,german,erziehen,future,werde erziehen,wirst erziehen,wird erziehen,werden erziehen,werdet erziehen,werden erziehen
 c2-0440,dutch,ouder zijn,present,ben ouder,bent ouder,is ouder,zijn ouder,zijn ouder,zijn ouder
 c2-0440,dutch,ouder zijn,present_progressive,-,-,-,-,-,-
 c2-0440,dutch,ouder zijn,simple_past,was ouder,was ouder,was ouder,waren ouder,waren ouder,waren ouder
