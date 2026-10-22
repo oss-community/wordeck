@@ -127,7 +127,6 @@ a1-0125,A1,medium,belt,belts,noun,,,,,der Gürtel,Gürtel,noun,,,,,,de riem,riem
 a1-0126,A1,easy,between,,prep,,,,,zwischen,,prep,,,,,,tussen,,prep,,,,,,بین,,prep,,,,,
 a1-0127,A1,medium,beverage,beverages,noun,,,,,das Getränk,Getränke,noun,,,,,,de drank,dranken,noun,,,,,,نوشیدنی,نوشیدنی‌ها,noun,,,,,
 a1-0128,A1,medium,bicycle,bicycles,noun,,,,,das Fahrrad,Fahrräder,noun,,,,,,de fiets,fietsen,noun,,,,,,دوچرخه,دوچرخه‌ها,noun,,,,,
-a1-0129,A1,advanced,bicycle,bicycles,noun,,,,,das Velo,Velos,noun,,,,,,de fiets,fietsen,noun,,,,,,دوچرخه,دوچرخه‌ها,noun,,,,,
 a1-0130,A1,easy,big,,adj,,,bigger,biggest,groß,,adj,,,,größer,am größten,groot,,adj,,,,groter,grootst,بزرگ,,adj,,,,بزرگ‌تر,بزرگ‌ترین
 a1-0131,A1,easy,bike,bikes,noun,,,,,das Fahrrad,Fahrräder,noun,,,,,,de fiets,fietsen,noun,,,,,,دوچرخه,دوچرخه‌ها,noun,,,,,
 a1-0132,A1,medium,bill,bills,noun,,,,,die Rechnung,Rechnungen,noun,,,,,,de rekening,rekeningen,noun,,,,,,صورت‌حساب,صورت‌حساب‌ها,noun,,,,,
@@ -560,7 +559,6 @@ a1-0560,A1,easy,have a shower,,verb,had a shower,had a shower,,,duschen,,verb,du
 a1-0561,A1,medium,have fun,,phrase,,,,,viel Spaß,,phrase,,,,,,veel plezier,,phrase,,,,,,خوش بگذرد,,phrase,,,,,
 a1-0562,A1,advanced,have with you,,verb,had with you,had with you,,,dabeihaben,,verb,hatte dabei,dabeigehabt,haben,,,bij zich hebben,,verb,had bij zich,bij zich gehad,hebben,,,چیزی همراه خود داشتن,,verb,چیزی همراه خود داشت,چیزی همراه خود دار,چیزی همراه خود داشته,,
 a1-0563,A1,medium,have breakfast,,verb,had breakfast,had breakfast,,,frühstücken,,verb,frühstückte,gefrühstückt,haben,,,ontbijten,,verb,ontbeet,ontbeten,hebben,,,صبحانه خوردن,,verb,صبحانه خورد,صبحانه خور,صبحانه خورده,,
-a1-0564,A1,advanced,head,heads,noun,,,,,das Haupt,Häupter,noun,,,,,,het hoofd,hoofden,noun,,,,,,سر,سرها,noun,,,,,
 a1-0565,A1,easy,head,heads,noun,,,,,der Kopf,Köpfe,noun,,,,,,het hoofd,hoofden,noun,,,,,,سر,سرها,noun,,,,,
 a1-0566,A1,advanced,headline,headlines,noun,,,,,die Überschrift,Überschriften,noun,,,,,,de kop,koppen,noun,,,,,,تیتر خبر,تیترهای خبر,noun,,,,,
 a1-0567,A1,medium,health,-,noun,,,,,die Gesundheit,-,noun,,,,,,de gezondheid,-,noun,,,,,,سلامت,-,noun,,,,,
@@ -946,7 +944,6 @@ a1-0946,A1,medium,postal code,postal codes,noun,,,,,die Postleitzahl,Postleitzah
 a1-0947,A1,easy,postcard,postcards,noun,,,,,die Postkarte,Postkarten,noun,,,,,,de ansichtkaart,ansichtkaarten,noun,,,,,,کارت پستال,کارت پستال‌ها,noun,,,,,
 a1-0948,A1,medium,poster,posters,noun,,,,,das Plakat,Plakate,noun,,,,,,de poster,posters,noun,,,,,,پوستر,پوسترها,noun,,,,,
 a1-0949,A1,easy,pot,pots,noun,,,,,der Topf,Töpfe,noun,,,,,,de pan,pannen,noun,,,,,,قابلمه,قابلمه‌ها,noun,,,,,
-a1-0950,A1,advanced,potato,potatoes,noun,,,,,der Erdapfel,Erdäpfel,noun,,,,,,de aardappel,aardappelen,noun,,,,,,سیب‌زمینی,سیب‌زمینی‌ها,noun,,,,,
 a1-0951,A1,easy,potato,potatoes,noun,,,,,die Kartoffel,Kartoffeln,noun,,,,,,de aardappel,aardappelen,noun,,,,,,سیب‌زمینی,سیب‌زمینی‌ها,noun,,,,,
 a1-0952,A1,easy,pound,pounds,noun,,,,,das Pfund,Pfund,noun,,,,,,het pond,ponden,noun,,,,,,پوند,پوندها,noun,,,,,
 a1-0953,A1,advanced,fill,,verb,filled,filled,,,einfüllen,,verb,füllte ein,eingefüllt,haben,,,vullen,,verb,vulde,gevuld,hebben,,,پر کردن,,verb,پر کرد,پر کن,پر کرده,,
@@ -1030,7 +1027,6 @@ a1-1030,A1,medium,roast,roasts,noun,,,,,der Braten,Braten,noun,,,,,,het gebraad,
 a1-1031,A1,advanced,fried potatoes,-,noun,,,,,die Bratkartoffeln,-,noun,,,,,,de gebakken aardappels,-,noun,,,,,,سیب‌زمینی تفت‌داده,-,noun,,,,,
 a1-1032,A1,easy,rock music,-,noun,,,,,die Rockmusik,-,noun,,,,,,de rockmuziek,-,noun,,,,,,موسیقی راک,-,noun,,,,,
 a1-1033,A1,easy,role,roles,noun,,,,,die Rolle,Rollen,noun,,,,,,de rol,rollen,noun,,,,,,نقش,نقش‌ها,noun,,,,,
-a1-1034,A1,advanced,roll,rolls,noun,,,,,die Semmel,Semmeln,noun,,,,,,het broodje,broodjes,noun,,,,,,نان ساندویچی,نان‌های ساندویچی,noun,,,,,
 a1-1035,A1,easy,room,rooms,noun,,,,,das Zimmer,Zimmer,noun,,,,,,de kamer,kamers,noun,,,,,,اتاق,اتاق‌ها,noun,,,,,
 a1-1036,A1,medium,roommate,roommates,noun,,,,,der Mitbewohner,Mitbewohner,noun,,,,,,de huisgenoot,huisgenoten,noun,,,,,,هم‌خانه,هم‌خانه‌ها,noun,,,,,
 a1-1037,A1,medium,roommate,roommates,noun,,,,,die Mitbewohnerin,Mitbewohnerinnen,noun,,,,,,de huisgenote,huisgenotes,noun,,,,,,هم‌خانه,هم‌خانه‌ها,noun,,,,,
@@ -1261,7 +1257,6 @@ a1-1261,A1,medium,go on vacation (by car),,verb,went on vacation,gone on vacatio
 a1-1262,A1,easy,today,,adv,,,,,heute,,adv,,,,,,vandaag,,adv,,,,,,امروز,,adv,,,,,
 a1-1263,A1,easy,together,,adv,,,,,zusammen,,adv,,,,,,samen,,adv,,,,,,با هم,,adv,,,,,
 a1-1264,A1,easy,toilet,toilets,noun,,,,,die Toilette,Toiletten,noun,,,,,,het toilet,toiletten,noun,,,,,,توالت,توالت‌ها,noun,,,,,
-a1-1265,A1,advanced,tomato,tomatoes,noun,,,,,der Paradeiser,Paradeiser,noun,,,,,,de tomaat,tomaten,noun,,,,,,گوجه‌فرنگی,گوجه‌فرنگی‌ها,noun,,,,,
 a1-1266,A1,easy,tomato,tomatoes,noun,,,,,die Tomate,Tomaten,noun,,,,,,de tomaat,tomaten,noun,,,,,,گوجه‌فرنگی,گوجه‌فرنگی‌ها,noun,,,,,
 a1-1267,A1,easy,tomorrow,,adv,,,,,morgen,,adv,,,,,,morgen,,adv,,,,,,فردا,,adv,,,,,
 a1-1268,A1,easy,tooth,teeth,noun,,,,,der Zahn,Zähne,noun,,,,,,de tand,tanden,noun,,,,,,دندان,دندان‌ها,noun,,,,,
@@ -2227,7 +2222,6 @@ a2-0824,A2,medium,helpful,,adj,,,more helpful,most helpful,hilfsbereit,,adj,,,,h
 a2-0825,A2,medium,hide,,verb,hid,hidden,,,verstecken,,verb,versteckte,versteckt,haben,,,verstoppen,,verb,verstopte,verstopt,hebben,,,پنهان کردن,,verb,پنهان کرد,پنهان کن,پنهان کرده,,
 a2-0826,A2,advanced,hideous,,adj,,,more hideous,most hideous,scheußlich,,adj,,,,scheußlicher,am scheußlichsten,afschuwelijk,,adj,,,,afschuwelijker,afschuwelijkst,زشت، افتضاح,,adj,,,,زشت‌تر، افتضاح‌تر,زشت‌ترین، افتضاح‌ترین
 a2-0827,A2,advanced,high school,high schools,noun,,,,,das Gymnasium,Gymnasien,noun,,,,,,het gymnasium,gymnasia,noun,,,,,,دبیرستان,دبیرستان‌ها,noun,,,,,
-a2-0828,A2,medium,high school diploma,high school diplomas,noun,,,,,das Abi,Abis,noun,,,,,,het eindexamendiploma,eindexamendiploma's,noun,,,,,,دیپلم دبیرستان,دیپلم‌های دبیرستان,noun,,,,,
 a2-0829,A2,advanced,high school diploma,high school diplomas,noun,,,,,das Abitur,-,noun,,,,,,het vwo-diploma,vwo-diploma's,noun,,,,,,دیپلم دبیرستان,دیپلم‌های دبیرستان,noun,,,,,
 a2-0830,A2,easy,high-rise building,high-rise buildings,noun,,,,,das Hochhaus,Hochhäuser,noun,,,,,,de torenflat,torenflats,noun,,,,,,ساختمان بلند,ساختمان‌های بلند,noun,,,,,
 a2-0831,A2,medium,highlight,highlights,noun,,,,,der Höhepunkt,Höhepunkte,noun,,,,,,het hoogtepunt,hoogtepunten,noun,,,,,,اوج، نقطهٔ اوج,اوج‌ها، نقطه‌های اوج,noun,,,,,
@@ -4283,7 +4277,6 @@ b1-1013,B1,medium,heroine,heroines,noun,,,,,die Heldin,Heldinnen,noun,,,,,,de he
 b1-1014,B1,advanced,heyday,-,noun,,,,,die Blütezeit,Blütezeiten,noun,,,,,,de bloeitijd,bloeitijden,noun,,,,,,دوران شکوفایی,-,noun,,,,,
 b1-1015,B1,medium,hide,,verb,hid,hidden,,,verbergen,,verb,verbarg,verborgen,haben,,,verbergen,,verb,verborg,verborgen,hebben,,,پنهان کردن,,verb,پنهان کرد,پنهان کن,پنهان کرده,,
 b1-1016,B1,easy,high school,high schools,noun,,,,,die Highschool,Highschools,noun,,,,,,de middelbare school,middelbare scholen,noun,,,,,,دبیرستان,دبیرستان‌ها,noun,,,,,
-b1-1017,B1,advanced,high school diploma,high school diplomas,noun,,,,,die Matura,-,noun,,,,,,het eindexamendiploma,eindexamendiploma's,noun,,,,,,دیپلم دبیرستان,دیپلم‌های دبیرستان,noun,,,,,
 b1-1018,B1,medium,hike,hikes,noun,,,,,die Wanderung,Wanderungen,noun,,,,,,de wandeltocht,wandeltochten,noun,,,,,,پیاده‌روی,پیاده‌روی‌ها,noun,,,,,
 b1-1019,B1,medium,Hindu,,adj,,,-,-,hinduistisch,,adj,,,,-,-,hindoeïstisch,,adj,,,,-,-,هندو,,adj,,,,-,-
 b1-1020,B1,medium,Hindu,Hindus,noun,,,,,der Hindu,Hindus,noun,,,,,,de hindoe,hindoes,noun,,,,,,هندو,هندوها,noun,,,,,
@@ -5015,7 +5008,6 @@ b1-1755,B1,advanced,remarkable,,adj,,,more remarkable,most remarkable,bemerkensw
 b1-1756,B1,advanced,remember,,verb,remembered,remembered,,,sich erinnern,,verb,erinnerte sich,erinnert,haben,,,zich herinneren,,verb,herinnerde zich,herinnerd,hebben,,,به یاد آوردن,,verb,به یاد آورد,به یاد آور,به یاد آورده,,
 b1-1757,B1,medium,remove,,verb,removed,removed,,,entfernen,,verb,entfernte,entfernt,haben,,,verwijderen,,verb,verwijderde,verwijderd,hebben,,,پاک کردن، برطرف کردن,,verb,پاک کرد، برطرف کرد,پاک کن، برطرف کن,پاک کرده، برطرف کرده,,
 b1-1758,B1,medium,renewable,,adj,,,-,-,erneuerbar,,adj,,,,-,-,hernieuwbaar,,adj,,,,-,-,تجدیدپذیر,,adj,,,,-,-
-b1-1759,B1,advanced,renovation,renovations,noun,,,,,die Renovation,Renovationen,noun,,,,,,de renovatie,renovaties,noun,,,,,,نوسازی,نوسازی‌ها,noun,,,,,
 b1-1760,B1,medium,renovation,renovations,noun,,,,,die Renovierung,Renovierungen,noun,,,,,,de renovatie,renovaties,noun,,,,,,نوسازی,نوسازی‌ها,noun,,,,,
 b1-1761,B1,advanced,renowned,,adj,,,more renowned,most renowned,renommiert,,adj,,,,renommierter,am renommiertesten,gerenommeerd,,adj,,,,gerenommeerder,meest gerenommeerd,مشهور,,adj,,,,مشهورتر,مشهورترین
 b1-1762,B1,medium,repetition,repetitions,noun,,,,,die Wiederholung,Wiederholungen,noun,,,,,,de herhaling,herhalingen,noun,,,,,,تکرار,تکرارها,noun,,,,,
